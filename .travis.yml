@@ -2,10 +2,8 @@ language: cpp
 
 os:
     - linux
-    - osx
 
 compiler:
-    - gcc
     - clang
 
 addons:
@@ -22,12 +20,13 @@ before_script:
   - mkdir build
   - cd build
   - cmake ..
+  - make -j
+  - sudo make install
 
 script:
-  - make -j4
-  - ctest --verbose
-
-notifications:
-  email:
-    on_success: never
-    on_failure: always
+  - cd ..
+  - wget https://fritz.freiburg.de/csv_Downloads/VAGFR.zip && unzip VAGFR.zip
+  - wget http://download.geofabrik.de/europe/germany/baden-wuerttemberg/freiburg-regbez-latest.osm.bz2 && bunzip2 freiburg-regbez-latest.osm.bz2
+  - pfaedle -D -x freiburg-regbez-latest.osm .
+  - cd gtfs-out
+  - cat shapes.txt
