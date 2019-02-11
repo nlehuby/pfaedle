@@ -14,13 +14,16 @@ addons:
       - cmake
 
 before_install:
+  - sudo apt-get install gcc-4.9 g++-4.9
+  - sudo update-alternatives --install /usr/bin/gcc gcc /usr/bin/gcc-4.9 60 --slave /usr/bin/g++ g++ /usr/bin/g++-4.9
   - export LD_LIBRARY_PATH=$(if [[ $CXX == "clang++" ]]; then echo -n '/usr/local/clang/lib'; fi)
+  - gcc --version
+
 
 before_script:
   - mkdir build
   - cd build
   - cmake ..
-  - make -j
   - sudo make install
 
 script:
