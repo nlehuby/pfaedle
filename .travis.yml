@@ -30,6 +30,10 @@ script:
   - cd ..
   - wget https://fritz.freiburg.de/csv_Downloads/VAGFR.zip && unzip VAGFR.zip
   - wget http://download.geofabrik.de/europe/germany/baden-wuerttemberg/freiburg-regbez-latest.osm.bz2 && bunzip2 freiburg-regbez-latest.osm.bz2
-  - pfaedle -D -x freiburg-regbez-latest.osm .
-  - cd gtfs-out
-  - cat shapes.txt
+  - pfaedle -D -x freiburg-regbez-latest.osm . -T 1051.T0.11-5-I-z18-1.42.H
+  - head trips.txt
+  - head shapes.txt
+  - cat path.json   
+  #- cd gtfs-out
+  #- head trips.txt
+  #- head shapes.txt
