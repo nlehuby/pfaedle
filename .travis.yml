@@ -28,12 +28,12 @@ before_script:
 
 script:
   - cd ..
-  - wget https://fritz.freiburg.de/csv_Downloads/VAGFR.zip && unzip VAGFR.zip
-  - wget http://download.geofabrik.de/europe/germany/baden-wuerttemberg/freiburg-regbez-latest.osm.bz2 && bunzip2 freiburg-regbez-latest.osm.bz2
-  - pfaedle -D -x freiburg-regbez-latest.osm . -T 1051.T0.11-5-I-z18-1.42.H
+  - wget https://navitia.opendatasoft.com/api/datasets/1.0/fr-se/images/c03c73c61b8acd6110df178f822c1148 --output-document=gtfs.zip && unzip gtfs.zip
+  - wget http://download.geofabrik.de/europe/france/provence-alpes-cote-d-azur-latest.osm.bz2 --output-document=data.osm.bz2 && bunzip2 data.osm.bz2
+  - pfaedle -D -x data.osm . -T 10582274
   - head trips.txt
-  - head shapes.txt
-  - cat path.json   
+  #- head shapes.txt
+  - cat path.json
   #- cd gtfs-out
   #- head trips.txt
   #- head shapes.txt
