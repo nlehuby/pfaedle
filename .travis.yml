@@ -28,9 +28,9 @@ before_script:
 
 script:
   - cd ..
-  - wget https://navitia.opendatasoft.com/api/datasets/1.0/fr-se/images/c03c73c61b8acd6110df178f822c1148 --output-document=gtfs.zip && unzip gtfs.zip
-  - wget http://download.geofabrik.de/europe/france/provence-alpes-cote-d-azur-latest.osm.bz2 --output-document=data.osm.bz2 && bunzip2 data.osm.bz2
-  - pfaedle -D -x data.osm . -T 10582274
+  - wget https://eu.ftp.opendatasoft.com/stif/GTFS/IDFM_gtfs.zip --output-document=gtfs.zip && unzip gtfs.zip
+  - wget http://download.geofabrik.de/europe/france/ile-de-france-latest.osm.bz2 --output-document=data.osm.bz2 && bunzip2 data.osm.bz2
+  - pfaedle -D -x data.osm . -T 105892741-1_138104
   - head trips.txt
   #- head shapes.txt
   - cat path.json
