@@ -30,10 +30,10 @@ script:
   - cd ..
   - wget https://eu.ftp.opendatasoft.com/stif/GTFS/IDFM_gtfs.zip --output-document=gtfs.zip && unzip gtfs.zip
   - wget http://download.geofabrik.de/europe/france/ile-de-france-latest.osm.bz2 --output-document=data.osm.bz2 && bunzip2 data.osm.bz2
-  - pfaedle -D -x data.osm . -T 105892741-1_138104
+  - pfaedle -D -x data.osm .
   - head trips.txt
   #- head shapes.txt
-  - cat path.json
-  #- cd gtfs-out
-  #- head trips.txt
-  #- head shapes.txt
+ # - cat path.json
+  - cd gtfs-out
+  - head trips.txt
+  - head shapes.txt
