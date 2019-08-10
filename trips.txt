@@ -1,1804 +1,332 @@
 route_id,service_id,trip_id,trip_headsign,trip_short_name,direction_id,block_id,shape_id,wheelchair_accessible,bikes_allowed
-067167002:A,12596,106241105-1_316903,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,12596,106241106-1_316904,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,12596,106241107-1_316905,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,12596,106241108-1_316906,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,12596,106241109-1_316907,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,12596,106241110-1_316908,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,12596,106241111-1_316909,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,12596,106241112-1_316910,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,12596,106241113-1_316911,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,12596,106241114-1_316912,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,12596,106241115-1_316913,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,12596,106241116-1_316914,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,12596,106241117-1_316915,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,12596,106241118-1_316916,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,12596,106241119-1_316917,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,12596,106241120-1_316918,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,12596,106241121-1_316919,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,12596,106241122-1_316920,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,12596,106241123-1_316921,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,12596,106241124-1_316922,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,12596,106241125-1_316923,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,12596,106241126-1_316924,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,12596,106241127-1_316925,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,12596,106241128-1_316926,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,12596,106241129-1_316927,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,12596,106241130-1_316928,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,12596,106241131-1_316929,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,12596,106241132-1_316930,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,12596,106241133-1_316931,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,12596,106241134-1_316932,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,12596,106241135-1_316933,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,12596,106241136-1_316934,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,12596,106241137-1_316935,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,12596,106241138-1_316936,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,12596,106241139-1_316937,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,12596,106241140-1_316938,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,12596,106241141-1_316939,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,12596,106241142-1_316940,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,12596,106241143-1_316941,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,12596,106241144-1_316942,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,12596,106241145-1_316943,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,12596,106241146-1_316944,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,12596,106241147-1_316945,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,12596,106241148-1_316946,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,12596,106241149-1_316947,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,12596,106241150-1_316948,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,12596,106241151-1_316949,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,12596,106241152-1_316950,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,12596,106241153-1_316951,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,12596,106241154-1_316952,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,12596,106241155-1_316953,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,12596,106241156-1_316954,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,12596,106241157-1_316955,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,12596,106241158-1_316956,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,12596,106241159-1_316957,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,12596,106241160-1_316958,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,12596,106241161-1_316959,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,12596,106241162-1_316960,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,12596,106241163-1_316961,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,12596,106241164-1_316962,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,12596,106241165-1_316963,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,12596,106241166-1_316964,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,12596,106241167-1_316965,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,12596,106241168-1_316966,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,12596,106241169-1_316967,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,12596,106241170-1_316968,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,12596,106241171-1_316969,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,12596,106241172-1_316970,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,12596,106241173-1_316971,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,12596,106241174-1_316972,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,12596,106241175-1_316973,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,12596,106241176-1_316974,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,12596,106241177-1_316975,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,12596,106241178-1_316976,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,12596,106241179-1_316977,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,12596,106241180-1_316978,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,12596,106241181-1_316979,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,12596,106241182-1_316980,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,12596,106241183-1_316981,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,12596,106241184-1_316982,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,12596,106241185-1_316983,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,12596,106241186-1_316984,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,12596,106241187-1_316985,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,12596,106241188-1_316986,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,12596,106241189-1_316987,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,12596,106241190-1_316988,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,12596,106241191-1_316989,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,12596,106241192-1_316990,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,12596,106241193-1_316991,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,12596,106241194-1_316992,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,12596,106241195-1_316993,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,12596,106241196-1_316994,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,12596,106241197-1_316995,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,12596,106241198-1_316996,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,12596,106241199-1_316997,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,12596,106241200-1_316998,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,12596,106241201-1_316999,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,12596,106241202-1_317000,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,12596,106241203-1_317001,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,12596,106241204-1_317002,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,12596,106241205-1_317003,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,12596,106241206-1_317004,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,12596,106241207-1_317005,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,12596,106241208-1_317006,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,12596,106241209-1_317007,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,12596,106241210-1_317008,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,12596,106241211-1_317009,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,12596,106241212-1_317010,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,12596,106241213-1_317011,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,12596,106241214-1_317012,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,12596,106241215-1_317013,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,12596,106241216-1_317014,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,12596,106241217-1_317015,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,12596,106241218-1_317016,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,12596,106241219-1_317017,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,12596,106241220-1_317018,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,12596,106241221-1_317019,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,12596,106241222-1_317020,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,12596,106241223-1_317021,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,12596,106241224-1_317022,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,12596,106241225-1_317023,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,12596,106241226-1_317024,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,12596,106241227-1_317025,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,12596,106241228-1_317026,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,12596,106241229-1_317027,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,12596,106241230-1_317028,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,12596,106241231-1_317029,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,12596,106241232-1_317030,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,12596,106241233-1_317031,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,12596,106241234-1_317032,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,12596,106241235-1_317033,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,12596,106241236-1_317034,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,12596,106241237-1_317035,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,12596,106241238-1_317036,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,12596,106241239-1_317037,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,12596,106241240-1_317038,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,12596,106241241-1_317039,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,12596,106241242-1_317040,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,12596,106241243-1_317041,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,12596,106241244-1_317042,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,12596,106241245-1_317043,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,12596,106241246-1_317044,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,12596,106241247-1_317045,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,12596,106241248-1_317046,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,12596,106241249-1_317047,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,12596,106241250-1_317048,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,12596,106241251-1_317049,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,12596,106241252-1_317050,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,12596,106241253-1_317231,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,12596,106241254-1_317232,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,12596,106241255-1_317233,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,12596,106241256-1_317234,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,12596,106241257-1_317235,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,12596,106241258-1_317236,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,12596,106241259-1_317237,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,12596,106241260-1_317238,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,12596,106241261-1_317239,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,12596,106241262-1_317240,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,12596,106241263-1_317241,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,12596,106241264-1_317242,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,12596,106241265-1_317243,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,12596,106241266-1_317244,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,12596,106241267-1_317245,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,12596,106241268-1_317246,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,12596,106241269-1_317247,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,12596,106241270-1_317248,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,12596,106241271-1_317249,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,12596,106241272-1_317250,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,12596,106241273-1_317251,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,12596,106241274-1_317252,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,12596,106241275-1_317253,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,12596,106241276-1_317254,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,12596,106241277-1_317255,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,12596,106241278-1_317256,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,12596,106241279-1_317257,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,12596,106241280-1_317258,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,12596,106241281-1_317259,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,12596,106241282-1_317260,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,12596,106241283-1_317261,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,12596,106241284-1_317262,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,12596,106241285-1_317263,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,12596,106241286-1_317264,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,12596,106241287-1_317265,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,12596,106241288-1_317266,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,12596,106241289-1_317267,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,12596,106241290-1_317268,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,12596,106241291-1_317269,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,12596,106241292-1_317270,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,12596,106241293-1_317271,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,12596,106241294-1_317272,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,12596,106241295-1_317273,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,12596,106241296-1_317274,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,12596,106241297-1_317275,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,12596,106241298-1_317276,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,12596,106241299-1_317277,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,12596,106241300-1_317278,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,12596,106241301-1_317279,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,12596,106241302-1_317280,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,12596,106241303-1_317281,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,12596,106241304-1_317282,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,12596,106241305-1_317283,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,12596,106241306-1_317284,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,12596,106241307-1_317285,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,12596,106241308-1_317286,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,12596,106241309-1_317287,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,12596,106241310-1_317288,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,12596,106241311-1_317289,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,12596,106241312-1_317290,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,12596,106241313-1_317291,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,12596,106241314-1_317292,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,12596,106241315-1_317293,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,12596,106241316-1_317294,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,12596,106241317-1_317295,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,12596,106241318-1_317296,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,12596,106241319-1_317297,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,12596,106241320-1_317298,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,12596,106241321-1_317299,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,12596,106241322-1_317300,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,12596,106241323-1_317301,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,12596,106241324-1_317302,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,12596,106241325-1_317303,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,12596,106241326-1_317304,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,12596,106241327-1_317305,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,12596,106241328-1_317306,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,12596,106241329-1_317307,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,12596,106241330-1_317308,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,12596,106241331-1_317309,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,12596,106241332-1_317310,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,12596,106241333-1_317311,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,12596,106241334-1_317312,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,12596,106241335-1_317313,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,12596,106241336-1_317314,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,12596,106241337-1_317315,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,12596,106241338-1_317316,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,12596,106241339-1_317317,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,12596,106241340-1_317318,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,12596,106241341-1_317319,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,12596,106241342-1_317320,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,12596,106241343-1_317321,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,12596,106241344-1_317322,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,12596,106241345-1_317323,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,12596,106241346-1_317324,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,12596,106241347-1_317325,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,12596,106241348-1_317326,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,12596,106241349-1_317327,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,12596,106241350-1_317328,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,12596,106241351-1_317329,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,12596,106241352-1_317330,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,12596,106241353-1_317331,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,12596,106241354-1_317332,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,12596,106241355-1_317333,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,12596,106241356-1_317334,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,12596,106241357-1_317335,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,12596,106241358-1_317336,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,12596,106241359-1_317337,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,12596,106241360-1_317338,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,12596,106241361-1_317339,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,12596,106241362-1_317340,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,12596,106241363-1_317341,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,12596,106241364-1_317342,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,12596,106241365-1_317343,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,12596,106241366-1_317344,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,12596,106241367-1_317345,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,12596,106241368-1_317346,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,12596,106241369-1_317347,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,12596,106241370-1_317348,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,12596,106241371-1_317349,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,12596,106241372-1_317350,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,12596,106241373-1_317351,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,12596,106241374-1_317352,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,12596,106241375-1_317353,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,12596,106241376-1_317354,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,12596,106241377-1_317355,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,12596,106241378-1_317356,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,12596,106241379-1_317357,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,12596,106241380-1_317358,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,12596,106241381-1_317359,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,12596,106241382-1_317360,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,12596,106241383-1_317361,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,12596,106241384-1_317362,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,12596,106241385-1_317363,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,12596,106241386-1_317364,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,12596,106241387-1_317365,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,12596,106241388-1_317366,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,12596,106241389-1_317367,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,12596,106241390-1_317368,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,12596,106241391-1_317369,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,12596,106241392-1_317370,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,12596,106241393-1_317371,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,12596,106241394-1_317372,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,12596,106241395-1_317373,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,12596,106241396-1_317374,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,12596,106241397-1_317375,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,12596,106241398-1_317376,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,12596,106241399-1_317377,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,12596,106241400-1_317378,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,12596,106241401-1_317379,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,12596,106241402-1_317380,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,12596,106241403-1_317381,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,7160,106241404-1_317051,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,7160,106241405-1_317052,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,7160,106241406-1_317053,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,7160,106241407-1_317054,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,7160,106241408-1_317055,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,7160,106241409-1_317056,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,7160,106241410-1_317057,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,7160,106241411-1_317058,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,7160,106241412-1_317059,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,7160,106241413-1_317060,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,7160,106241414-1_317061,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,7160,106241415-1_317062,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,7160,106241416-1_317063,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,7160,106241417-1_317064,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,7160,106241418-1_317065,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,7160,106241419-1_317066,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,7160,106241420-1_317067,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,7160,106241421-1_317068,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,7160,106241422-1_317069,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,7160,106241423-1_317070,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,7160,106241424-1_317071,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,7160,106241425-1_317072,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,7160,106241426-1_317073,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,7160,106241427-1_317074,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,7160,106241428-1_317075,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,7160,106241429-1_317076,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,7160,106241430-1_317077,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,7160,106241431-1_317078,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,7160,106241432-1_317079,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,7160,106241433-1_317080,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,7160,106241434-1_317081,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,7160,106241435-1_317082,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,7160,106241436-1_317083,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,7160,106241437-1_317084,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,7160,106241438-1_317085,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,7160,106241439-1_317086,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,7160,106241440-1_317087,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,7160,106241441-1_317088,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,7160,106241442-1_317089,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,7160,106241443-1_317090,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,7160,106241444-1_317091,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,7160,106241445-1_317092,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,7160,106241446-1_317093,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,7160,106241447-1_317094,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,7160,106241448-1_317095,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,7160,106241449-1_317096,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,7160,106241450-1_317097,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,7160,106241451-1_317098,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,7160,106241452-1_317099,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,7160,106241453-1_317100,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,7160,106241454-1_317101,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,7160,106241455-1_317102,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,7160,106241456-1_317103,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,7160,106241457-1_317104,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,7160,106241458-1_317105,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,7160,106241459-1_317106,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,7160,106241460-1_317107,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,7160,106241461-1_317108,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,7160,106241462-1_317109,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,7160,106241463-1_317110,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,7160,106241464-1_317111,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,7160,106241465-1_317112,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,7160,106241466-1_317113,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,7160,106241467-1_317114,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,7160,106241468-1_317115,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,7160,106241469-1_317116,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,7160,106241470-1_317117,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,7160,106241471-1_317118,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,7160,106241472-1_317119,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,7160,106241473-1_317120,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,7160,106241474-1_317121,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,7160,106241475-1_317122,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,7160,106241476-1_317123,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,7160,106241477-1_317124,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,7160,106241478-1_317125,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,7160,106241479-1_317126,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,7160,106241480-1_317127,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,7160,106241481-1_317128,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,7160,106241482-1_317129,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,7160,106241483-1_317130,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,7160,106241484-1_317131,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,7160,106241485-1_317132,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,7160,106241486-1_317133,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,7160,106241487-1_317134,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,7160,106241488-1_317135,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,7160,106241489-1_317136,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,7160,106241490-1_317137,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,7160,106241491-1_317138,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,7160,106241492-1_317139,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,7160,106241493-1_317140,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,7160,106241494-1_317141,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,7160,106241495-1_317142,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,7160,106241496-1_317143,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,7160,106241497-1_317144,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,7160,106241498-1_317145,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,7160,106241499-1_317146,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,7160,106241500-1_317147,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,7160,106241501-1_317148,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,7160,106241502-1_317149,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,7160,106241503-1_317150,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,7160,106241504-1_317151,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,7160,106241505-1_317152,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,7160,106241506-1_317153,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,7160,106241507-1_317154,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,7160,106241508-1_317382,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,7160,106241509-1_317383,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,7160,106241510-1_317384,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,7160,106241511-1_317385,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,7160,106241512-1_317386,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,7160,106241513-1_317387,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,7160,106241514-1_317388,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,7160,106241515-1_317389,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,7160,106241516-1_317390,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,7160,106241517-1_317391,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,7160,106241518-1_317392,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,7160,106241519-1_317393,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,7160,106241520-1_317394,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,7160,106241521-1_317395,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,7160,106241522-1_317396,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,7160,106241523-1_317397,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,7160,106241524-1_317398,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,7160,106241525-1_317399,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,7160,106241526-1_317400,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,7160,106241527-1_317401,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,7160,106241528-1_317402,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,7160,106241529-1_317403,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,7160,106241530-1_317404,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,7160,106241531-1_317405,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,7160,106241532-1_317406,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,7160,106241533-1_317407,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,7160,106241534-1_317408,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,7160,106241535-1_317409,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,7160,106241536-1_317410,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,7160,106241537-1_317411,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,7160,106241538-1_317412,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,7160,106241539-1_317413,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,7160,106241540-1_317414,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,7160,106241541-1_317415,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,7160,106241542-1_317416,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,7160,106241543-1_317417,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,7160,106241544-1_317418,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,7160,106241545-1_317419,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,7160,106241546-1_317420,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,7160,106241547-1_317421,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,7160,106241548-1_317422,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,7160,106241549-1_317423,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,7160,106241550-1_317424,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,7160,106241551-1_317425,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,7160,106241552-1_317426,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,7160,106241553-1_317427,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,7160,106241554-1_317428,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,7160,106241555-1_317429,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,7160,106241556-1_317430,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,7160,106241557-1_317431,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,7160,106241558-1_317432,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,7160,106241559-1_317433,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,7160,106241560-1_317434,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,7160,106241561-1_317435,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,7160,106241562-1_317436,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,7160,106241563-1_317437,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,7160,106241564-1_317438,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,7160,106241565-1_317439,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,7160,106241566-1_317440,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,7160,106241567-1_317441,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,7160,106241568-1_317442,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,7160,106241569-1_317443,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,7160,106241570-1_317444,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,7160,106241571-1_317445,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,7160,106241572-1_317446,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,7160,106241573-1_317447,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,7160,106241574-1_317448,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,7160,106241575-1_317449,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,7160,106241576-1_317450,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,7160,106241577-1_317451,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,7160,106241578-1_317452,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,7160,106241579-1_317453,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,7160,106241580-1_317454,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,7160,106241581-1_317455,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,7160,106241582-1_317456,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,7160,106241583-1_317457,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,7160,106241584-1_317458,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,7160,106241585-1_317459,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,7160,106241586-1_317460,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,7160,106241587-1_317461,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,7160,106241588-1_317462,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,7160,106241589-1_317463,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,7160,106241590-1_317464,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,7160,106241591-1_317465,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,7160,106241592-1_317466,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,7160,106241593-1_317467,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,7160,106241594-1_317468,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,7160,106241595-1_317469,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,7160,106241596-1_317470,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,7160,106241597-1_317471,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,7160,106241598-1_317472,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,7160,106241599-1_317473,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,7160,106241600-1_317474,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,7160,106241601-1_317475,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,7160,106241602-1_317476,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,7160,106241603-1_317477,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,7160,106241604-1_317478,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,7160,106241605-1_317479,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,7160,106241606-1_317480,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,7160,106241607-1_317481,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,7160,106241608-1_317482,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,7160,106241609-1_317483,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,7160,106241610-1_317484,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,7160,106241611-1_317485,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,8941,106241612-1_317155,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,8941,106241613-1_317156,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,8941,106241614-1_317157,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,8941,106241615-1_317158,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,8941,106241616-1_317159,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,8941,106241617-1_317160,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,8941,106241618-1_317161,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,8941,106241619-1_317162,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,8941,106241620-1_317163,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,8941,106241621-1_317164,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,8941,106241622-1_317165,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,8941,106241623-1_317166,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,8941,106241624-1_317167,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,8941,106241625-1_317168,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,8941,106241626-1_317169,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,8941,106241627-1_317170,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,8941,106241628-1_317171,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,8941,106241629-1_317172,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,8941,106241630-1_317173,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,8941,106241631-1_317174,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,8941,106241632-1_317175,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,8941,106241633-1_317176,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,8941,106241634-1_317177,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,8941,106241635-1_317178,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,8941,106241636-1_317179,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,8941,106241637-1_317180,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,8941,106241638-1_317181,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,8941,106241639-1_317182,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,8941,106241640-1_317183,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,8941,106241641-1_317184,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,8941,106241642-1_317185,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,8941,106241643-1_317186,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,8941,106241644-1_317187,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,8941,106241645-1_317188,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,8941,106241646-1_317189,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,8941,106241647-1_317190,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,8941,106241648-1_317191,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,8941,106241649-1_317192,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,8941,106241650-1_317193,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,8941,106241651-1_317194,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,8941,106241652-1_317195,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,8941,106241653-1_317196,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,8941,106241654-1_317197,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,8941,106241655-1_317198,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,8941,106241656-1_317199,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,8941,106241657-1_317200,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,8941,106241658-1_317201,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,8941,106241659-1_317202,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,8941,106241660-1_317203,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,8941,106241661-1_317204,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,8941,106241662-1_317205,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,8941,106241663-1_317206,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,8941,106241664-1_317207,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,8941,106241665-1_317208,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,8941,106241666-1_317209,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,8941,106241667-1_317210,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,8941,106241668-1_317211,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,8941,106241669-1_317212,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,8941,106241670-1_317213,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,8941,106241671-1_317214,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,8941,106241672-1_317215,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,8941,106241673-1_317216,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,8941,106241674-1_317217,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,8941,106241675-1_317218,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,8941,106241676-1_317219,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,8941,106241677-1_317220,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,8941,106241678-1_317221,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,8941,106241679-1_317222,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,8941,106241680-1_317223,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,8941,106241681-1_317224,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,8941,106241682-1_317225,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,8941,106241683-1_317226,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,8941,106241684-1_317227,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,8941,106241685-1_317228,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,8941,106241686-1_317229,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,8941,106241687-1_317230,Georges Claude Quai de dépose,,0,,shp_3_16,0,0
-067167002:A,8941,106241688-1_317486,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,8941,106241689-1_317487,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,8941,106241690-1_317488,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,8941,106241691-1_317489,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,8941,106241692-1_317490,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,8941,106241693-1_317491,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,8941,106241694-1_317492,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,8941,106241695-1_317493,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,8941,106241696-1_317494,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,8941,106241697-1_317495,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,8941,106241698-1_317496,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,8941,106241699-1_317497,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,8941,106241700-1_317498,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,8941,106241701-1_317499,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,8941,106241702-1_317500,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,8941,106241703-1_317501,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,8941,106241704-1_317502,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,8941,106241705-1_317503,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,8941,106241706-1_317504,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,8941,106241707-1_317505,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,8941,106241708-1_317506,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,8941,106241709-1_317507,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,8941,106241710-1_317508,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,8941,106241711-1_317509,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,8941,106241712-1_317510,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,8941,106241713-1_317511,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,8941,106241714-1_317512,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,8941,106241715-1_317513,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,8941,106241716-1_317514,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,8941,106241717-1_317515,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,8941,106241718-1_317516,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,8941,106241719-1_317517,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,8941,106241720-1_317518,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,8941,106241721-1_317519,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,8941,106241722-1_317520,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,8941,106241723-1_317521,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,8941,106241724-1_317522,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,8941,106241725-1_317523,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,8941,106241726-1_317524,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,8941,106241727-1_317525,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,8941,106241728-1_317526,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,8941,106241729-1_317527,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,8941,106241730-1_317528,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,8941,106241731-1_317529,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,8941,106241732-1_317530,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,8941,106241733-1_317531,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,8941,106241734-1_317532,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,8941,106241735-1_317533,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,8941,106241736-1_317534,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,8941,106241737-1_317535,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,8941,106241738-1_317536,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,8941,106241739-1_317537,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,8941,106241740-1_317538,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,8941,106241741-1_317539,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,8941,106241742-1_317540,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,8941,106241743-1_317541,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,8941,106241744-1_317542,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,8941,106241745-1_317543,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,8941,106241746-1_317544,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,8941,106241747-1_317545,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,8941,106241748-1_317546,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,8941,106241749-1_317547,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,8941,106241750-1_317548,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,8941,106241751-1_317549,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,8941,106241752-1_317550,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,8941,106241753-1_317551,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,8941,106241754-1_317552,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,8941,106241755-1_317553,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,8941,106241756-1_317554,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,8941,106241757-1_317555,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,8941,106241758-1_317556,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,8941,106241759-1_317557,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,8941,106241760-1_317558,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,8941,106241761-1_317559,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,8941,106241762-1_317560,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067167002:A,8941,106241763-1_317561,Gare de Meaux - Quai De dépose,,1,,shp_3_17,0,0
-067067003:F,7160,106241848-1_317935,Gare de Meaux - Quai De dépose,,0,,shp_3_7,0,0
-067067003:F,7160,106241849-1_317936,Gare de Meaux - Quai De dépose,,0,,shp_3_7,0,0
-067067003:F,7160,106241850-1_317937,Gare de Meaux - Quai De dépose,,0,,shp_3_7,0,0
-067067003:F,7160,106241851-1_317938,Gare de Meaux - Quai De dépose,,0,,shp_3_7,0,0
-067067003:F,7160,106241852-1_317939,Gare de Meaux - Quai De dépose,,0,,shp_3_7,0,0
-067067003:F,7160,106241853-1_317940,Gare de Meaux - Quai De dépose,,0,,shp_3_7,0,0
-067067003:F,7160,106241854-1_317941,Gare de Meaux - Quai De dépose,,0,,shp_3_7,0,0
-067067003:F,7160,106241855-1_317942,Gare de Meaux - Quai De dépose,,0,,shp_3_7,0,0
-067067003:F,7160,106241856-1_317943,Gare de Meaux - Quai De dépose,,0,,shp_3_7,0,0
-067067003:F,7160,106241857-1_317944,Gare de Meaux - Quai De dépose,,0,,shp_3_7,0,0
-067067003:F,7160,106241858-1_317945,Gare de Meaux - Quai De dépose,,0,,shp_3_7,0,0
-067067003:F,7160,106241859-1_317946,Gare de Meaux - Quai De dépose,,0,,shp_3_7,0,0
-067067003:F,7160,106241860-1_317947,Gare de Meaux - Quai De dépose,,0,,shp_3_7,0,0
-067067003:F,7160,106241861-1_317948,Gare de Meaux - Quai De dépose,,0,,shp_3_7,0,0
-067067003:F,7160,106241862-1_317949,Gare de Meaux - Quai De dépose,,0,,shp_3_7,0,0
-067067003:F,7160,106241863-1_317950,Gare de Meaux - Quai De dépose,,0,,shp_3_7,0,0
-067067003:F,7160,106241864-1_317951,Gare de Meaux - Quai De dépose,,0,,shp_3_7,0,0
-067067003:F,7160,106241865-1_317991,Les Bruyères,,1,,shp_3_26,0,0
-067067003:F,7160,106241866-1_317992,Les Bruyères,,1,,shp_3_26,0,0
-067067003:F,7160,106241867-1_317993,Les Bruyères,,1,,shp_3_26,0,0
-067067003:F,7160,106241868-1_317994,Les Bruyères,,1,,shp_3_26,0,0
-067067003:F,7160,106241869-1_317995,Les Bruyères,,1,,shp_3_26,0,0
-067067003:F,7160,106241870-1_317996,Les Bruyères,,1,,shp_3_26,0,0
-067067003:F,7160,106241871-1_317997,Les Bruyères,,1,,shp_3_26,0,0
-067067003:F,7160,106241872-1_317998,Les Bruyères,,1,,shp_3_26,0,0
-067067003:F,7160,106241873-1_317999,Les Bruyères,,1,,shp_3_26,0,0
-067067003:F,7160,106241874-1_318000,Les Bruyères,,1,,shp_3_26,0,0
-067067003:F,7160,106241875-1_318001,Les Bruyères,,1,,shp_3_26,0,0
-067067003:F,7160,106241876-1_318002,Les Bruyères,,1,,shp_3_26,0,0
-067067003:F,7160,106241877-1_318003,Les Bruyères,,1,,shp_3_26,0,0
-067067003:F,7160,106241878-1_318004,Les Bruyères,,1,,shp_3_26,0,0
-067067003:F,7160,106241879-1_318005,Les Bruyères,,1,,shp_3_26,0,0
-067067003:F,7160,106241880-1_318006,Les Bruyères,,1,,shp_3_26,0,0
-067067003:F,7160,106241881-1_318007,Les Bruyères,,1,,shp_3_26,0,0
-067067003:F,8942,106241882-1_317952,Gare de Meaux - Quai De dépose,,0,,shp_3_7,0,0
-067067003:F,8942,106241883-1_317953,Gare de Meaux - Quai De dépose,,0,,shp_3_7,0,0
-067067003:F,8942,106241884-1_317954,Gare de Meaux - Quai De dépose,,0,,shp_3_7,0,0
-067067003:F,8942,106241885-1_317955,Gare de Meaux - Quai De dépose,,0,,shp_3_7,0,0
-067067003:F,8942,106241886-1_317956,Gare de Meaux - Quai De dépose,,0,,shp_3_7,0,0
-067067003:F,8942,106241887-1_317957,Gare de Meaux - Quai De dépose,,0,,shp_3_7,0,0
-067067003:F,8942,106241888-1_317958,Gare de Meaux - Quai De dépose,,0,,shp_3_7,0,0
-067067003:F,8942,106241889-1_317959,Gare de Meaux - Quai De dépose,,0,,shp_3_7,0,0
-067067003:F,8942,106241890-1_317960,Gare de Meaux - Quai De dépose,,0,,shp_3_7,0,0
-067067003:F,8942,106241891-1_317961,Gare de Meaux - Quai De dépose,,0,,shp_3_7,0,0
-067067003:F,8942,106241892-1_317962,Gare de Meaux - Quai De dépose,,0,,shp_3_7,0,0
-067067003:F,8942,106241893-1_317963,Gare de Meaux - Quai De dépose,,0,,shp_3_7,0,0
-067067003:F,8942,106241894-1_317964,Gare de Meaux - Quai De dépose,,0,,shp_3_7,0,0
-067067003:F,8942,106241895-1_317965,Gare de Meaux - Quai De dépose,,0,,shp_3_7,0,0
-067067003:F,8942,106241896-1_317966,Gare de Meaux - Quai De dépose,,0,,shp_3_7,0,0
-067067003:F,8942,106241897-1_317967,Gare de Meaux - Quai De dépose,,0,,shp_3_7,0,0
-067067003:F,8942,106241898-1_318008,Les Bruyères,,1,,shp_3_26,0,0
-067067003:F,8942,106241899-1_318009,Les Bruyères,,1,,shp_3_26,0,0
-067067003:F,8942,106241900-1_318010,Les Bruyères,,1,,shp_3_26,0,0
-067067003:F,8942,106241901-1_318011,Les Bruyères,,1,,shp_3_26,0,0
-067067003:F,8942,106241902-1_318012,Les Bruyères,,1,,shp_3_26,0,0
-067067003:F,8942,106241903-1_318013,Les Bruyères,,1,,shp_3_26,0,0
-067067003:F,8942,106241904-1_318014,Les Bruyères,,1,,shp_3_26,0,0
-067067003:F,8942,106241905-1_318015,Les Bruyères,,1,,shp_3_26,0,0
-067067003:F,8942,106241906-1_318016,Les Bruyères,,1,,shp_3_26,0,0
-067067003:F,8942,106241907-1_318017,Les Bruyères,,1,,shp_3_26,0,0
-067067003:F,8942,106241908-1_318018,Les Bruyères,,1,,shp_3_26,0,0
-067067003:F,8942,106241909-1_318019,Les Bruyères,,1,,shp_3_26,0,0
-067067003:F,8942,106241910-1_318020,Les Bruyères,,1,,shp_3_26,0,0
-067067003:F,8942,106241911-1_318021,Les Bruyères,,1,,shp_3_26,0,0
-067067003:F,8942,106241912-1_318022,Les Bruyères,,1,,shp_3_26,0,0
-067167006:G,7160,106241958-1_317824,Musée de La Grande Guerre,,0,,shp_3_24,0,0
-067167006:G,7160,106241959-1_317825,Musée de La Grande Guerre,,0,,shp_3_24,0,0
-067167006:G,7160,106241960-1_317826,Musée de La Grande Guerre,,0,,shp_3_24,0,0
-067167006:G,7160,106241961-1_317827,Musée de La Grande Guerre,,0,,shp_3_24,0,0
-067167006:G,7160,106241962-1_317828,Musée de La Grande Guerre,,0,,shp_3_24,0,0
-067167006:G,7160,106241963-1_317829,Musée de La Grande Guerre,,0,,shp_3_24,0,0
-067167006:G,7160,106241964-1_317830,Musée de La Grande Guerre,,0,,shp_3_24,0,0
-067167006:G,7160,106241965-1_317831,Musée de La Grande Guerre,,0,,shp_3_24,0,0
-067167006:G,7160,106241966-1_317832,Musée de La Grande Guerre,,0,,shp_3_24,0,0
-067167006:G,7160,106241967-1_317833,Musée de La Grande Guerre,,0,,shp_3_24,0,0
-067167006:G,7160,106241968-1_317834,Musée de La Grande Guerre,,0,,shp_3_24,0,0
-067167006:G,7160,106241969-1_317835,Musée de La Grande Guerre,,0,,shp_3_24,0,0
-067167006:G,7160,106241970-1_317836,Musée de La Grande Guerre,,0,,shp_3_24,0,0
-067167006:G,7160,106241971-1_317837,Musée de La Grande Guerre,,0,,shp_3_24,0,0
-067167006:G,7160,106241972-1_317838,Musée de La Grande Guerre,,0,,shp_3_24,0,0
-067167006:G,7160,106241973-1_317839,Musée de La Grande Guerre,,0,,shp_3_24,0,0
-067167006:G,7160,106241974-1_317840,Musée de La Grande Guerre,,0,,shp_3_24,0,0
-067167006:G,7160,106241975-1_317841,Musée de La Grande Guerre,,0,,shp_3_24,0,0
-067167006:G,7160,106241976-1_317842,Musée de La Grande Guerre,,0,,shp_3_24,0,0
-067167006:G,7160,106241977-1_317843,Musée de La Grande Guerre,,0,,shp_3_24,0,0
-067167006:G,7160,106241978-1_317844,Musée de La Grande Guerre,,0,,shp_3_24,0,0
-067167006:G,7160,106241979-1_317845,Musée de La Grande Guerre,,0,,shp_3_24,0,0
-067167006:G,7160,106241980-1_317880,Gare de Meaux - Quai De dépose,,1,,shp_3_3,0,0
-067167006:G,7160,106241981-1_317881,Gare de Meaux - Quai De dépose,,1,,shp_3_3,0,0
-067167006:G,7160,106241982-1_317882,Gare de Meaux - Quai De dépose,,1,,shp_3_3,0,0
-067167006:G,7160,106241983-1_317883,Gare de Meaux - Quai De dépose,,1,,shp_3_3,0,0
-067167006:G,7160,106241984-1_317884,Gare de Meaux - Quai De dépose,,1,,shp_3_4,0,0
-067167006:G,7160,106241985-1_317885,Gare de Meaux - Quai De dépose,,1,,shp_3_4,0,0
-067167006:G,7160,106241986-1_317886,Gare de Meaux - Quai De dépose,,1,,shp_3_3,0,0
-067167006:G,7160,106241987-1_317887,Gare de Meaux - Quai De dépose,,1,,shp_3_3,0,0
-067167006:G,7160,106241988-1_317888,Gare de Meaux - Quai De dépose,,1,,shp_3_3,0,0
-067167006:G,7160,106241989-1_317889,Gare de Meaux - Quai De dépose,,1,,shp_3_3,0,0
-067167006:G,7160,106241990-1_317890,Gare de Meaux - Quai De dépose,,1,,shp_3_3,0,0
-067167006:G,7160,106241991-1_317891,Gare de Meaux - Quai De dépose,,1,,shp_3_3,0,0
-067167006:G,7160,106241992-1_317892,Gare de Meaux - Quai De dépose,,1,,shp_3_3,0,0
-067167006:G,7160,106241993-1_317893,Gare de Meaux - Quai De dépose,,1,,shp_3_3,0,0
-067167006:G,7160,106241994-1_317894,Gare de Meaux - Quai De dépose,,1,,shp_3_3,0,0
-067167006:G,7160,106241995-1_317895,Gare de Meaux - Quai De dépose,,1,,shp_3_3,0,0
-067167006:G,7160,106241996-1_317896,Gare de Meaux - Quai De dépose,,1,,shp_3_3,0,0
-067167006:G,7160,106241997-1_317897,Gare de Meaux - Quai De dépose,,1,,shp_3_3,0,0
-067167006:G,7160,106241998-1_317898,Gare de Meaux - Quai De dépose,,1,,shp_3_3,0,0
-067167006:G,7160,106241999-1_317899,Gare de Meaux - Quai De dépose,,1,,shp_3_3,0,0
-067167006:G,7160,106242000-1_317900,Gare de Meaux - Quai De dépose,,1,,shp_3_3,0,0
-067167006:G,7160,106242001-1_317901,Gare de Meaux - Quai De dépose,,1,,shp_3_3,0,0
-067167006:G,8942,106242002-1_317846,Musée de La Grande Guerre,,0,,shp_3_24,0,0
-067167006:G,8942,106242003-1_317847,Musée de La Grande Guerre,,0,,shp_3_24,0,0
-067167006:G,8942,106242004-1_317848,Musée de La Grande Guerre,,0,,shp_3_24,0,0
-067167006:G,8942,106242005-1_317849,Musée de La Grande Guerre,,0,,shp_3_24,0,0
-067167006:G,8942,106242006-1_317850,Musée de La Grande Guerre,,0,,shp_3_24,0,0
-067167006:G,8942,106242007-1_317851,Musée de La Grande Guerre,,0,,shp_3_24,0,0
-067167006:G,8942,106242008-1_317852,Musée de La Grande Guerre,,0,,shp_3_24,0,0
-067167006:G,8942,106242009-1_317853,Musée de La Grande Guerre,,0,,shp_3_24,0,0
-067167006:G,8942,106242010-1_317854,Musée de La Grande Guerre,,0,,shp_3_24,0,0
-067167006:G,8942,106242011-1_317855,Musée de La Grande Guerre,,0,,shp_3_24,0,0
-067167006:G,8942,106242012-1_317856,Musée de La Grande Guerre,,0,,shp_3_24,0,0
-067167006:G,8942,106242013-1_317857,Musée de La Grande Guerre,,0,,shp_3_24,0,0
-067167006:G,8942,106242014-1_317858,Musée de La Grande Guerre,,0,,shp_3_24,0,0
-067167006:G,8942,106242015-1_317859,Musée de La Grande Guerre,,0,,shp_3_24,0,0
-067167006:G,8942,106242016-1_317860,Musée de La Grande Guerre,,0,,shp_3_24,0,0
-067167006:G,8942,106242017-1_317861,Musée de La Grande Guerre,,0,,shp_3_24,0,0
-067167006:G,8942,106242018-1_317902,Gare de Meaux - Quai De dépose,,1,,shp_3_3,0,0
-067167006:G,8942,106242019-1_317903,Gare de Meaux - Quai De dépose,,1,,shp_3_3,0,0
-067167006:G,8942,106242020-1_317904,Gare de Meaux - Quai De dépose,,1,,shp_3_4,0,0
-067167006:G,8942,106242021-1_317905,Gare de Meaux - Quai De dépose,,1,,shp_3_3,0,0
-067167006:G,8942,106242022-1_317906,Gare de Meaux - Quai De dépose,,1,,shp_3_3,0,0
-067167006:G,8942,106242023-1_317907,Gare de Meaux - Quai De dépose,,1,,shp_3_3,0,0
-067167006:G,8942,106242024-1_317908,Gare de Meaux - Quai De dépose,,1,,shp_3_3,0,0
-067167006:G,8942,106242025-1_317909,Gare de Meaux - Quai De dépose,,1,,shp_3_3,0,0
-067167006:G,8942,106242026-1_317910,Gare de Meaux - Quai De dépose,,1,,shp_3_3,0,0
-067167006:G,8942,106242027-1_317911,Gare de Meaux - Quai De dépose,,1,,shp_3_3,0,0
-067167006:G,8942,106242028-1_317912,Gare de Meaux - Quai De dépose,,1,,shp_3_3,0,0
-067167006:G,8942,106242029-1_317913,Gare de Meaux - Quai De dépose,,1,,shp_3_3,0,0
-067167006:G,8942,106242030-1_317914,Gare de Meaux - Quai De dépose,,1,,shp_3_3,0,0
-067167006:G,8942,106242031-1_317915,Gare de Meaux - Quai De dépose,,1,,shp_3_3,0,0
-067167006:G,8942,106242032-1_317916,Gare de Meaux - Quai De dépose,,1,,shp_3_3,0,0
-067167006:G,8942,106242033-1_317917,Gare de Meaux - Quai De dépose,,1,,shp_3_3,0,0
-067167001:B,8941,106242292-1_316811,Georges Claude Quai de dépose,,1,,shp_3_11,0,0
-067167001:B,8941,106242293-1_316812,Georges Claude Quai de dépose,,1,,shp_3_11,0,0
-067167001:B,8941,106242294-1_316813,Georges Claude Quai de dépose,,1,,shp_3_11,0,0
-067167001:B,8941,106242295-1_316814,Georges Claude Quai de dépose,,1,,shp_3_11,0,0
-067167001:B,8941,106242296-1_316815,Georges Claude Quai de dépose,,1,,shp_3_11,0,0
-067167001:B,8941,106242297-1_316816,Georges Claude Quai de dépose,,1,,shp_3_11,0,0
-067167001:B,8941,106242298-1_316817,Georges Claude Quai de dépose,,1,,shp_3_11,0,0
-067167001:B,8941,106242299-1_316818,Georges Claude Quai de dépose,,1,,shp_3_11,0,0
-067167001:B,8941,106242300-1_316819,Georges Claude Quai de dépose,,1,,shp_3_11,0,0
-067167001:B,8941,106242301-1_316820,Georges Claude Quai de dépose,,1,,shp_3_11,0,0
-067167001:B,8941,106242302-1_316821,Georges Claude Quai de dépose,,1,,shp_3_11,0,0
-067167001:B,8941,106242303-1_316822,Georges Claude Quai de dépose,,1,,shp_3_11,0,0
-067167001:B,8941,106242304-1_316823,Georges Claude Quai de dépose,,1,,shp_3_11,0,0
-067167001:B,8941,106242305-1_316824,Georges Claude Quai de dépose,,1,,shp_3_11,0,0
-067167001:B,8941,106242306-1_316825,Georges Claude Quai de dépose,,1,,shp_3_11,0,0
-067167001:B,8941,106242307-1_316826,Georges Claude Quai de dépose,,1,,shp_3_11,0,0
-067167001:B,8941,106242308-1_316827,Georges Claude Quai de dépose,,1,,shp_3_11,0,0
-067167001:B,8941,106242309-1_316828,Georges Claude Quai de dépose,,1,,shp_3_11,0,0
-067167001:B,8941,106242310-1_316719,Gare de Meaux - Quai De dépose,,0,,shp_3_19,0,0
-067167001:B,8941,106242311-1_316720,Gare de Meaux - Quai De dépose,,0,,shp_3_19,0,0
-067167001:B,8941,106242312-1_316721,Gare de Meaux - Quai De dépose,,0,,shp_3_19,0,0
-067167001:B,8941,106242313-1_316722,Gare de Meaux - Quai De dépose,,0,,shp_3_19,0,0
-067167001:B,8941,106242314-1_316723,Gare de Meaux - Quai De dépose,,0,,shp_3_19,0,0
-067167001:B,8941,106242315-1_316724,Gare de Meaux - Quai De dépose,,0,,shp_3_19,0,0
-067167001:B,8941,106242316-1_316725,Gare de Meaux - Quai De dépose,,0,,shp_3_19,0,0
-067167001:B,8941,106242317-1_316726,Gare de Meaux - Quai De dépose,,0,,shp_3_19,0,0
-067167001:B,8941,106242318-1_316727,Gare de Meaux - Quai De dépose,,0,,shp_3_19,0,0
-067167001:B,8941,106242319-1_316728,Gare de Meaux - Quai De dépose,,0,,shp_3_19,0,0
-067167001:B,8941,106242320-1_316729,Gare de Meaux - Quai De dépose,,0,,shp_3_19,0,0
-067167001:B,8941,106242321-1_316730,Gare de Meaux - Quai De dépose,,0,,shp_3_19,0,0
-067167001:B,8941,106242322-1_316731,Gare de Meaux - Quai De dépose,,0,,shp_3_19,0,0
-067167001:B,8941,106242323-1_316732,Gare de Meaux - Quai De dépose,,0,,shp_3_19,0,0
-067167001:B,8941,106242324-1_316733,Gare de Meaux - Quai De dépose,,0,,shp_3_19,0,0
-067167001:B,8941,106242325-1_316734,Gare de Meaux - Quai De dépose,,0,,shp_3_19,0,0
-067167001:B,8941,106242326-1_316735,Gare de Meaux - Quai De dépose,,0,,shp_3_19,0,0
-067167001:B,8941,106242327-1_316736,Gare de Meaux - Quai De dépose,,0,,shp_3_19,0,0
-067167004:H,8942,106242418-1_316567,Gare de Meaux - Quai De dépose,,0,,shp_3_5,0,0
-067167004:H,8942,106242419-1_316568,Gare de Meaux - Quai De dépose,,0,,shp_3_5,0,0
-067167004:H,8942,106242420-1_316569,Gare de Meaux - Quai De dépose,,0,,shp_3_5,0,0
-067167004:H,8942,106242421-1_316570,Gare de Meaux - Quai De dépose,,0,,shp_3_5,0,0
-067167004:H,8942,106242422-1_316571,Gare de Meaux - Quai De dépose,,0,,shp_3_5,0,0
-067167004:H,8942,106242423-1_316572,Gare de Meaux - Quai De dépose,,0,,shp_3_5,0,0
-067167004:H,8942,106242424-1_316573,Gare de Meaux - Quai De dépose,,0,,shp_3_5,0,0
-067167004:H,8942,106242425-1_316574,Gare de Meaux - Quai De dépose,,0,,shp_3_5,0,0
-067167004:H,8942,106242426-1_316575,Gare de Meaux - Quai De dépose,,0,,shp_3_5,0,0
-067167004:H,8942,106242427-1_316576,Gare de Meaux - Quai De dépose,,0,,shp_3_5,0,0
-067167004:H,8942,106242428-1_316577,Gare de Meaux - Quai De dépose,,0,,shp_3_5,0,0
-067167004:H,8942,106242429-1_316578,Gare de Meaux - Quai De dépose,,0,,shp_3_5,0,0
-067167004:H,8942,106242430-1_316579,Gare de Meaux - Quai De dépose,,0,,shp_3_5,0,0
-067167004:H,8942,106242431-1_316580,Gare de Meaux - Quai De dépose,,0,,shp_3_5,0,0
-067167004:H,8942,106242432-1_316581,Gare de Meaux - Quai De dépose,,0,,shp_3_5,0,0
-067167004:H,8942,106242433-1_316582,Gare de Meaux - Quai De dépose,,0,,shp_3_5,0,0
-067167004:H,8942,106242434-1_316583,Gare de Meaux - Quai De dépose,,0,,shp_3_5,0,0
-067167004:H,8942,106242435-1_316584,Gare de Meaux - Quai De dépose,,0,,shp_3_5,0,0
-067167004:H,8942,106242436-1_316585,Gare de Meaux - Quai De dépose,,0,,shp_3_5,0,0
-067167004:H,8942,106242437-1_316586,Gare de Meaux - Quai De dépose,,0,,shp_3_5,0,0
-067167004:H,8942,106242438-1_316587,Gare de Meaux - Quai De dépose,,0,,shp_3_5,0,0
-067167004:H,8942,106242439-1_316588,Gare de Meaux - Quai De dépose,,0,,shp_3_5,0,0
-067167004:H,8942,106242440-1_316589,Gare de Meaux - Quai De dépose,,0,,shp_3_5,0,0
-067167004:H,8942,106242441-1_316590,Gare de Meaux - Quai De dépose,,0,,shp_3_5,0,0
-067167009:I,12595,106242465-1_316421,Gare de Meaux - Quai De dépose,,1,,shp_3_18,0,0
-067167009:I,12595,106242466-1_316422,Gare de Meaux - Quai De dépose,,1,,shp_3_18,0,0
-067167009:I,12595,106242467-1_316423,Gare de Meaux - Quai De dépose,,1,,shp_3_18,0,0
-067167009:I,12595,106242468-1_316424,Gare de Meaux - Quai De dépose,,1,,shp_3_18,0,0
-067167009:I,12595,106242469-1_316425,Gare de Meaux - Quai De dépose,,1,,shp_3_18,0,0
-067167009:I,12595,106242470-1_316426,Gare de Meaux - Quai De dépose,,1,,shp_3_18,0,0
-067167009:I,12595,106242471-1_316427,Gare de Meaux - Quai De dépose,,1,,shp_3_18,0,0
-067167009:I,12595,106242472-1_316428,Gare de Meaux - Quai De dépose,,1,,shp_3_18,0,0
-067167009:I,12595,106242473-1_316429,Gare de Meaux - Quai De dépose,,1,,shp_3_18,0,0
-067167009:I,12595,106242474-1_316430,Gare de Meaux - Quai De dépose,,1,,shp_3_18,0,0
-067167009:I,12595,106242475-1_316431,Gare de Meaux - Quai De dépose,,1,,shp_3_18,0,0
-067167009:I,12595,106242476-1_316432,Gare de Meaux - Quai De dépose,,1,,shp_3_18,0,0
-067167009:I,12595,106242477-1_316433,Gare de Meaux - Quai De dépose,,1,,shp_3_18,0,0
-067167009:I,12595,106242478-1_316434,Gare de Meaux - Quai De dépose,,1,,shp_3_18,0,0
-067167009:I,12595,106242479-1_316435,Gare de Meaux - Quai De dépose,,1,,shp_3_18,0,0
-067167009:I,12595,106242480-1_316436,Gare de Meaux - Quai De dépose,,1,,shp_3_18,0,0
-067167009:I,7160,106242481-1_316437,Gare de Meaux - Quai De dépose,,1,,shp_3_18,0,0
-067167009:I,7160,106242482-1_316438,Gare de Meaux - Quai De dépose,,1,,shp_3_18,0,0
-067167009:I,7160,106242483-1_316439,Gare de Meaux - Quai De dépose,,1,,shp_3_18,0,0
-067167009:I,7160,106242484-1_316440,Gare de Meaux - Quai De dépose,,1,,shp_3_18,0,0
-067167009:I,7160,106242485-1_316441,Gare de Meaux - Quai De dépose,,1,,shp_3_18,0,0
-067167009:I,7160,106242486-1_316442,Gare de Meaux - Quai De dépose,,1,,shp_3_18,0,0
-067167009:I,7160,106242487-1_316443,Gare de Meaux - Quai De dépose,,1,,shp_3_18,0,0
-067167009:I,7160,106242488-1_316389,Colisée de Meaux,,0,,shp_3_13,0,0
-067167009:I,7160,106242489-1_316390,Colisée de Meaux,,0,,shp_3_13,0,0
-067167009:I,7160,106242490-1_316391,Colisée de Meaux,,0,,shp_3_13,0,0
-067167009:I,7160,106242491-1_316392,Colisée de Meaux,,0,,shp_3_13,0,0
-067167009:I,7160,106242492-1_316393,Colisée de Meaux,,0,,shp_3_13,0,0
-067167009:I,7160,106242493-1_316394,Colisée de Meaux,,0,,shp_3_13,0,0
-067167009:I,7160,106242494-1_316395,Colisée de Meaux,,0,,shp_3_13,0,0
-067167009:I,7160,106242495-1_316396,Colisée de Meaux,,0,,shp_3_13,0,0
-067167009:I,7160,106242496-1_316397,Colisée de Meaux,,0,,shp_3_13,0,0
-067167009:I,7160,106242497-1_316398,Colisée de Meaux,,0,,shp_3_13,0,0
-067167009:I,7160,106242498-1_316399,Colisée de Meaux,,0,,shp_3_13,0,0
-067167009:I,7160,106242499-1_316400,Colisée de Meaux,,0,,shp_3_13,0,0
-067167009:I,7160,106242500-1_316401,Colisée de Meaux,,0,,shp_3_13,0,0
-067167009:I,7160,106242501-1_316402,Colisée de Meaux,,0,,shp_3_13,0,0
-067167009:I,7160,106242502-1_316403,Colisée de Meaux,,0,,shp_3_13,0,0
-067167009:I,7160,106242503-1_316404,Colisée de Meaux,,0,,shp_3_13,0,0
-067167009:I,7160,106242504-1_316444,Gare de Meaux - Quai De dépose,,1,,shp_3_18,0,0
-067167009:I,7160,106242505-1_316445,Gare de Meaux - Quai De dépose,,1,,shp_3_18,0,0
-067167009:I,7160,106242506-1_316446,Gare de Meaux - Quai De dépose,,1,,shp_3_18,0,0
-067167009:I,7160,106242507-1_316447,Gare de Meaux - Quai De dépose,,1,,shp_3_18,0,0
-067167009:I,7160,106242508-1_316448,Gare de Meaux - Quai De dépose,,1,,shp_3_18,0,0
-067167009:I,7160,106242509-1_316449,Gare de Meaux - Quai De dépose,,1,,shp_3_18,0,0
-067167009:I,7160,106242510-1_316450,Gare de Meaux - Quai De dépose,,1,,shp_3_18,0,0
-067167009:I,7160,106242511-1_316451,Gare de Meaux - Quai De dépose,,1,,shp_3_18,0,0
-067167009:I,7160,106242512-1_316452,Gare de Meaux - Quai De dépose,,1,,shp_3_18,0,0
-067067005:C,7160,106242557-1_316661,Gare de Meaux - Quai De dépose,,0,,shp_3_28,0,0
-067067005:C,7160,106242558-1_316662,Gare de Meaux - Quai De dépose,,0,,shp_3_28,0,0
-067067005:C,7160,106242559-1_316663,Gare de Meaux - Quai De dépose,,0,,shp_3_28,0,0
-067067005:C,7160,106242560-1_316664,Gare de Meaux - Quai De dépose,,0,,shp_3_28,0,0
-067067005:C,7160,106242561-1_316665,Gare de Meaux - Quai De dépose,,0,,shp_3_28,0,0
-067067005:C,7160,106242562-1_316666,Gare de Meaux - Quai De dépose,,0,,shp_3_28,0,0
-067067005:C,7160,106242563-1_316667,Gare de Meaux - Quai De dépose,,0,,shp_3_28,0,0
-067067005:C,7160,106242564-1_316668,Gare de Meaux - Quai De dépose,,0,,shp_3_28,0,0
-067067005:C,7160,106242565-1_316669,Gare de Meaux - Quai De dépose,,0,,shp_3_28,0,0
-067067005:C,7160,106242566-1_316670,Gare de Meaux - Quai De dépose,,0,,shp_3_28,0,0
-067067005:C,7160,106242567-1_316671,Gare de Meaux - Quai De dépose,,0,,shp_3_28,0,0
-067067005:C,7160,106242568-1_316672,Gare de Meaux - Quai De dépose,,0,,shp_3_28,0,0
-067067005:C,7160,106242569-1_316673,Gare de Meaux - Quai De dépose,,0,,shp_3_28,0,0
-067067005:C,7160,106242570-1_316674,Gare de Meaux - Quai De dépose,,0,,shp_3_28,0,0
-067067005:C,7160,106242571-1_316675,Gare de Meaux - Quai De dépose,,0,,shp_3_28,0,0
-067067005:C,7160,106242572-1_316676,Gare de Meaux - Quai De dépose,,0,,shp_3_28,0,0
-067067005:C,7160,106242573-1_316677,Gare de Meaux - Quai De dépose,,0,,shp_3_28,0,0
-067067005:C,8941,106242574-1_316678,Gare de Meaux - Quai De dépose,,0,,shp_3_28,0,0
-067067005:C,8941,106242575-1_316679,Gare de Meaux - Quai De dépose,,0,,shp_3_28,0,0
-067067005:C,8941,106242576-1_316680,Gare de Meaux - Quai De dépose,,0,,shp_3_28,0,0
-067067005:C,8941,106242577-1_316681,Gare de Meaux - Quai De dépose,,0,,shp_3_28,0,0
-067067005:C,8941,106242578-1_316682,Gare de Meaux - Quai De dépose,,0,,shp_3_28,0,0
-067067005:C,8941,106242579-1_316683,Gare de Meaux - Quai De dépose,,0,,shp_3_28,0,0
-067067005:C,8941,106242580-1_316684,Gare de Meaux - Quai De dépose,,0,,shp_3_28,0,0
-067067005:C,8941,106242581-1_316685,Gare de Meaux - Quai De dépose,,0,,shp_3_28,0,0
-067067005:C,8941,106242582-1_316686,Gare de Meaux - Quai De dépose,,0,,shp_3_28,0,0
-067067005:C,8941,106242583-1_316687,Gare de Meaux - Quai De dépose,,0,,shp_3_28,0,0
-067067005:C,8941,106242584-1_316688,Gare de Meaux - Quai De dépose,,0,,shp_3_28,0,0
-067067005:C,8941,106242585-1_316689,Gare de Meaux - Quai De dépose,,0,,shp_3_28,0,0
-067067005:C,8941,106242586-1_316690,Gare de Meaux - Quai De dépose,,0,,shp_3_28,0,0
-067067005:C,8941,106242587-1_316691,Gare de Meaux - Quai De dépose,,0,,shp_3_28,0,0
-067067005:C,8941,106242588-1_316692,Gare de Meaux - Quai De dépose,,0,,shp_3_28,0,0
-067067005:C,8941,106242589-1_316693,Gare de Meaux - Quai De dépose,,0,,shp_3_28,0,0
-067167003:E,7160,106242627-1_318046,Gare de Meaux - Quai De dépose,,0,,shp_3_30,0,0
-067167003:E,7160,106242628-1_318047,Gare de Meaux - Quai De dépose,,0,,shp_3_30,0,0
-067167003:E,7160,106242629-1_318048,Gare de Meaux - Quai De dépose,,0,,shp_3_30,0,0
-067167003:E,7160,106242630-1_318049,Gare de Meaux - Quai De dépose,,0,,shp_3_30,0,0
-067167003:E,7160,106242631-1_318050,Gare de Meaux - Quai De dépose,,0,,shp_3_30,0,0
-067167003:E,7160,106242632-1_318051,Gare de Meaux - Quai De dépose,,0,,shp_3_30,0,0
-067167003:E,7160,106242633-1_318052,Gare de Meaux - Quai De dépose,,0,,shp_3_30,0,0
-067167003:E,7160,106242634-1_318053,Gare de Meaux - Quai De dépose,,0,,shp_3_30,0,0
-067167003:E,7160,106242635-1_318054,Gare de Meaux - Quai De dépose,,0,,shp_3_30,0,0
-067167003:E,7160,106242636-1_318055,Gare de Meaux - Quai De dépose,,0,,shp_3_30,0,0
-067167003:E,7160,106242637-1_318056,Gare de Meaux - Quai De dépose,,0,,shp_3_30,0,0
-067167003:E,7160,106242638-1_318057,Gare de Meaux - Quai De dépose,,0,,shp_3_30,0,0
-067167003:E,7160,106242639-1_318058,Gare de Meaux - Quai De dépose,,0,,shp_3_30,0,0
-067167003:E,7160,106242640-1_318059,Gare de Meaux - Quai De dépose,,0,,shp_3_30,0,0
-067167003:E,7160,106242641-1_318060,Gare de Meaux - Quai De dépose,,0,,shp_3_30,0,0
-067167003:E,7160,106242642-1_318061,Gare de Meaux - Quai De dépose,,0,,shp_3_30,0,0
-067167003:E,7160,106242643-1_318062,Gare de Meaux - Quai De dépose,,0,,shp_3_30,0,0
-067167003:E,8942,106242644-1_318063,Gare de Meaux - Quai De dépose,,0,,shp_3_30,0,0
-067167003:E,8942,106242645-1_318064,Gare de Meaux - Quai De dépose,,0,,shp_3_30,0,0
-067167003:E,8942,106242646-1_318065,Gare de Meaux - Quai De dépose,,0,,shp_3_30,0,0
-067167003:E,8942,106242647-1_318066,Gare de Meaux - Quai De dépose,,0,,shp_3_30,0,0
-067167003:E,8942,106242648-1_318067,Gare de Meaux - Quai De dépose,,0,,shp_3_30,0,0
-067167003:E,8942,106242649-1_318068,Gare de Meaux - Quai De dépose,,0,,shp_3_30,0,0
-067167003:E,8942,106242650-1_318069,Gare de Meaux - Quai De dépose,,0,,shp_3_30,0,0
-067167003:E,8942,106242651-1_318070,Gare de Meaux - Quai De dépose,,0,,shp_3_30,0,0
-067167003:E,8942,106242652-1_318071,Gare de Meaux - Quai De dépose,,0,,shp_3_30,0,0
-067167003:E,8942,106242653-1_318072,Gare de Meaux - Quai De dépose,,0,,shp_3_30,0,0
-067167003:E,8942,106242654-1_318073,Gare de Meaux - Quai De dépose,,0,,shp_3_30,0,0
-067167003:E,8942,106242655-1_318074,Gare de Meaux - Quai De dépose,,0,,shp_3_30,0,0
-067167003:E,8942,106242656-1_318075,Gare de Meaux - Quai De dépose,,0,,shp_3_30,0,0
-067167003:E,8942,106242657-1_318076,Gare de Meaux - Quai De dépose,,0,,shp_3_30,0,0
-067167003:E,8942,106242658-1_318077,Gare de Meaux - Quai De dépose,,0,,shp_3_30,0,0
-067167003:E,8942,106242659-1_318078,Gare de Meaux - Quai De dépose,,0,,shp_3_30,0,0
-067167008:D,7160,106242793-1_317562,Les Saisons de Meaux,,0,,shp_3_23,0,0
-067167008:D,7160,106242794-1_317563,Les Saisons de Meaux,,0,,shp_3_23,0,0
-067167008:D,7160,106242795-1_317564,Les Saisons de Meaux,,0,,shp_3_23,0,0
-067167008:D,7160,106242796-1_317565,Les Saisons de Meaux,,0,,shp_3_23,0,0
-067167008:D,7160,106242797-1_317566,Les Saisons de Meaux,,0,,shp_3_23,0,0
-067167008:D,7160,106242798-1_317567,Les Saisons de Meaux,,0,,shp_3_23,0,0
-067167008:D,7160,106242799-1_317568,Les Saisons de Meaux,,0,,shp_3_23,0,0
-067167008:D,7160,106242800-1_317569,Les Saisons de Meaux,,0,,shp_3_23,0,0
-067167008:D,7160,106242801-1_317570,Les Saisons de Meaux,,0,,shp_3_23,0,0
-067167008:D,7160,106242802-1_317571,Les Saisons de Meaux,,0,,shp_3_23,0,0
-067167008:D,7160,106242803-1_317572,Les Saisons de Meaux,,0,,shp_3_23,0,0
-067167008:D,7160,106242804-1_317573,Les Saisons de Meaux,,0,,shp_3_23,0,0
-067167008:D,7160,106242805-1_317574,Les Saisons de Meaux,,0,,shp_3_23,0,0
-067167008:D,7160,106242806-1_317575,Les Saisons de Meaux,,0,,shp_3_23,0,0
-067167008:D,7160,106242807-1_317576,Les Saisons de Meaux,,0,,shp_3_23,0,0
-067167008:D,7160,106242808-1_317577,Les Saisons de Meaux,,0,,shp_3_23,0,0
-067167008:D,7160,106242809-1_317578,Les Saisons de Meaux,,0,,shp_3_23,0,0
-067167008:D,7160,106242810-1_317579,Les Saisons de Meaux,,0,,shp_3_23,0,0
-067167008:D,7160,106242811-1_317580,Les Saisons de Meaux,,0,,shp_3_23,0,0
-067167008:D,7160,106242812-1_317581,Les Saisons de Meaux,,0,,shp_3_23,0,0
-067167008:D,7160,106242813-1_317582,Les Saisons de Meaux,,0,,shp_3_23,0,0
-067167008:D,7160,106242814-1_317583,Les Saisons de Meaux,,0,,shp_3_23,0,0
-067167008:D,7160,106242815-1_317584,Les Saisons de Meaux,,0,,shp_3_23,0,0
-067167008:D,7160,106242816-1_317585,Les Saisons de Meaux,,0,,shp_3_23,0,0
-067167008:D,7160,106242817-1_317586,Les Saisons de Meaux,,0,,shp_3_23,0,0
-067167008:D,7160,106242818-1_317587,Les Saisons de Meaux,,0,,shp_3_23,0,0
-067167008:D,7160,106242819-1_317588,Les Saisons de Meaux,,0,,shp_3_23,0,0
-067167008:D,7160,106242820-1_317589,Les Saisons de Meaux,,0,,shp_3_23,0,0
-067167008:D,7160,106242821-1_317590,Les Saisons de Meaux,,0,,shp_3_23,0,0
-067167008:D,7160,106242822-1_317697,Les Platanes,,1,,shp_3_10,0,0
-067167008:D,7160,106242823-1_317698,Georges Claude Quai de dépose,,1,,shp_3_31,0,0
-067167008:D,7160,106242824-1_317699,Les Platanes,,1,,shp_3_10,0,0
-067167008:D,7160,106242825-1_317700,Georges Claude Quai de dépose,,1,,shp_3_31,0,0
-067167008:D,7160,106242826-1_317701,Les Platanes,,1,,shp_3_10,0,0
-067167008:D,7160,106242827-1_317702,Georges Claude Quai de dépose,,1,,shp_3_31,0,0
-067167008:D,7160,106242828-1_317703,Les Platanes,,1,,shp_3_10,0,0
-067167008:D,7160,106242829-1_317704,Les Platanes,,1,,shp_3_10,0,0
-067167008:D,7160,106242830-1_317705,Georges Claude Quai de dépose,,1,,shp_3_31,0,0
-067167008:D,7160,106242831-1_317706,Les Platanes,,1,,shp_3_10,0,0
-067167008:D,7160,106242832-1_317707,Georges Claude Quai de dépose,,1,,shp_3_31,0,0
-067167008:D,7160,106242833-1_317708,Les Platanes,,1,,shp_3_10,0,0
-067167008:D,7160,106242834-1_317709,Georges Claude Quai de dépose,,1,,shp_3_31,0,0
-067167008:D,7160,106242835-1_317710,Les Platanes,,1,,shp_3_10,0,0
-067167008:D,7160,106242836-1_317711,Georges Claude Quai de dépose,,1,,shp_3_31,0,0
-067167008:D,7160,106242837-1_317712,Georges Claude Quai de dépose,,1,,shp_3_31,0,0
-067167008:D,7160,106242838-1_317713,Les Platanes,,1,,shp_3_10,0,0
-067167008:D,7160,106242839-1_317714,Georges Claude Quai de dépose,,1,,shp_3_31,0,0
-067167008:D,7160,106242840-1_317715,Les Platanes,,1,,shp_3_10,0,0
-067167008:D,7160,106242841-1_317716,Georges Claude Quai de dépose,,1,,shp_3_31,0,0
-067167008:D,7160,106242842-1_317717,Les Platanes,,1,,shp_3_10,0,0
-067167008:D,7160,106242843-1_317718,Georges Claude Quai de dépose,,1,,shp_3_31,0,0
-067167008:D,7160,106242844-1_317719,Les Platanes,,1,,shp_3_10,0,0
-067167008:D,7160,106242845-1_317720,Georges Claude Quai de dépose,,1,,shp_3_31,0,0
-067167008:D,7160,106242846-1_317721,Les Platanes,,1,,shp_3_10,0,0
-067167008:D,7160,106242847-1_317722,Georges Claude Quai de dépose,,1,,shp_3_31,0,0
-067167008:D,7160,106242848-1_317723,Les Platanes,,1,,shp_3_10,0,0
-067167008:D,7160,106242849-1_317724,Georges Claude Quai de dépose,,1,,shp_3_31,0,0
-067167008:D,7160,106242850-1_317725,Les Platanes,,1,,shp_3_10,0,0
-067167008:D,7160,106242851-1_317726,Georges Claude Quai de dépose,,1,,shp_3_31,0,0
-067167008:D,7160,106242852-1_317727,Les Platanes,,1,,shp_3_10,0,0
-067167008:D,7160,106242853-1_317728,Georges Claude Quai de dépose,,1,,shp_3_31,0,0
-067167008:D,7160,106242854-1_317729,Les Platanes,,1,,shp_3_10,0,0
-067167008:D,7160,106242855-1_317730,Georges Claude Quai de dépose,,1,,shp_3_31,0,0
-067167008:D,7160,106242856-1_317731,Les Platanes,,1,,shp_3_10,0,0
-067167008:D,7160,106242857-1_317732,Georges Claude Quai de dépose,,1,,shp_3_31,0,0
-067167008:D,7160,106242858-1_317733,Les Platanes,,1,,shp_3_10,0,0
-067167008:D,7160,106242859-1_317734,Georges Claude Quai de dépose,,1,,shp_3_31,0,0
-067167008:D,7160,106242860-1_317735,Les Platanes,,1,,shp_3_10,0,0
-067167008:D,7160,106242861-1_317736,Georges Claude Quai de dépose,,1,,shp_3_31,0,0
-067167008:D,7160,106242862-1_317737,Les Platanes,,1,,shp_3_10,0,0
-067167008:D,7160,106242863-1_317738,Georges Claude Quai de dépose,,1,,shp_3_31,0,0
-067167008:D,7160,106242864-1_317739,Les Platanes,,1,,shp_3_10,0,0
-067167008:D,7160,106242865-1_317740,Georges Claude Quai de dépose,,1,,shp_3_31,0,0
-067167008:D,7160,106242866-1_317741,Les Platanes,,1,,shp_3_10,0,0
-067167008:D,7160,106242867-1_317742,Georges Claude Quai de dépose,,1,,shp_3_31,0,0
-067167008:D,7160,106242868-1_317743,Les Platanes,,1,,shp_3_10,0,0
-067167008:D,7160,106242869-1_317744,Georges Claude Quai de dépose,,1,,shp_3_31,0,0
-067167008:D,7160,106242870-1_317745,Les Platanes,,1,,shp_3_10,0,0
-067167008:D,7160,106242871-1_317746,Georges Claude Quai de dépose,,1,,shp_3_31,0,0
-067167008:D,7160,106242872-1_317747,Les Platanes,,1,,shp_3_10,0,0
-067167008:D,7160,106242873-1_317748,Georges Claude Quai de dépose,,1,,shp_3_31,0,0
-067167008:D,7160,106242874-1_317749,Les Platanes,,1,,shp_3_10,0,0
-067167008:D,7160,106242875-1_317750,Georges Claude Quai de dépose,,1,,shp_3_31,0,0
-067167008:D,7160,106242876-1_317751,Georges Claude Quai de dépose,,1,,shp_3_31,0,0
-067167008:D,7160,106242877-1_317591,Les Saisons de Meaux,,0,,shp_3_12,0,0
-067167008:D,7160,106242878-1_317592,Les Saisons de Meaux,,0,,shp_3_12,0,0
-067167008:D,7160,106242879-1_317593,Les Saisons de Meaux,,0,,shp_3_12,0,0
-067167008:D,7160,106242880-1_317594,Les Saisons de Meaux,,0,,shp_3_12,0,0
-067167008:D,7160,106242881-1_317595,Les Saisons de Meaux,,0,,shp_3_12,0,0
-067167008:D,7160,106242882-1_317596,Les Saisons de Meaux,,0,,shp_3_12,0,0
-067167008:D,7160,106242883-1_317597,Les Saisons de Meaux,,0,,shp_3_12,0,0
-067167008:D,7160,106242884-1_317598,Les Saisons de Meaux,,0,,shp_3_12,0,0
-067167008:D,7160,106242885-1_317599,Les Saisons de Meaux,,0,,shp_3_12,0,0
-067167008:D,7160,106242886-1_317600,Les Saisons de Meaux,,0,,shp_3_12,0,0
-067167008:D,7160,106242887-1_317601,Les Saisons de Meaux,,0,,shp_3_12,0,0
-067167008:D,7160,106242888-1_317602,Les Saisons de Meaux,,0,,shp_3_12,0,0
-067167008:D,7160,106242889-1_317603,Les Saisons de Meaux,,0,,shp_3_12,0,0
-067167008:D,7160,106242890-1_317604,Les Saisons de Meaux,,0,,shp_3_12,0,0
-067167008:D,7160,106242891-1_317605,Les Saisons de Meaux,,0,,shp_3_12,0,0
-067167008:D,7160,106242892-1_317606,Les Saisons de Meaux,,0,,shp_3_12,0,0
-067167008:D,7160,106242893-1_317607,Les Saisons de Meaux,,0,,shp_3_12,0,0
-067167008:D,7160,106242894-1_317608,Les Saisons de Meaux,,0,,shp_3_12,0,0
-067167008:D,7160,106242895-1_317609,Les Saisons de Meaux,,0,,shp_3_12,0,0
-067167008:D,7160,106242896-1_317610,Les Saisons de Meaux,,0,,shp_3_12,0,0
-067167008:D,7160,106242897-1_317611,Les Saisons de Meaux,,0,,shp_3_12,0,0
-067167008:D,7160,106242898-1_317612,Les Saisons de Meaux,,0,,shp_3_12,0,0
-067167008:D,7160,106242899-1_317613,Les Saisons de Meaux,,0,,shp_3_12,0,0
-067167008:D,7160,106242900-1_317614,Les Saisons de Meaux,,0,,shp_3_12,0,0
-067167008:D,7160,106242901-1_317615,Les Saisons de Meaux,,0,,shp_3_12,0,0
-067167008:D,7160,106242902-1_317616,Les Saisons de Meaux,,0,,shp_3_12,0,0
-067167008:D,7160,106242903-1_317617,Les Saisons de Meaux,,0,,shp_3_12,0,0
-067167008:D,7160,106242904-1_317618,Les Saisons de Meaux,,0,,shp_3_12,0,0
-067167008:D,7160,106242905-1_317619,Les Saisons de Meaux,,0,,shp_3_12,0,0
-067167008:D,7160,106242906-1_317620,Les Saisons de Meaux,,0,,shp_3_12,0,0
-067167008:D,8941,106242907-1_317621,Les Saisons de Meaux,,0,,shp_3_23,0,0
-067167008:D,8941,106242908-1_317622,Les Saisons de Meaux,,0,,shp_3_23,0,0
-067167008:D,8941,106242909-1_317623,Les Saisons de Meaux,,0,,shp_3_23,0,0
-067167008:D,8941,106242910-1_317624,Les Saisons de Meaux,,0,,shp_3_23,0,0
-067167008:D,8941,106242911-1_317625,Les Saisons de Meaux,,0,,shp_3_23,0,0
-067167008:D,8941,106242912-1_317626,Les Saisons de Meaux,,0,,shp_3_23,0,0
-067167008:D,8941,106242913-1_317627,Les Saisons de Meaux,,0,,shp_3_23,0,0
-067167008:D,8941,106242914-1_317628,Les Saisons de Meaux,,0,,shp_3_23,0,0
-067167008:D,8941,106242915-1_317629,Les Saisons de Meaux,,0,,shp_3_23,0,0
-067167008:D,8941,106242916-1_317630,Les Saisons de Meaux,,0,,shp_3_23,0,0
-067167008:D,8941,106242917-1_317631,Les Saisons de Meaux,,0,,shp_3_23,0,0
-067167008:D,8941,106242918-1_317632,Les Saisons de Meaux,,0,,shp_3_23,0,0
-067167008:D,8941,106242919-1_317633,Les Saisons de Meaux,,0,,shp_3_23,0,0
-067167008:D,8941,106242920-1_317634,Les Saisons de Meaux,,0,,shp_3_23,0,0
-067167008:D,8941,106242921-1_317635,Les Saisons de Meaux,,0,,shp_3_23,0,0
-067167008:D,8941,106242922-1_317636,Les Saisons de Meaux,,0,,shp_3_23,0,0
-067167008:D,8941,106242923-1_317637,Les Saisons de Meaux,,0,,shp_3_23,0,0
-067167008:D,8942,106242924-1_317752,Les Platanes,,1,,shp_3_10,0,0
-067167008:D,8942,106242925-1_317753,Les Platanes,,1,,shp_3_10,0,0
-067167008:D,8942,106242926-1_317754,Les Platanes,,1,,shp_3_10,0,0
-067167008:D,8942,106242927-1_317755,Les Platanes,,1,,shp_3_10,0,0
-067167008:D,8942,106242928-1_317756,Les Platanes,,1,,shp_3_10,0,0
-067167008:D,8942,106242929-1_317757,Les Platanes,,1,,shp_3_10,0,0
-067167008:D,8942,106242930-1_317758,Les Platanes,,1,,shp_3_10,0,0
-067167008:D,8942,106242931-1_317759,Les Platanes,,1,,shp_3_10,0,0
-067167008:D,8942,106242932-1_317760,Les Platanes,,1,,shp_3_10,0,0
-067167008:D,8942,106242933-1_317761,Les Platanes,,1,,shp_3_10,0,0
-067167008:D,8942,106242934-1_317762,Les Platanes,,1,,shp_3_10,0,0
-067167008:D,8942,106242935-1_317763,Les Platanes,,1,,shp_3_10,0,0
-067167008:D,8942,106242936-1_317764,Les Platanes,,1,,shp_3_10,0,0
-067167008:D,8942,106242937-1_317765,Les Platanes,,1,,shp_3_10,0,0
-067167008:D,8942,106242938-1_317766,Les Platanes,,1,,shp_3_10,0,0
-067167008:D,8942,106242939-1_317767,Les Platanes,,1,,shp_3_10,0,0
-067167008:D,8942,106242940-1_317768,Les Platanes,,1,,shp_3_10,0,0
-067067064:K,7160,106242971-1_316301,Gare de Meaux - Quai De dépose,,0,,shp_3_25,0,0
-067067064:K,7160,106242972-1_316302,Gare de Meaux - Quai De dépose,,0,,shp_3_29,0,0
-067067064:K,7160,106242973-1_316303,Gare de Meaux - Quai De dépose,,0,,shp_3_29,0,0
-067067064:K,7160,106242974-1_316304,Gare de Meaux - Quai De dépose,,0,,shp_3_29,0,0
-067067064:K,7160,106242975-1_316305,Gare de Meaux - Quai De dépose,,0,,shp_3_29,0,0
-067067064:K,7160,106242976-1_316306,Gare de Meaux - Quai De dépose,,0,,shp_3_29,0,0
-067067064:K,7160,106242977-1_316307,Gare de Meaux - Quai De dépose,,0,,shp_3_29,0,0
-067067064:K,7160,106242978-1_316308,Gare de Meaux - Quai De dépose,,0,,shp_3_29,0,0
-067067064:K,7160,106242979-1_316309,Gare de Meaux - Quai De dépose,,0,,shp_3_29,0,0
-067067064:K,7160,106242980-1_316310,Gare de Meaux - Quai De dépose,,0,,shp_3_29,0,0
-067067064:K,7160,106242981-1_316311,Gare de Meaux - Quai De dépose,,0,,shp_3_29,0,0
-067067064:K,7160,106242982-1_316312,Gare de Meaux - Quai De dépose,,0,,shp_3_29,0,0
-067067064:K,7160,106242983-1_316313,Gare de Meaux - Quai De dépose,,0,,shp_3_29,0,0
-067067064:K,7160,106242984-1_316314,Gare de Meaux - Quai De dépose,,0,,shp_3_29,0,0
-067067064:K,7160,106242985-1_316315,Gare de Meaux - Quai De dépose,,0,,shp_3_25,0,0
-067067064:K,7160,106242986-1_316316,Gare de Meaux - Quai De dépose,,0,,shp_3_25,0,0
-067067064:K,12595,106242987-1_316317,Gare de Meaux - Quai De dépose,,0,,shp_3_29,0,0
-067067064:K,12595,106242988-1_316318,Gare de Meaux - Quai De dépose,,0,,shp_3_29,0,0
-067067064:K,12595,106242989-1_316319,Gare de Meaux - Quai De dépose,,0,,shp_3_29,0,0
-067067064:K,12595,106242990-1_316320,Gare de Meaux - Quai De dépose,,0,,shp_3_29,0,0
-067067064:K,12595,106242991-1_316321,Gare de Meaux - Quai De dépose,,0,,shp_3_29,0,0
-067067064:K,12595,106242992-1_316322,Gare de Meaux - Quai De dépose,,0,,shp_3_29,0,0
-067067064:K,12595,106242993-1_316323,Gare de Meaux - Quai De dépose,,0,,shp_3_29,0,0
-067067064:K,12595,106242994-1_316324,Gare de Meaux - Quai De dépose,,0,,shp_3_29,0,0
-067067017:L,12596,106242995-1_316468,Rue des Prés,,1,,shp_3_20,0,0
-067067017:L,12596,106242996-1_316469,Rue des Prés,,1,,shp_3_20,0,0
-067067017:L,12596,106242997-1_316470,Rue des Prés,,1,,shp_3_20,0,0
-067067017:L,12596,106242998-1_316471,Rue des Prés,,1,,shp_3_20,0,0
-067067017:L,12596,106242999-1_316472,Rue des Prés,,1,,shp_3_20,0,0
-067067017:L,12596,106243000-1_316473,Rue des Prés,,1,,shp_3_20,0,0
-067067017:L,12596,106243001-1_316474,Rue des Prés,,1,,shp_3_20,0,0
-067067017:L,12596,106243002-1_316475,Rue des Prés,,1,,shp_3_20,0,0
-067067017:L,12596,106243003-1_316476,Rue des Prés,,1,,shp_3_20,0,0
-067067017:L,12596,106243004-1_316477,Rue des Prés,,1,,shp_3_20,0,0
-067067017:L,12596,106243005-1_316478,Rue des Prés,,1,,shp_3_20,0,0
-067067017:L,12596,106243006-1_316453,Gare d'Esbly - Quai A,,0,,shp_3_21,0,0
-067067017:L,12596,106243007-1_316454,Gare d'Esbly - Quai A,,0,,shp_3_21,0,0
-067067017:L,12596,106243008-1_316455,Gare d'Esbly - Quai A,,0,,shp_3_21,0,0
-067067017:L,12596,106243009-1_316456,Gare d'Esbly - Quai A,,0,,shp_3_21,0,0
-067067017:L,12596,106243010-1_316457,Gare d'Esbly - Quai A,,0,,shp_3_21,0,0
-067067017:L,12596,106243011-1_316458,Gare d'Esbly - Quai A,,0,,shp_3_21,0,0
-067067017:L,12596,106243012-1_316459,Gare d'Esbly - Quai A,,0,,shp_3_21,0,0
-067067017:L,12596,106243013-1_316460,Gare d'Esbly - Quai A,,0,,shp_3_21,0,0
-067067017:L,12596,106243014-1_316461,Gare d'Esbly - Quai A,,0,,shp_3_21,0,0
-067067017:L,12596,106243015-1_316462,Gare d'Esbly - Quai A,,0,,shp_3_21,0,0
-067067017:L,7160,106243016-1_316479,Rue des Prés,,1,,shp_3_20,0,0
-067067017:L,7160,106243017-1_316480,Rue des Prés,,1,,shp_3_20,0,0
-067067017:L,7160,106243018-1_316463,Gare d'Esbly - Quai A,,0,,shp_3_21,0,0
-067067017:L,7160,106243019-1_316464,Gare d'Esbly - Quai A,,0,,shp_3_21,0,0
-067067017:L,7160,106243020-1_316465,Gare d'Esbly - Quai A,,0,,shp_3_21,0,0
-067067017:L,7160,106243021-1_316466,Gare d'Esbly - Quai A,,0,,shp_3_21,0,0
-067067017:L,7160,106243022-1_316467,Gare d'Esbly - Quai A,,0,,shp_3_21,0,0
-067067002:J,7160,106243063-1_316334,Georges Claude Quai 4,,0,,shp_3_8,0,0
-067067002:J,7160,106243064-1_316335,Georges Claude Quai 4,,0,,shp_3_8,0,0
-067067002:J,7160,106243065-1_316336,Georges Claude Quai 4,,0,,shp_3_8,0,0
-067067002:J,7160,106243066-1_316337,Georges Claude Quai 4,,0,,shp_3_8,0,0
-067067002:J,7160,106243067-1_316338,Georges Claude Quai 4,,0,,shp_3_8,0,0
-067067002:J,7160,106243068-1_316339,Georges Claude Quai 4,,0,,shp_3_8,0,0
-067067002:J,7160,106243069-1_316340,Georges Claude Quai 4,,0,,shp_3_8,0,0
-067067002:J,7160,106243070-1_316341,Georges Claude Quai 4,,0,,shp_3_8,0,0
-067067002:J,7160,106243071-1_316342,Georges Claude Quai 4,,0,,shp_3_8,0,0
-067067002:J,7160,106243072-1_316343,Georges Claude Quai 4,,0,,shp_3_8,0,0
-067067002:J,7160,106243073-1_316344,Georges Claude Quai 4,,0,,shp_3_8,0,0
-067067002:J,7160,106243074-1_316345,Georges Claude Quai 4,,0,,shp_3_8,0,0
-067067002:J,7160,106243075-1_316362,Jean Renoir,,1,,shp_3_22,0,0
-067067002:J,7160,106243076-1_316363,Jean Renoir,,1,,shp_3_22,0,0
-067067002:J,7160,106243077-1_316364,Jean Renoir,,1,,shp_3_22,0,0
-067067002:J,7160,106243078-1_316365,Jean Renoir,,1,,shp_3_22,0,0
-067067002:J,7160,106243079-1_316366,Jean Renoir,,1,,shp_3_22,0,0
-067067002:J,7160,106243080-1_316367,Jean Renoir,,1,,shp_3_22,0,0
-067067002:J,7160,106243081-1_316368,Jean Renoir,,1,,shp_3_22,0,0
-067067002:J,7160,106243082-1_316369,Jean Renoir,,1,,shp_3_22,0,0
-067067002:J,7160,106243083-1_316370,Jean Renoir,,1,,shp_3_22,0,0
-067067002:J,7160,106243084-1_316371,Jean Renoir,,1,,shp_3_22,0,0
-067067002:J,7160,106243085-1_316372,Jean Renoir,,1,,shp_3_22,0,0
-067067002:J,7160,106243086-1_316373,Jean Renoir,,1,,shp_3_22,0,0
-067067002:J,7160,106243087-1_316374,Jean Renoir,,1,,shp_3_22,0,0
-067067020:M,7160,106243117-1_316525,Georges Claude Quai 4,,0,,shp_3_2,0,0
-067067020:M,7160,106243118-1_316526,Georges Claude Quai 4,,0,,shp_3_2,0,0
-067067020:M,7160,106243119-1_316527,Georges Claude Quai 4,,0,,shp_3_2,0,0
-067067020:M,7160,106243120-1_316528,Georges Claude Quai 4,,0,,shp_3_2,0,0
-067067020:M,7160,106243121-1_316529,Georges Claude Quai 4,,0,,shp_3_2,0,0
-067067020:M,7160,106243122-1_316530,Georges Claude Quai 4,,0,,shp_3_2,0,0
-067067020:M,7160,106243123-1_316531,Georges Claude Quai 4,,0,,shp_3_2,0,0
-067067020:M,7160,106243124-1_316532,Georges Claude Quai 4,,0,,shp_3_2,0,0
-067067020:M,7160,106243125-1_316533,Georges Claude Quai 4,,0,,shp_3_2,0,0
-067067020:M,7160,106243126-1_316546,Eglise,,1,,shp_3_27,0,0
-067067020:M,7160,106243127-1_316547,Eglise,,1,,shp_3_27,0,0
-067067020:M,7160,106243128-1_316548,Eglise,,1,,shp_3_27,0,0
-067067020:M,7160,106243129-1_316549,Eglise,,1,,shp_3_27,0,0
-067067020:M,7160,106243130-1_316550,Eglise,,1,,shp_3_27,0,0
-067067020:M,7160,106243131-1_316551,Eglise,,1,,shp_3_27,0,0
-067067020:M,7160,106243132-1_316552,Eglise,,1,,shp_3_27,0,0
-067067020:M,7160,106243133-1_316553,Eglise,,1,,shp_3_27,0,0
-067067020:M,7160,106243134-1_316554,Eglise,,1,,shp_3_27,0,0
-067067020:M,7160,106243135-1_316555,Eglise,,1,,shp_3_27,0,0
-067167010:N,7160,106243157-1_316497,Gare de Meaux - Quai De dépose,,0,,shp_3_9,0,0
-067167010:N,7160,106243158-1_316498,Gare de Meaux - Quai De dépose,,0,,shp_3_9,0,0
-067167010:N,7160,106243159-1_316499,Gare de Meaux - Quai De dépose,,0,,shp_3_9,0,0
-067167010:N,7160,106243160-1_316500,Gare de Meaux - Quai De dépose,,0,,shp_3_15,0,0
-067167010:N,7160,106243161-1_316501,Gare de Meaux - Quai De dépose,,0,,shp_3_15,0,0
-067167010:N,7160,106243162-1_316502,Gare de Meaux - Quai De dépose,,0,,shp_3_9,0,0
-067167010:N,7160,106243163-1_316503,Gare de Meaux - Quai De dépose,,0,,shp_3_9,0,0
-067167010:N,7160,106243164-1_316504,Gare de Meaux - Quai De dépose,,0,,shp_3_9,0,0
-067167010:N,7160,106243165-1_316505,Gare de Meaux - Quai De dépose,,0,,shp_3_15,0,0
-067167010:N,7160,106243166-1_316506,Gare de Meaux - Quai De dépose,,0,,shp_3_15,0,0
-067167010:N,7160,106243167-1_316507,Gare de Meaux - Quai De dépose,,0,,shp_3_15,0,0
-067167010:N,7160,106243168-1_316508,Gare de Meaux - Quai De dépose,,0,,shp_3_9,0,0
-067167010:N,7160,106243169-1_316509,Gare de Meaux - Quai De dépose,,0,,shp_3_9,0,0
-067167010:N,7160,106243170-1_316510,Gare de Meaux - Quai De dépose,,0,,shp_3_15,0,0
-067167010:N,7160,106243171-1_316511,Gare de Meaux - Quai De dépose,,0,,shp_3_9,0,0
-067167005:O,12596,106243172-1_316491,Georges Claude Quai de dépose,,1,,shp_3_1,0,0
-067167005:O,12596,106243173-1_316492,Georges Claude Quai de dépose,,1,,shp_3_1,0,0
-067167005:O,12596,106243174-1_316493,Georges Claude Quai de dépose,,1,,shp_3_1,0,0
-067167005:O,12596,106243175-1_316494,Georges Claude Quai de dépose,,1,,shp_3_1,0,0
-067167005:O,12596,106243176-1_316495,Georges Claude Quai de dépose,,1,,shp_3_1,0,0
-067167005:O,12596,106243177-1_316496,Georges Claude Quai de dépose,,1,,shp_3_1,0,0
-067167005:O,12596,106243178-1_316481,Mairie,,0,,shp_3_14,0,0
-067167005:O,12596,106243179-1_316482,Mairie,,0,,shp_3_14,0,0
-067167005:O,12596,106243180-1_316483,Mairie,,0,,shp_3_14,0,0
-067167005:O,12596,106243181-1_316484,Mairie,,0,,shp_3_14,0,0
-067167005:O,12596,106243182-1_316485,Mairie,,0,,shp_3_14,0,0
-067167005:O,12596,106243183-1_316486,Mairie,,0,,shp_3_14,0,0
-067167005:O,12596,106243184-1_316487,Mairie,,0,,shp_3_14,0,0
-067167005:O,12596,106243185-1_316488,Mairie,,0,,shp_3_14,0,0
-067167005:O,12596,106243186-1_316489,Mairie,,0,,shp_3_14,0,0
-067167005:O,12596,106243187-1_316490,Mairie,,0,,shp_3_14,0,0
-067067020:M,7160,106243188-1_316534,Georges Claude Quai 4,,0,,shp_3_2,0,0
-067067003:F,12595,106243189-1_317968,Gare de Meaux - Quai De dépose,,0,,shp_3_7,0,0
-067067003:F,12595,106243190-1_317969,Gare de Meaux - Quai De dépose,,0,,shp_3_7,0,0
-067067003:F,12595,106243191-1_317970,Gare de Meaux - Quai De dépose,,0,,shp_3_7,0,0
-067067003:F,12595,106243192-1_317971,Gare de Meaux - Quai De dépose,,0,,shp_3_7,0,0
-067067003:F,12595,106243193-1_317972,Gare de Meaux - Quai De dépose,,0,,shp_3_7,0,0
-067067003:F,12595,106243194-1_317973,Gare de Meaux - Quai De dépose,,0,,shp_3_7,0,0
-067067003:F,12595,106243195-1_317974,Gare de Meaux - Quai De dépose,,0,,shp_3_7,0,0
-067067003:F,12595,106243196-1_317975,Gare de Meaux - Quai De dépose,,0,,shp_3_7,0,0
-067067003:F,12595,106243197-1_317976,Gare de Meaux - Quai De dépose,,0,,shp_3_7,0,0
-067067003:F,12595,106243198-1_317977,Gare de Meaux - Quai De dépose,,0,,shp_3_7,0,0
-067067003:F,12595,106243199-1_317978,Gare de Meaux - Quai De dépose,,0,,shp_3_7,0,0
-067067003:F,12595,106243200-1_317979,Gare de Meaux - Quai De dépose,,0,,shp_3_7,0,0
-067067003:F,12595,106243201-1_317980,Gare de Meaux - Quai De dépose,,0,,shp_3_7,0,0
-067067003:F,12595,106243202-1_317981,Gare de Meaux - Quai De dépose,,0,,shp_3_7,0,0
-067067003:F,12595,106243203-1_317982,Gare de Meaux - Quai De dépose,,0,,shp_3_7,0,0
-067067003:F,12595,106243204-1_317983,Gare de Meaux - Quai De dépose,,0,,shp_3_7,0,0
-067067003:F,12595,106243205-1_317984,Gare de Meaux - Quai De dépose,,0,,shp_3_7,0,0
-067067003:F,12595,106243206-1_317985,Gare de Meaux - Quai De dépose,,0,,shp_3_7,0,0
-067067003:F,12595,106243207-1_317986,Gare de Meaux - Quai De dépose,,0,,shp_3_7,0,0
-067067003:F,12595,106243208-1_317987,Gare de Meaux - Quai De dépose,,0,,shp_3_7,0,0
-067067003:F,12595,106243209-1_317988,Gare de Meaux - Quai De dépose,,0,,shp_3_7,0,0
-067067003:F,12595,106243210-1_317989,Gare de Meaux - Quai De dépose,,0,,shp_3_7,0,0
-067067003:F,12595,106243211-1_317990,Gare de Meaux - Quai De dépose,,0,,shp_3_7,0,0
-067067003:F,12595,106243212-1_318023,Les Bruyères,,1,,shp_3_26,0,0
-067067003:F,12595,106243213-1_318024,Les Bruyères,,1,,shp_3_26,0,0
-067067003:F,12595,106243214-1_318025,Les Bruyères,,1,,shp_3_26,0,0
-067067003:F,12595,106243215-1_318026,Les Bruyères,,1,,shp_3_26,0,0
-067067003:F,12595,106243216-1_318027,Les Bruyères,,1,,shp_3_26,0,0
-067067003:F,12595,106243217-1_318028,Les Bruyères,,1,,shp_3_26,0,0
-067067003:F,12595,106243218-1_318029,Les Bruyères,,1,,shp_3_26,0,0
-067067003:F,12595,106243219-1_318030,Les Bruyères,,1,,shp_3_26,0,0
-067067003:F,12595,106243220-1_318031,Les Bruyères,,1,,shp_3_26,0,0
-067067003:F,12595,106243221-1_318032,Les Bruyères,,1,,shp_3_26,0,0
-067067003:F,12595,106243222-1_318033,Les Bruyères,,1,,shp_3_26,0,0
-067067003:F,12595,106243223-1_318034,Les Bruyères,,1,,shp_3_26,0,0
-067067003:F,12595,106243224-1_318035,Les Bruyères,,1,,shp_3_26,0,0
-067067003:F,12595,106243225-1_318036,Les Bruyères,,1,,shp_3_26,0,0
-067067003:F,12595,106243226-1_318037,Les Bruyères,,1,,shp_3_26,0,0
-067067003:F,12595,106243227-1_318038,Les Bruyères,,1,,shp_3_26,0,0
-067067003:F,12595,106243228-1_318039,Les Bruyères,,1,,shp_3_26,0,0
-067067003:F,12595,106243229-1_318040,Les Bruyères,,1,,shp_3_26,0,0
-067067003:F,12595,106243230-1_318041,Les Bruyères,,1,,shp_3_26,0,0
-067067003:F,12595,106243231-1_318042,Les Bruyères,,1,,shp_3_26,0,0
-067067003:F,12595,106243232-1_318043,Les Bruyères,,1,,shp_3_26,0,0
-067067003:F,12595,106243233-1_318044,Les Bruyères,,1,,shp_3_26,0,0
-067067003:F,12595,106243234-1_318045,Les Bruyères,,1,,shp_3_26,0,0
-067167006:G,12595,106243235-1_317862,Musée de La Grande Guerre,,0,,shp_3_24,0,0
-067167006:G,12595,106243236-1_317863,Musée de La Grande Guerre,,0,,shp_3_24,0,0
-067167006:G,12595,106243237-1_317864,Musée de La Grande Guerre,,0,,shp_3_24,0,0
-067167006:G,12595,106243238-1_317865,Musée de La Grande Guerre,,0,,shp_3_24,0,0
-067167006:G,12595,106243239-1_317866,Musée de La Grande Guerre,,0,,shp_3_24,0,0
-067167006:G,12595,106243240-1_317867,Musée de La Grande Guerre,,0,,shp_3_24,0,0
-067167006:G,12595,106243241-1_317868,Musée de La Grande Guerre,,0,,shp_3_24,0,0
-067167006:G,12595,106243242-1_317869,Musée de La Grande Guerre,,0,,shp_3_24,0,0
-067167006:G,12595,106243243-1_317870,Musée de La Grande Guerre,,0,,shp_3_24,0,0
-067167006:G,12595,106243244-1_317871,Musée de La Grande Guerre,,0,,shp_3_24,0,0
-067167006:G,12595,106243245-1_317872,Musée de La Grande Guerre,,0,,shp_3_24,0,0
-067167006:G,12595,106243246-1_317873,Musée de La Grande Guerre,,0,,shp_3_24,0,0
-067167006:G,12595,106243247-1_317874,Musée de La Grande Guerre,,0,,shp_3_24,0,0
-067167006:G,12595,106243248-1_317875,Musée de La Grande Guerre,,0,,shp_3_24,0,0
-067167006:G,12595,106243249-1_317876,Musée de La Grande Guerre,,0,,shp_3_24,0,0
-067167006:G,12595,106243250-1_317877,Musée de La Grande Guerre,,0,,shp_3_24,0,0
-067167006:G,12595,106243251-1_317878,Musée de La Grande Guerre,,0,,shp_3_24,0,0
-067167006:G,12595,106243252-1_317879,Musée de La Grande Guerre,,0,,shp_3_24,0,0
-067167006:G,12595,106243253-1_317918,Gare de Meaux - Quai De dépose,,1,,shp_3_3,0,0
-067167006:G,12595,106243254-1_317919,Gare de Meaux - Quai De dépose,,1,,shp_3_3,0,0
-067167006:G,12595,106243255-1_317920,Gare de Meaux - Quai De dépose,,1,,shp_3_3,0,0
-067167006:G,12595,106243256-1_317921,Gare de Meaux - Quai De dépose,,1,,shp_3_3,0,0
-067167006:G,12595,106243257-1_317922,Gare de Meaux - Quai De dépose,,1,,shp_3_3,0,0
-067167006:G,12595,106243258-1_317923,Gare de Meaux - Quai De dépose,,1,,shp_3_3,0,0
-067167006:G,12595,106243259-1_317924,Gare de Meaux - Quai De dépose,,1,,shp_3_3,0,0
-067167006:G,12595,106243260-1_317925,Gare de Meaux - Quai De dépose,,1,,shp_3_3,0,0
-067167006:G,12595,106243261-1_317926,Gare de Meaux - Quai De dépose,,1,,shp_3_3,0,0
-067167006:G,12595,106243262-1_317927,Gare de Meaux - Quai De dépose,,1,,shp_3_3,0,0
-067167006:G,12595,106243263-1_317928,Gare de Meaux - Quai De dépose,,1,,shp_3_3,0,0
-067167006:G,12595,106243264-1_317929,Gare de Meaux - Quai De dépose,,1,,shp_3_3,0,0
-067167006:G,12595,106243265-1_317930,Gare de Meaux - Quai De dépose,,1,,shp_3_3,0,0
-067167006:G,12595,106243266-1_317931,Gare de Meaux - Quai De dépose,,1,,shp_3_3,0,0
-067167006:G,12595,106243267-1_317932,Gare de Meaux - Quai De dépose,,1,,shp_3_3,0,0
-067167006:G,12595,106243268-1_317933,Gare de Meaux - Quai De dépose,,1,,shp_3_3,0,0
-067167006:G,12595,106243269-1_317934,Gare de Meaux - Quai De dépose,,1,,shp_3_3,0,0
-067167001:B,12595,106243270-1_316829,Georges Claude Quai de dépose,,1,,shp_3_11,0,0
-067167001:B,12595,106243271-1_316830,Georges Claude Quai de dépose,,1,,shp_3_11,0,0
-067167001:B,12595,106243272-1_316831,Georges Claude Quai de dépose,,1,,shp_3_11,0,0
-067167001:B,12595,106243273-1_316832,Georges Claude Quai de dépose,,1,,shp_3_11,0,0
-067167001:B,12595,106243274-1_316833,Georges Claude Quai de dépose,,1,,shp_3_11,0,0
-067167001:B,12595,106243275-1_316834,Georges Claude Quai de dépose,,1,,shp_3_11,0,0
-067167001:B,12595,106243276-1_316835,Georges Claude Quai de dépose,,1,,shp_3_11,0,0
-067167001:B,12595,106243277-1_316836,Georges Claude Quai de dépose,,1,,shp_3_11,0,0
-067167001:B,12595,106243278-1_316837,Georges Claude Quai de dépose,,1,,shp_3_11,0,0
-067167001:B,12595,106243279-1_316838,Georges Claude Quai de dépose,,1,,shp_3_11,0,0
-067167001:B,12595,106243280-1_316839,Georges Claude Quai de dépose,,1,,shp_3_11,0,0
-067167001:B,12595,106243281-1_316840,Georges Claude Quai de dépose,,1,,shp_3_11,0,0
-067167001:B,12595,106243282-1_316841,Georges Claude Quai de dépose,,1,,shp_3_11,0,0
-067167001:B,12595,106243283-1_316842,Georges Claude Quai de dépose,,1,,shp_3_11,0,0
-067167001:B,12595,106243284-1_316843,Georges Claude Quai de dépose,,1,,shp_3_11,0,0
-067167001:B,12595,106243285-1_316844,Georges Claude Quai de dépose,,1,,shp_3_11,0,0
-067167001:B,12595,106243286-1_316845,Georges Claude Quai de dépose,,1,,shp_3_11,0,0
-067167001:B,12595,106243287-1_316846,Georges Claude Quai de dépose,,1,,shp_3_11,0,0
-067167001:B,12595,106243288-1_316847,Georges Claude Quai de dépose,,1,,shp_3_11,0,0
-067167001:B,12595,106243289-1_316848,Georges Claude Quai de dépose,,1,,shp_3_11,0,0
-067167001:B,12595,106243290-1_316849,Georges Claude Quai de dépose,,1,,shp_3_11,0,0
-067167001:B,12595,106243291-1_316850,Georges Claude Quai de dépose,,1,,shp_3_11,0,0
-067167001:B,12595,106243292-1_316851,Georges Claude Quai de dépose,,1,,shp_3_11,0,0
-067167001:B,12595,106243293-1_316852,Georges Claude Quai de dépose,,1,,shp_3_11,0,0
-067167001:B,12595,106243294-1_316853,Georges Claude Quai de dépose,,1,,shp_3_11,0,0
-067167001:B,12595,106243295-1_316854,Georges Claude Quai de dépose,,1,,shp_3_11,0,0
-067167001:B,12595,106243296-1_316855,Georges Claude Quai de dépose,,1,,shp_3_11,0,0
-067167001:B,12595,106243297-1_316856,Georges Claude Quai de dépose,,1,,shp_3_11,0,0
-067167001:B,12595,106243298-1_316857,Georges Claude Quai de dépose,,1,,shp_3_11,0,0
-067167001:B,12595,106243299-1_316858,Georges Claude Quai de dépose,,1,,shp_3_11,0,0
-067167001:B,12595,106243300-1_316859,Georges Claude Quai de dépose,,1,,shp_3_11,0,0
-067167001:B,12595,106243301-1_316860,Georges Claude Quai de dépose,,1,,shp_3_11,0,0
-067167001:B,12595,106243302-1_316861,Georges Claude Quai de dépose,,1,,shp_3_11,0,0
-067167001:B,12595,106243303-1_316862,Georges Claude Quai de dépose,,1,,shp_3_11,0,0
-067167001:B,12595,106243304-1_316863,Georges Claude Quai de dépose,,1,,shp_3_11,0,0
-067167001:B,12595,106243305-1_316864,Georges Claude Quai de dépose,,1,,shp_3_11,0,0
-067167001:B,12595,106243306-1_316865,Georges Claude Quai de dépose,,1,,shp_3_11,0,0
-067167001:B,7161,106243307-1_316866,Georges Claude Quai de dépose,,1,,shp_3_11,0,0
-067167001:B,7161,106243308-1_316867,Georges Claude Quai de dépose,,1,,shp_3_11,0,0
-067167001:B,7161,106243309-1_316868,Georges Claude Quai de dépose,,1,,shp_3_11,0,0
-067167001:B,7161,106243310-1_316869,Georges Claude Quai de dépose,,1,,shp_3_11,0,0
-067167001:B,7161,106243311-1_316870,Georges Claude Quai de dépose,,1,,shp_3_11,0,0
-067167001:B,7161,106243312-1_316871,Georges Claude Quai de dépose,,1,,shp_3_11,0,0
-067167001:B,7161,106243313-1_316872,Georges Claude Quai de dépose,,1,,shp_3_11,0,0
-067167001:B,7161,106243314-1_316873,Georges Claude Quai de dépose,,1,,shp_3_11,0,0
-067167001:B,7161,106243315-1_316874,Georges Claude Quai de dépose,,1,,shp_3_11,0,0
-067167001:B,7161,106243316-1_316875,Georges Claude Quai de dépose,,1,,shp_3_11,0,0
-067167001:B,7161,106243317-1_316876,Georges Claude Quai de dépose,,1,,shp_3_11,0,0
-067167001:B,7161,106243318-1_316877,Georges Claude Quai de dépose,,1,,shp_3_11,0,0
-067167001:B,7161,106243319-1_316878,Georges Claude Quai de dépose,,1,,shp_3_11,0,0
-067167001:B,7161,106243320-1_316879,Georges Claude Quai de dépose,,1,,shp_3_11,0,0
-067167001:B,7161,106243321-1_316880,Georges Claude Quai de dépose,,1,,shp_3_11,0,0
-067167001:B,7161,106243322-1_316881,Georges Claude Quai de dépose,,1,,shp_3_11,0,0
-067167001:B,7161,106243323-1_316882,Georges Claude Quai de dépose,,1,,shp_3_11,0,0
-067167001:B,7161,106243324-1_316883,Georges Claude Quai de dépose,,1,,shp_3_11,0,0
-067167001:B,7161,106243325-1_316884,Georges Claude Quai de dépose,,1,,shp_3_11,0,0
-067167001:B,7161,106243326-1_316885,Georges Claude Quai de dépose,,1,,shp_3_11,0,0
-067167001:B,7161,106243327-1_316886,Georges Claude Quai de dépose,,1,,shp_3_11,0,0
-067167001:B,7161,106243328-1_316887,Georges Claude Quai de dépose,,1,,shp_3_11,0,0
-067167001:B,7161,106243329-1_316888,Georges Claude Quai de dépose,,1,,shp_3_11,0,0
-067167001:B,7161,106243330-1_316889,Georges Claude Quai de dépose,,1,,shp_3_11,0,0
-067167001:B,7161,106243331-1_316890,Georges Claude Quai de dépose,,1,,shp_3_11,0,0
-067167001:B,7161,106243332-1_316891,Georges Claude Quai de dépose,,1,,shp_3_11,0,0
-067167001:B,7161,106243333-1_316892,Georges Claude Quai de dépose,,1,,shp_3_11,0,0
-067167001:B,7161,106243334-1_316893,Georges Claude Quai de dépose,,1,,shp_3_11,0,0
-067167001:B,7161,106243335-1_316894,Georges Claude Quai de dépose,,1,,shp_3_11,0,0
-067167001:B,7161,106243336-1_316895,Georges Claude Quai de dépose,,1,,shp_3_11,0,0
-067167001:B,7161,106243337-1_316896,Georges Claude Quai de dépose,,1,,shp_3_11,0,0
-067167001:B,7161,106243338-1_316897,Georges Claude Quai de dépose,,1,,shp_3_11,0,0
-067167001:B,7161,106243339-1_316898,Georges Claude Quai de dépose,,1,,shp_3_11,0,0
-067167001:B,12595,106243340-1_316737,Gare de Meaux - Quai De dépose,,0,,shp_3_19,0,0
-067167001:B,12595,106243341-1_316738,Gare de Meaux - Quai De dépose,,0,,shp_3_19,0,0
-067167001:B,12595,106243342-1_316739,Gare de Meaux - Quai De dépose,,0,,shp_3_19,0,0
-067167001:B,12595,106243343-1_316740,Gare de Meaux - Quai De dépose,,0,,shp_3_19,0,0
-067167001:B,12595,106243344-1_316741,Gare de Meaux - Quai De dépose,,0,,shp_3_19,0,0
-067167001:B,12595,106243345-1_316742,Gare de Meaux - Quai De dépose,,0,,shp_3_19,0,0
-067167001:B,12595,106243346-1_316743,Gare de Meaux - Quai De dépose,,0,,shp_3_19,0,0
-067167001:B,12595,106243347-1_316744,Gare de Meaux - Quai De dépose,,0,,shp_3_19,0,0
-067167001:B,12595,106243348-1_316745,Gare de Meaux - Quai De dépose,,0,,shp_3_19,0,0
-067167001:B,12595,106243349-1_316746,Gare de Meaux - Quai De dépose,,0,,shp_3_19,0,0
-067167001:B,12595,106243350-1_316747,Gare de Meaux - Quai De dépose,,0,,shp_3_19,0,0
-067167001:B,12595,106243351-1_316748,Gare de Meaux - Quai De dépose,,0,,shp_3_19,0,0
-067167001:B,12595,106243352-1_316749,Gare de Meaux - Quai De dépose,,0,,shp_3_19,0,0
-067167001:B,12595,106243353-1_316750,Gare de Meaux - Quai De dépose,,0,,shp_3_19,0,0
-067167001:B,12595,106243354-1_316751,Gare de Meaux - Quai De dépose,,0,,shp_3_19,0,0
-067167001:B,12595,106243355-1_316752,Gare de Meaux - Quai De dépose,,0,,shp_3_19,0,0
-067167001:B,12595,106243356-1_316753,Gare de Meaux - Quai De dépose,,0,,shp_3_19,0,0
-067167001:B,12595,106243357-1_316754,Gare de Meaux - Quai De dépose,,0,,shp_3_19,0,0
-067167001:B,12595,106243358-1_316755,Gare de Meaux - Quai De dépose,,0,,shp_3_19,0,0
-067167001:B,12595,106243359-1_316756,Gare de Meaux - Quai De dépose,,0,,shp_3_19,0,0
-067167001:B,12595,106243360-1_316757,Gare de Meaux - Quai De dépose,,0,,shp_3_19,0,0
-067167001:B,12595,106243361-1_316758,Gare de Meaux - Quai De dépose,,0,,shp_3_19,0,0
-067167001:B,12595,106243362-1_316759,Gare de Meaux - Quai De dépose,,0,,shp_3_19,0,0
-067167001:B,12595,106243363-1_316760,Gare de Meaux - Quai De dépose,,0,,shp_3_19,0,0
-067167001:B,12595,106243364-1_316761,Gare de Meaux - Quai De dépose,,0,,shp_3_19,0,0
-067167001:B,12595,106243365-1_316762,Gare de Meaux - Quai De dépose,,0,,shp_3_19,0,0
-067167001:B,12595,106243366-1_316763,Gare de Meaux - Quai De dépose,,0,,shp_3_19,0,0
-067167001:B,12595,106243367-1_316764,Gare de Meaux - Quai De dépose,,0,,shp_3_19,0,0
-067167001:B,12595,106243368-1_316765,Gare de Meaux - Quai De dépose,,0,,shp_3_19,0,0
-067167001:B,12595,106243369-1_316766,Gare de Meaux - Quai De dépose,,0,,shp_3_19,0,0
-067167001:B,12595,106243370-1_316767,Gare de Meaux - Quai De dépose,,0,,shp_3_19,0,0
-067167001:B,12595,106243371-1_316768,Gare de Meaux - Quai De dépose,,0,,shp_3_19,0,0
-067167001:B,12595,106243372-1_316769,Gare de Meaux - Quai De dépose,,0,,shp_3_19,0,0
-067167001:B,12595,106243373-1_316770,Gare de Meaux - Quai De dépose,,0,,shp_3_19,0,0
-067167001:B,12595,106243374-1_316771,Gare de Meaux - Quai De dépose,,0,,shp_3_19,0,0
-067167001:B,12595,106243375-1_316772,Gare de Meaux - Quai De dépose,,0,,shp_3_19,0,0
-067167001:B,12595,106243376-1_316773,Gare de Meaux - Quai De dépose,,0,,shp_3_19,0,0
-067167001:B,7161,106243377-1_316774,Gare de Meaux - Quai De dépose,,0,,shp_3_19,0,0
-067167001:B,7161,106243378-1_316775,Gare de Meaux - Quai De dépose,,0,,shp_3_19,0,0
-067167001:B,7161,106243379-1_316776,Gare de Meaux - Quai De dépose,,0,,shp_3_19,0,0
-067167001:B,7161,106243380-1_316777,Gare de Meaux - Quai De dépose,,0,,shp_3_19,0,0
-067167001:B,7161,106243381-1_316778,Gare de Meaux - Quai De dépose,,0,,shp_3_19,0,0
-067167001:B,7161,106243382-1_316779,Gare de Meaux - Quai De dépose,,0,,shp_3_19,0,0
-067167001:B,7161,106243383-1_316780,Gare de Meaux - Quai De dépose,,0,,shp_3_19,0,0
-067167001:B,7161,106243384-1_316781,Gare de Meaux - Quai De dépose,,0,,shp_3_19,0,0
-067167001:B,7161,106243385-1_316782,Gare de Meaux - Quai De dépose,,0,,shp_3_19,0,0
-067167001:B,7161,106243386-1_316783,Gare de Meaux - Quai De dépose,,0,,shp_3_19,0,0
-067167001:B,7161,106243387-1_316784,Gare de Meaux - Quai De dépose,,0,,shp_3_19,0,0
-067167001:B,7161,106243388-1_316785,Gare de Meaux - Quai De dépose,,0,,shp_3_19,0,0
-067167001:B,7161,106243389-1_316786,Gare de Meaux - Quai De dépose,,0,,shp_3_19,0,0
-067167001:B,7161,106243390-1_316787,Gare de Meaux - Quai De dépose,,0,,shp_3_19,0,0
-067167001:B,7161,106243391-1_316788,Gare de Meaux - Quai De dépose,,0,,shp_3_19,0,0
-067167001:B,7161,106243392-1_316789,Gare de Meaux - Quai De dépose,,0,,shp_3_19,0,0
-067167001:B,7161,106243393-1_316790,Gare de Meaux - Quai De dépose,,0,,shp_3_19,0,0
-067167001:B,7161,106243394-1_316791,Gare de Meaux - Quai De dépose,,0,,shp_3_19,0,0
-067167001:B,7161,106243395-1_316792,Gare de Meaux - Quai De dépose,,0,,shp_3_19,0,0
-067167001:B,7161,106243396-1_316793,Gare de Meaux - Quai De dépose,,0,,shp_3_19,0,0
-067167001:B,7161,106243397-1_316794,Gare de Meaux - Quai De dépose,,0,,shp_3_19,0,0
-067167001:B,7161,106243398-1_316795,Gare de Meaux - Quai De dépose,,0,,shp_3_19,0,0
-067167001:B,7161,106243399-1_316796,Gare de Meaux - Quai De dépose,,0,,shp_3_19,0,0
-067167001:B,7161,106243400-1_316797,Gare de Meaux - Quai De dépose,,0,,shp_3_19,0,0
-067167001:B,7161,106243401-1_316798,Gare de Meaux - Quai De dépose,,0,,shp_3_19,0,0
-067167001:B,7161,106243402-1_316799,Gare de Meaux - Quai De dépose,,0,,shp_3_19,0,0
-067167001:B,7161,106243403-1_316800,Gare de Meaux - Quai De dépose,,0,,shp_3_19,0,0
-067167001:B,7161,106243404-1_316801,Gare de Meaux - Quai De dépose,,0,,shp_3_19,0,0
-067167001:B,7161,106243405-1_316802,Gare de Meaux - Quai De dépose,,0,,shp_3_19,0,0
-067167001:B,7161,106243406-1_316803,Gare de Meaux - Quai De dépose,,0,,shp_3_19,0,0
-067167001:B,7161,106243407-1_316804,Gare de Meaux - Quai De dépose,,0,,shp_3_19,0,0
-067167001:B,7161,106243408-1_316805,Gare de Meaux - Quai De dépose,,0,,shp_3_19,0,0
-067167001:B,7161,106243409-1_316806,Gare de Meaux - Quai De dépose,,0,,shp_3_19,0,0
-067167001:B,7161,106243410-1_316899,Georges Claude Quai de dépose,,1,,shp_3_11,0,0
-067167001:B,7161,106243411-1_316900,Georges Claude Quai de dépose,,1,,shp_3_11,0,0
-067167001:B,7161,106243412-1_316901,Georges Claude Quai de dépose,,1,,shp_3_11,0,0
-067167001:B,7161,106243413-1_316902,Georges Claude Quai de dépose,,1,,shp_3_11,0,0
-067167001:B,7161,106243414-1_316807,Gare de Meaux - Quai De dépose,,0,,shp_3_19,0,0
-067167001:B,7161,106243415-1_316808,Gare de Meaux - Quai De dépose,,0,,shp_3_19,0,0
-067167001:B,7161,106243416-1_316809,Gare de Meaux - Quai De dépose,,0,,shp_3_19,0,0
-067167001:B,7161,106243417-1_316810,Gare de Meaux - Quai De dépose,,0,,shp_3_19,0,0
-067167004:H,12595,106243418-1_316591,Gare de Meaux - Quai De dépose,,0,,shp_3_5,0,0
-067167004:H,12595,106243419-1_316592,Gare de Meaux - Quai De dépose,,0,,shp_3_5,0,0
-067167004:H,12595,106243420-1_316593,Gare de Meaux - Quai De dépose,,0,,shp_3_5,0,0
-067167004:H,12595,106243421-1_316594,Gare de Meaux - Quai De dépose,,0,,shp_3_5,0,0
-067167004:H,12595,106243422-1_316595,Gare de Meaux - Quai De dépose,,0,,shp_3_5,0,0
-067167004:H,12595,106243423-1_316596,Gare de Meaux - Quai De dépose,,0,,shp_3_5,0,0
-067167004:H,12595,106243424-1_316597,Gare de Meaux - Quai De dépose,,0,,shp_3_5,0,0
-067167004:H,12595,106243425-1_316598,Gare de Meaux - Quai De dépose,,0,,shp_3_5,0,0
-067167004:H,12595,106243426-1_316599,Gare de Meaux - Quai De dépose,,0,,shp_3_5,0,0
-067167004:H,12595,106243427-1_316600,Gare de Meaux - Quai De dépose,,0,,shp_3_5,0,0
-067167004:H,12595,106243428-1_316601,Gare de Meaux - Quai De dépose,,0,,shp_3_5,0,0
-067167004:H,12595,106243429-1_316602,Gare de Meaux - Quai De dépose,,0,,shp_3_5,0,0
-067167004:H,12595,106243430-1_316603,Gare de Meaux - Quai De dépose,,0,,shp_3_5,0,0
-067167004:H,12595,106243431-1_316604,Gare de Meaux - Quai De dépose,,0,,shp_3_5,0,0
-067167004:H,12595,106243432-1_316605,Gare de Meaux - Quai De dépose,,0,,shp_3_5,0,0
-067167004:H,12595,106243433-1_316606,Gare de Meaux - Quai De dépose,,0,,shp_3_5,0,0
-067167004:H,12595,106243434-1_316607,Gare de Meaux - Quai De dépose,,0,,shp_3_5,0,0
-067167004:H,12595,106243435-1_316608,Gare de Meaux - Quai De dépose,,0,,shp_3_5,0,0
-067167004:H,12595,106243436-1_316609,Gare de Meaux - Quai De dépose,,0,,shp_3_5,0,0
-067167004:H,12595,106243437-1_316610,Gare de Meaux - Quai De dépose,,0,,shp_3_5,0,0
-067167004:H,12595,106243438-1_316611,Gare de Meaux - Quai De dépose,,0,,shp_3_5,0,0
-067167004:H,12595,106243439-1_316612,Gare de Meaux - Quai De dépose,,0,,shp_3_5,0,0
-067167004:H,12595,106243440-1_316613,Gare de Meaux - Quai De dépose,,0,,shp_3_5,0,0
-067167004:H,12595,106243441-1_316614,Gare de Meaux - Quai De dépose,,0,,shp_3_5,0,0
-067167004:H,12595,106243442-1_316615,Gare de Meaux - Quai De dépose,,0,,shp_3_5,0,0
-067167004:H,12595,106243443-1_316616,Gare de Meaux - Quai De dépose,,0,,shp_3_5,0,0
-067167004:H,12595,106243444-1_316617,Gare de Meaux - Quai De dépose,,0,,shp_3_5,0,0
-067167004:H,12595,106243445-1_316618,Gare de Meaux - Quai De dépose,,0,,shp_3_5,0,0
-067167004:H,12595,106243446-1_316619,Gare de Meaux - Quai De dépose,,0,,shp_3_5,0,0
-067167004:H,12595,106243447-1_316620,Gare de Meaux - Quai De dépose,,0,,shp_3_5,0,0
-067167004:H,12595,106243448-1_316621,Gare de Meaux - Quai De dépose,,0,,shp_3_5,0,0
-067167004:H,12595,106243449-1_316622,Gare de Meaux - Quai De dépose,,0,,shp_3_5,0,0
-067167004:H,12595,106243450-1_316623,Gare de Meaux - Quai De dépose,,0,,shp_3_5,0,0
-067167004:H,12595,106243451-1_316624,Gare de Meaux - Quai De dépose,,0,,shp_3_5,0,0
-067167004:H,12595,106243452-1_316625,Gare de Meaux - Quai De dépose,,0,,shp_3_5,0,0
-067167004:H,7161,106243453-1_316626,Gare de Meaux - Quai De dépose,,0,,shp_3_5,0,0
-067167004:H,7161,106243454-1_316627,Gare de Meaux - Quai De dépose,,0,,shp_3_5,0,0
-067167004:H,7161,106243455-1_316628,Gare de Meaux - Quai De dépose,,0,,shp_3_5,0,0
-067167004:H,7161,106243456-1_316629,Gare de Meaux - Quai De dépose,,0,,shp_3_5,0,0
-067167004:H,7161,106243457-1_316630,Gare de Meaux - Quai De dépose,,0,,shp_3_5,0,0
-067167004:H,7161,106243458-1_316631,Gare de Meaux - Quai De dépose,,0,,shp_3_5,0,0
-067167004:H,7161,106243459-1_316632,Gare de Meaux - Quai De dépose,,0,,shp_3_5,0,0
-067167004:H,7161,106243460-1_316633,Gare de Meaux - Quai De dépose,,0,,shp_3_5,0,0
-067167004:H,7161,106243461-1_316634,Gare de Meaux - Quai De dépose,,0,,shp_3_5,0,0
-067167004:H,7161,106243462-1_316635,Gare de Meaux - Quai De dépose,,0,,shp_3_5,0,0
-067167004:H,7161,106243463-1_316636,Gare de Meaux - Quai De dépose,,0,,shp_3_5,0,0
-067167004:H,7161,106243464-1_316637,Gare de Meaux - Quai De dépose,,0,,shp_3_5,0,0
-067167004:H,7161,106243465-1_316638,Gare de Meaux - Quai De dépose,,0,,shp_3_5,0,0
-067167004:H,7161,106243466-1_316639,Gare de Meaux - Quai De dépose,,0,,shp_3_5,0,0
-067167004:H,7161,106243467-1_316640,Gare de Meaux - Quai De dépose,,0,,shp_3_5,0,0
-067167004:H,7161,106243468-1_316641,Gare de Meaux - Quai De dépose,,0,,shp_3_5,0,0
-067167004:H,7161,106243469-1_316642,Gare de Meaux - Quai De dépose,,0,,shp_3_5,0,0
-067167004:H,7161,106243470-1_316643,Gare de Meaux - Quai De dépose,,0,,shp_3_5,0,0
-067167004:H,7161,106243471-1_316644,Gare de Meaux - Quai De dépose,,0,,shp_3_5,0,0
-067167004:H,7161,106243472-1_316645,Gare de Meaux - Quai De dépose,,0,,shp_3_5,0,0
-067167004:H,7161,106243473-1_316646,Gare de Meaux - Quai De dépose,,0,,shp_3_5,0,0
-067167004:H,7161,106243474-1_316647,Gare de Meaux - Quai De dépose,,0,,shp_3_5,0,0
-067167004:H,7161,106243475-1_316648,Gare de Meaux - Quai De dépose,,0,,shp_3_5,0,0
-067167004:H,7161,106243476-1_316649,Gare de Meaux - Quai De dépose,,0,,shp_3_5,0,0
-067167004:H,7161,106243477-1_316650,Gare de Meaux - Quai De dépose,,0,,shp_3_5,0,0
-067167004:H,7161,106243478-1_316651,Gare de Meaux - Quai De dépose,,0,,shp_3_5,0,0
-067167004:H,7161,106243479-1_316652,Gare de Meaux - Quai De dépose,,0,,shp_3_5,0,0
-067167004:H,7161,106243480-1_316653,Gare de Meaux - Quai De dépose,,0,,shp_3_5,0,0
-067167004:H,7161,106243481-1_316654,Gare de Meaux - Quai De dépose,,0,,shp_3_5,0,0
-067167004:H,7161,106243482-1_316655,Gare de Meaux - Quai De dépose,,0,,shp_3_5,0,0
-067167004:H,7161,106243483-1_316656,Gare de Meaux - Quai De dépose,,0,,shp_3_5,0,0
-067167004:H,7161,106243484-1_316657,Gare de Meaux - Quai De dépose,,0,,shp_3_5,0,0
-067167004:H,7161,106243485-1_316658,Gare de Meaux - Quai De dépose,,0,,shp_3_5,0,0
-067167004:H,7161,106243486-1_316659,Gare de Meaux - Quai De dépose,,0,,shp_3_5,0,0
-067167004:H,7161,106243487-1_316660,Gare de Meaux - Quai De dépose,,0,,shp_3_5,0,0
-067167009:I,12595,106243488-1_316405,Colisée de Meaux,,0,,shp_3_13,0,0
-067167009:I,12595,106243489-1_316406,Colisée de Meaux,,0,,shp_3_13,0,0
-067167009:I,12595,106243490-1_316407,Colisée de Meaux,,0,,shp_3_13,0,0
-067167009:I,12595,106243491-1_316408,Colisée de Meaux,,0,,shp_3_13,0,0
-067167009:I,12595,106243492-1_316409,Colisée de Meaux,,0,,shp_3_13,0,0
-067167009:I,12595,106243493-1_316410,Colisée de Meaux,,0,,shp_3_13,0,0
-067167009:I,12595,106243494-1_316411,Colisée de Meaux,,0,,shp_3_13,0,0
-067167009:I,12595,106243495-1_316412,Colisée de Meaux,,0,,shp_3_13,0,0
-067167009:I,12595,106243496-1_316413,Colisée de Meaux,,0,,shp_3_13,0,0
-067167009:I,12595,106243497-1_316414,Colisée de Meaux,,0,,shp_3_13,0,0
-067167009:I,12595,106243498-1_316415,Colisée de Meaux,,0,,shp_3_13,0,0
-067167009:I,12595,106243499-1_316416,Colisée de Meaux,,0,,shp_3_13,0,0
-067167009:I,12595,106243500-1_316417,Colisée de Meaux,,0,,shp_3_13,0,0
-067167009:I,12595,106243501-1_316418,Colisée de Meaux,,0,,shp_3_13,0,0
-067167009:I,12595,106243502-1_316419,Colisée de Meaux,,0,,shp_3_13,0,0
-067167009:I,12595,106243503-1_316420,Colisée de Meaux,,0,,shp_3_13,0,0
-067067005:C,12595,106243520-1_316694,Gare de Meaux - Quai De dépose,,0,,shp_3_28,0,0
-067067005:C,12595,106243521-1_316695,Gare de Meaux - Quai De dépose,,0,,shp_3_28,0,0
-067067005:C,12595,106243522-1_316696,Gare de Meaux - Quai De dépose,,0,,shp_3_28,0,0
-067067005:C,12595,106243523-1_316697,Gare de Meaux - Quai De dépose,,0,,shp_3_28,0,0
-067067005:C,12595,106243524-1_316698,Gare de Meaux - Quai De dépose,,0,,shp_3_28,0,0
-067067005:C,12595,106243525-1_316699,Gare de Meaux - Quai De dépose,,0,,shp_3_28,0,0
-067067005:C,12595,106243526-1_316700,Gare de Meaux - Quai De dépose,,0,,shp_3_28,0,0
-067067005:C,12595,106243527-1_316701,Gare de Meaux - Quai De dépose,,0,,shp_3_28,0,0
-067067005:C,12595,106243528-1_316702,Gare de Meaux - Quai De dépose,,0,,shp_3_28,0,0
-067067005:C,12595,106243529-1_316703,Gare de Meaux - Quai De dépose,,0,,shp_3_28,0,0
-067067005:C,12595,106243530-1_316704,Gare de Meaux - Quai De dépose,,0,,shp_3_28,0,0
-067067005:C,12595,106243531-1_316705,Gare de Meaux - Quai De dépose,,0,,shp_3_28,0,0
-067067005:C,12595,106243532-1_316706,Gare de Meaux - Quai De dépose,,0,,shp_3_28,0,0
-067067005:C,12595,106243533-1_316707,Gare de Meaux - Quai De dépose,,0,,shp_3_28,0,0
-067067005:C,12595,106243534-1_316708,Gare de Meaux - Quai De dépose,,0,,shp_3_28,0,0
-067067005:C,12595,106243535-1_316709,Gare de Meaux - Quai De dépose,,0,,shp_3_28,0,0
-067067005:C,12595,106243536-1_316710,Gare de Meaux - Quai De dépose,,0,,shp_3_28,0,0
-067067005:C,12595,106243537-1_316711,Gare de Meaux - Quai De dépose,,0,,shp_3_28,0,0
-067067005:C,12595,106243538-1_316712,Gare de Meaux - Quai De dépose,,0,,shp_3_28,0,0
-067067005:C,12595,106243539-1_316713,Gare de Meaux - Quai De dépose,,0,,shp_3_28,0,0
-067067005:C,12595,106243540-1_316714,Gare de Meaux - Quai De dépose,,0,,shp_3_28,0,0
-067067005:C,12595,106243541-1_316715,Gare de Meaux - Quai De dépose,,0,,shp_3_28,0,0
-067067005:C,12595,106243542-1_316716,Gare de Meaux - Quai De dépose,,0,,shp_3_28,0,0
-067067005:C,12595,106243543-1_316717,Gare de Meaux - Quai De dépose,,0,,shp_3_28,0,0
-067067005:C,12595,106243544-1_316718,Gare de Meaux - Quai De dépose,,0,,shp_3_28,0,0
-067167003:E,12595,106243545-1_318079,Gare de Meaux - Quai De dépose,,0,,shp_3_30,0,0
-067167003:E,12595,106243546-1_318080,Gare de Meaux - Quai De dépose,,0,,shp_3_30,0,0
-067167003:E,12595,106243547-1_318081,Gare de Meaux - Quai De dépose,,0,,shp_3_30,0,0
-067167003:E,12595,106243548-1_318082,Gare de Meaux - Quai De dépose,,0,,shp_3_30,0,0
-067167003:E,12595,106243549-1_318083,Gare de Meaux - Quai De dépose,,0,,shp_3_30,0,0
-067167003:E,12595,106243550-1_318084,Gare de Meaux - Quai De dépose,,0,,shp_3_30,0,0
-067167003:E,12595,106243551-1_318085,Gare de Meaux - Quai De dépose,,0,,shp_3_30,0,0
-067167003:E,12595,106243552-1_318086,Gare de Meaux - Quai De dépose,,0,,shp_3_30,0,0
-067167003:E,12595,106243553-1_318087,Gare de Meaux - Quai De dépose,,0,,shp_3_30,0,0
-067167003:E,12595,106243554-1_318088,Gare de Meaux - Quai De dépose,,0,,shp_3_30,0,0
-067167003:E,12595,106243555-1_318089,Gare de Meaux - Quai De dépose,,0,,shp_3_30,0,0
-067167003:E,12595,106243556-1_318090,Gare de Meaux - Quai De dépose,,0,,shp_3_30,0,0
-067167003:E,12595,106243557-1_318091,Gare de Meaux - Quai De dépose,,0,,shp_3_30,0,0
-067167003:E,12595,106243558-1_318092,Gare de Meaux - Quai De dépose,,0,,shp_3_30,0,0
-067167003:E,12595,106243559-1_318093,Gare de Meaux - Quai De dépose,,0,,shp_3_30,0,0
-067167003:E,12595,106243560-1_318094,Gare de Meaux - Quai De dépose,,0,,shp_3_30,0,0
-067167003:E,12595,106243561-1_318095,Gare de Meaux - Quai De dépose,,0,,shp_3_30,0,0
-067167003:E,12595,106243562-1_318096,Gare de Meaux - Quai De dépose,,0,,shp_3_30,0,0
-067167003:E,12595,106243563-1_318097,Gare de Meaux - Quai De dépose,,0,,shp_3_30,0,0
-067167003:E,12595,106243564-1_318098,Gare de Meaux - Quai De dépose,,0,,shp_3_30,0,0
-067167003:E,12595,106243565-1_318099,Gare de Meaux - Quai De dépose,,0,,shp_3_30,0,0
-067167003:E,12595,106243566-1_318100,Gare de Meaux - Quai De dépose,,0,,shp_3_30,0,0
-067167003:E,12595,106243567-1_318101,Gare de Meaux - Quai De dépose,,0,,shp_3_30,0,0
-067167003:E,12595,106243568-1_318102,Gare de Meaux - Quai De dépose,,0,,shp_3_30,0,0
-067167003:E,12595,106243569-1_318103,Gare de Meaux - Quai De dépose,,0,,shp_3_30,0,0
-067167008:D,12595,106243570-1_317638,Les Saisons de Meaux,,0,,shp_3_23,0,0
-067167008:D,12595,106243571-1_317639,Les Saisons de Meaux,,0,,shp_3_23,0,0
-067167008:D,12595,106243572-1_317640,Les Saisons de Meaux,,0,,shp_3_23,0,0
-067167008:D,12595,106243573-1_317641,Les Saisons de Meaux,,0,,shp_3_23,0,0
-067167008:D,12595,106243574-1_317642,Les Saisons de Meaux,,0,,shp_3_23,0,0
-067167008:D,12595,106243575-1_317643,Les Saisons de Meaux,,0,,shp_3_23,0,0
-067167008:D,12595,106243576-1_317644,Les Saisons de Meaux,,0,,shp_3_23,0,0
-067167008:D,12595,106243577-1_317645,Les Saisons de Meaux,,0,,shp_3_23,0,0
-067167008:D,12595,106243578-1_317646,Les Saisons de Meaux,,0,,shp_3_23,0,0
-067167008:D,12595,106243579-1_317647,Les Saisons de Meaux,,0,,shp_3_23,0,0
-067167008:D,12595,106243580-1_317648,Les Saisons de Meaux,,0,,shp_3_23,0,0
-067167008:D,12595,106243581-1_317649,Les Saisons de Meaux,,0,,shp_3_23,0,0
-067167008:D,12595,106243582-1_317650,Les Saisons de Meaux,,0,,shp_3_23,0,0
-067167008:D,12595,106243583-1_317651,Les Saisons de Meaux,,0,,shp_3_23,0,0
-067167008:D,12595,106243584-1_317652,Les Saisons de Meaux,,0,,shp_3_23,0,0
-067167008:D,12595,106243585-1_317653,Les Saisons de Meaux,,0,,shp_3_23,0,0
-067167008:D,12595,106243586-1_317654,Les Saisons de Meaux,,0,,shp_3_23,0,0
-067167008:D,12595,106243587-1_317655,Les Saisons de Meaux,,0,,shp_3_23,0,0
-067167008:D,12595,106243588-1_317656,Les Saisons de Meaux,,0,,shp_3_23,0,0
-067167008:D,12595,106243589-1_317657,Les Saisons de Meaux,,0,,shp_3_23,0,0
-067167008:D,12595,106243590-1_317658,Les Saisons de Meaux,,0,,shp_3_23,0,0
-067167008:D,12595,106243591-1_317659,Les Saisons de Meaux,,0,,shp_3_23,0,0
-067167008:D,12595,106243592-1_317660,Les Saisons de Meaux,,0,,shp_3_23,0,0
-067167008:D,12595,106243593-1_317661,Les Saisons de Meaux,,0,,shp_3_23,0,0
-067167008:D,12595,106243594-1_317662,Les Saisons de Meaux,,0,,shp_3_23,0,0
-067167008:D,12595,106243595-1_317663,Les Saisons de Meaux,,0,,shp_3_23,0,0
-067167008:D,12595,106243596-1_317664,Les Saisons de Meaux,,0,,shp_3_23,0,0
-067167008:D,12595,106243597-1_317665,Les Saisons de Meaux,,0,,shp_3_23,0,0
-067167008:D,12595,106243598-1_317666,Les Saisons de Meaux,,0,,shp_3_23,0,0
-067167008:D,12595,106243599-1_317769,Les Platanes,,1,,shp_3_10,0,0
-067167008:D,12595,106243600-1_317770,Georges Claude Quai de dépose,,1,,shp_3_31,0,0
-067167008:D,12595,106243601-1_317771,Les Platanes,,1,,shp_3_10,0,0
-067167008:D,12595,106243602-1_317772,Georges Claude Quai de dépose,,1,,shp_3_31,0,0
-067167008:D,12595,106243603-1_317773,Les Platanes,,1,,shp_3_10,0,0
-067167008:D,12595,106243604-1_317774,Georges Claude Quai de dépose,,1,,shp_3_31,0,0
-067167008:D,12595,106243605-1_317775,Les Platanes,,1,,shp_3_10,0,0
-067167008:D,12595,106243606-1_317776,Les Platanes,,1,,shp_3_10,0,0
-067167008:D,12595,106243607-1_317777,Georges Claude Quai de dépose,,1,,shp_3_31,0,0
-067167008:D,12595,106243608-1_317778,Les Platanes,,1,,shp_3_10,0,0
-067167008:D,12595,106243609-1_317779,Georges Claude Quai de dépose,,1,,shp_3_31,0,0
-067167008:D,12595,106243610-1_317780,Les Platanes,,1,,shp_3_10,0,0
-067167008:D,12595,106243611-1_317781,Georges Claude Quai de dépose,,1,,shp_3_31,0,0
-067167008:D,12595,106243612-1_317782,Les Platanes,,1,,shp_3_10,0,0
-067167008:D,12595,106243613-1_317783,Georges Claude Quai de dépose,,1,,shp_3_31,0,0
-067167008:D,12595,106243614-1_317784,Georges Claude Quai de dépose,,1,,shp_3_31,0,0
-067167008:D,12595,106243615-1_317785,Les Platanes,,1,,shp_3_10,0,0
-067167008:D,12595,106243616-1_317786,Georges Claude Quai de dépose,,1,,shp_3_31,0,0
-067167008:D,12595,106243617-1_317787,Les Platanes,,1,,shp_3_10,0,0
-067167008:D,12595,106243618-1_317788,Georges Claude Quai de dépose,,1,,shp_3_31,0,0
-067167008:D,12595,106243619-1_317789,Les Platanes,,1,,shp_3_10,0,0
-067167008:D,12595,106243620-1_317790,Georges Claude Quai de dépose,,1,,shp_3_31,0,0
-067167008:D,12595,106243621-1_317791,Les Platanes,,1,,shp_3_10,0,0
-067167008:D,12595,106243622-1_317792,Georges Claude Quai de dépose,,1,,shp_3_31,0,0
-067167008:D,12595,106243623-1_317793,Les Platanes,,1,,shp_3_10,0,0
-067167008:D,12595,106243624-1_317794,Georges Claude Quai de dépose,,1,,shp_3_31,0,0
-067167008:D,12595,106243625-1_317795,Les Platanes,,1,,shp_3_10,0,0
-067167008:D,12595,106243626-1_317796,Georges Claude Quai de dépose,,1,,shp_3_31,0,0
-067167008:D,12595,106243627-1_317797,Les Platanes,,1,,shp_3_10,0,0
-067167008:D,12595,106243628-1_317798,Georges Claude Quai de dépose,,1,,shp_3_31,0,0
-067167008:D,12595,106243629-1_317799,Les Platanes,,1,,shp_3_10,0,0
-067167008:D,12595,106243630-1_317800,Georges Claude Quai de dépose,,1,,shp_3_31,0,0
-067167008:D,12595,106243631-1_317801,Les Platanes,,1,,shp_3_10,0,0
-067167008:D,12595,106243632-1_317802,Georges Claude Quai de dépose,,1,,shp_3_31,0,0
-067167008:D,12595,106243633-1_317803,Les Platanes,,1,,shp_3_10,0,0
-067167008:D,12595,106243634-1_317804,Georges Claude Quai de dépose,,1,,shp_3_31,0,0
-067167008:D,12595,106243635-1_317805,Les Platanes,,1,,shp_3_10,0,0
-067167008:D,12595,106243636-1_317806,Georges Claude Quai de dépose,,1,,shp_3_31,0,0
-067167008:D,12595,106243637-1_317807,Les Platanes,,1,,shp_3_10,0,0
-067167008:D,12595,106243638-1_317808,Georges Claude Quai de dépose,,1,,shp_3_31,0,0
-067167008:D,12595,106243639-1_317809,Les Platanes,,1,,shp_3_10,0,0
-067167008:D,12595,106243640-1_317810,Georges Claude Quai de dépose,,1,,shp_3_31,0,0
-067167008:D,12595,106243641-1_317811,Les Platanes,,1,,shp_3_10,0,0
-067167008:D,12595,106243642-1_317812,Georges Claude Quai de dépose,,1,,shp_3_31,0,0
-067167008:D,12595,106243643-1_317813,Les Platanes,,1,,shp_3_10,0,0
-067167008:D,12595,106243644-1_317814,Georges Claude Quai de dépose,,1,,shp_3_31,0,0
-067167008:D,12595,106243645-1_317815,Les Platanes,,1,,shp_3_10,0,0
-067167008:D,12595,106243646-1_317816,Georges Claude Quai de dépose,,1,,shp_3_31,0,0
-067167008:D,12595,106243647-1_317817,Les Platanes,,1,,shp_3_10,0,0
-067167008:D,12595,106243648-1_317818,Georges Claude Quai de dépose,,1,,shp_3_31,0,0
-067167008:D,12595,106243649-1_317819,Les Platanes,,1,,shp_3_10,0,0
-067167008:D,12595,106243650-1_317820,Georges Claude Quai de dépose,,1,,shp_3_31,0,0
-067167008:D,12595,106243651-1_317821,Les Platanes,,1,,shp_3_10,0,0
-067167008:D,12595,106243652-1_317822,Georges Claude Quai de dépose,,1,,shp_3_31,0,0
-067167008:D,12595,106243653-1_317823,Georges Claude Quai de dépose,,1,,shp_3_31,0,0
-067167008:D,12595,106243654-1_317667,Les Saisons de Meaux,,0,,shp_3_12,0,0
-067167008:D,12595,106243655-1_317668,Les Saisons de Meaux,,0,,shp_3_12,0,0
-067167008:D,12595,106243656-1_317669,Les Saisons de Meaux,,0,,shp_3_12,0,0
-067167008:D,12595,106243657-1_317670,Les Saisons de Meaux,,0,,shp_3_12,0,0
-067167008:D,12595,106243658-1_317671,Les Saisons de Meaux,,0,,shp_3_12,0,0
-067167008:D,12595,106243659-1_317672,Les Saisons de Meaux,,0,,shp_3_12,0,0
-067167008:D,12595,106243660-1_317673,Les Saisons de Meaux,,0,,shp_3_12,0,0
-067167008:D,12595,106243661-1_317674,Les Saisons de Meaux,,0,,shp_3_12,0,0
-067167008:D,12595,106243662-1_317675,Les Saisons de Meaux,,0,,shp_3_12,0,0
-067167008:D,12595,106243663-1_317676,Les Saisons de Meaux,,0,,shp_3_12,0,0
-067167008:D,12595,106243664-1_317677,Les Saisons de Meaux,,0,,shp_3_12,0,0
-067167008:D,12595,106243665-1_317678,Les Saisons de Meaux,,0,,shp_3_12,0,0
-067167008:D,12595,106243666-1_317679,Les Saisons de Meaux,,0,,shp_3_12,0,0
-067167008:D,12595,106243667-1_317680,Les Saisons de Meaux,,0,,shp_3_12,0,0
-067167008:D,12595,106243668-1_317681,Les Saisons de Meaux,,0,,shp_3_12,0,0
-067167008:D,12595,106243669-1_317682,Les Saisons de Meaux,,0,,shp_3_12,0,0
-067167008:D,12595,106243670-1_317683,Les Saisons de Meaux,,0,,shp_3_12,0,0
-067167008:D,12595,106243671-1_317684,Les Saisons de Meaux,,0,,shp_3_12,0,0
-067167008:D,12595,106243672-1_317685,Les Saisons de Meaux,,0,,shp_3_12,0,0
-067167008:D,12595,106243673-1_317686,Les Saisons de Meaux,,0,,shp_3_12,0,0
-067167008:D,12595,106243674-1_317687,Les Saisons de Meaux,,0,,shp_3_12,0,0
-067167008:D,12595,106243675-1_317688,Les Saisons de Meaux,,0,,shp_3_12,0,0
-067167008:D,12595,106243676-1_317689,Les Saisons de Meaux,,0,,shp_3_12,0,0
-067167008:D,12595,106243677-1_317690,Les Saisons de Meaux,,0,,shp_3_12,0,0
-067167008:D,12595,106243678-1_317691,Les Saisons de Meaux,,0,,shp_3_12,0,0
-067167008:D,12595,106243679-1_317692,Les Saisons de Meaux,,0,,shp_3_12,0,0
-067167008:D,12595,106243680-1_317693,Les Saisons de Meaux,,0,,shp_3_12,0,0
-067167008:D,12595,106243681-1_317694,Les Saisons de Meaux,,0,,shp_3_12,0,0
-067167008:D,12595,106243682-1_317695,Les Saisons de Meaux,,0,,shp_3_12,0,0
-067167008:D,12595,106243683-1_317696,Les Saisons de Meaux,,0,,shp_3_12,0,0
-067067064:K,12595,106243684-1_316325,Gare de Meaux - Quai De dépose,,0,,shp_3_29,0,0
-067067064:K,12595,106243685-1_316326,Gare de Meaux - Quai De dépose,,0,,shp_3_25,0,0
-067067064:K,12595,106243686-1_316327,Gare de Meaux - Quai De dépose,,0,,shp_3_25,0,0
-067067002:J,7160,106243687-1_316346,Georges Claude Quai 4,,0,,shp_3_8,0,0
-067067002:J,12595,106243688-1_316347,Georges Claude Quai 4,,0,,shp_3_8,0,0
-067067002:J,12595,106243689-1_316348,Georges Claude Quai 4,,0,,shp_3_8,0,0
-067067002:J,12595,106243690-1_316349,Georges Claude Quai 4,,0,,shp_3_8,0,0
-067067002:J,12595,106243691-1_316350,Georges Claude Quai 4,,0,,shp_3_8,0,0
-067067002:J,12595,106243692-1_316351,Georges Claude Quai 4,,0,,shp_3_8,0,0
-067067002:J,12595,106243693-1_316352,Georges Claude Quai 4,,0,,shp_3_8,0,0
-067067002:J,12595,106243694-1_316353,Georges Claude Quai 4,,0,,shp_3_8,0,0
-067067002:J,12595,106243695-1_316354,Georges Claude Quai 4,,0,,shp_3_8,0,0
-067067002:J,12595,106243696-1_316355,Georges Claude Quai 4,,0,,shp_3_8,0,0
-067067002:J,12595,106243697-1_316356,Georges Claude Quai 4,,0,,shp_3_8,0,0
-067067002:J,12595,106243698-1_316357,Georges Claude Quai 4,,0,,shp_3_8,0,0
-067067002:J,12595,106243699-1_316358,Georges Claude Quai 4,,0,,shp_3_8,0,0
-067067002:J,12595,106243700-1_316359,Georges Claude Quai 4,,0,,shp_3_8,0,0
-067067002:J,12595,106243701-1_316360,Georges Claude Quai 4,,0,,shp_3_8,0,0
-067067002:J,12595,106243702-1_316361,Georges Claude Quai 4,,0,,shp_3_8,0,0
-067067002:J,12595,106243703-1_316375,Jean Renoir,,1,,shp_3_22,0,0
-067067002:J,12595,106243704-1_316376,Jean Renoir,,1,,shp_3_22,0,0
-067067002:J,12595,106243705-1_316377,Jean Renoir,,1,,shp_3_22,0,0
-067067002:J,12595,106243706-1_316378,Jean Renoir,,1,,shp_3_22,0,0
-067067002:J,12595,106243707-1_316379,Jean Renoir,,1,,shp_3_22,0,0
-067067002:J,12595,106243708-1_316380,Jean Renoir,,1,,shp_3_22,0,0
-067067002:J,12595,106243709-1_316381,Jean Renoir,,1,,shp_3_22,0,0
-067067002:J,12595,106243710-1_316382,Jean Renoir,,1,,shp_3_22,0,0
-067067002:J,12595,106243711-1_316383,Jean Renoir,,1,,shp_3_22,0,0
-067067002:J,12595,106243712-1_316384,Jean Renoir,,1,,shp_3_22,0,0
-067067002:J,12595,106243713-1_316385,Jean Renoir,,1,,shp_3_22,0,0
-067067002:J,12595,106243714-1_316386,Jean Renoir,,1,,shp_3_22,0,0
-067067002:J,12595,106243715-1_316387,Jean Renoir,,1,,shp_3_22,0,0
-067067002:J,12595,106243716-1_316388,Jean Renoir,,1,,shp_3_22,0,0
-067067020:M,12595,106243717-1_316535,Georges Claude Quai 4,,0,,shp_3_2,0,0
-067067020:M,12595,106243718-1_316536,Georges Claude Quai 4,,0,,shp_3_2,0,0
-067067020:M,12595,106243719-1_316537,Georges Claude Quai 4,,0,,shp_3_2,0,0
-067067020:M,12595,106243720-1_316538,Georges Claude Quai 4,,0,,shp_3_2,0,0
-067067020:M,12595,106243721-1_316539,Georges Claude Quai 4,,0,,shp_3_2,0,0
-067067020:M,12595,106243722-1_316540,Georges Claude Quai 4,,0,,shp_3_2,0,0
-067067020:M,12595,106243723-1_316541,Georges Claude Quai 4,,0,,shp_3_2,0,0
-067067020:M,12595,106243724-1_316542,Georges Claude Quai 4,,0,,shp_3_2,0,0
-067067020:M,12595,106243725-1_316543,Georges Claude Quai 4,,0,,shp_3_2,0,0
-067067020:M,12595,106243726-1_316544,Georges Claude Quai 4,,0,,shp_3_2,0,0
-067067020:M,12595,106243727-1_316545,Georges Claude Quai 4,,0,,shp_3_2,0,0
-067067020:M,12595,106243728-1_316556,Eglise,,1,,shp_3_27,0,0
-067067020:M,12595,106243729-1_316557,Eglise,,1,,shp_3_27,0,0
-067067020:M,12595,106243730-1_316558,Eglise,,1,,shp_3_27,0,0
-067067020:M,12595,106243731-1_316559,Eglise,,1,,shp_3_27,0,0
-067067020:M,12595,106243732-1_316560,Eglise,,1,,shp_3_27,0,0
-067067020:M,12595,106243733-1_316561,Eglise,,1,,shp_3_27,0,0
-067067020:M,12595,106243734-1_316562,Eglise,,1,,shp_3_27,0,0
-067067020:M,12595,106243735-1_316563,Eglise,,1,,shp_3_27,0,0
-067067020:M,12595,106243736-1_316564,Eglise,,1,,shp_3_27,0,0
-067067020:M,12595,106243737-1_316565,Eglise,,1,,shp_3_27,0,0
-067067020:M,12595,106243738-1_316566,Eglise,,1,,shp_3_27,0,0
-067067064:K,12595,106243739-1_316328,Gare de Meaux - Quai De dépose,,0,,shp_3_25,0,0
-067067064:K,12595,106243740-1_316329,Gare de Meaux - Quai De dépose,,0,,shp_3_6,0,0
-067067064:K,12595,106243741-1_316330,Gare de Meaux - Quai De dépose,,0,,shp_3_6,0,0
-067067064:K,12595,106243742-1_316331,Gare de Meaux - Quai De dépose,,0,,shp_3_6,0,0
-067067064:K,12595,106243743-1_316332,Gare de Meaux - Quai De dépose,,0,,shp_3_6,0,0
-067067064:K,12595,106243744-1_316333,Gare de Meaux - Quai De dépose,,0,,shp_3_6,0,0
-067167010:N,12595,106243745-1_316512,Gare de Meaux - Quai De dépose,,0,,shp_3_9,0,0
-067167010:N,12595,106243746-1_316513,Gare de Meaux - Quai De dépose,,0,,shp_3_9,0,0
-067167010:N,12595,106243747-1_316514,Gare de Meaux - Quai De dépose,,0,,shp_3_9,0,0
-067167010:N,12595,106243748-1_316515,Gare de Meaux - Quai De dépose,,0,,shp_3_15,0,0
-067167010:N,12595,106243749-1_316516,Gare de Meaux - Quai De dépose,,0,,shp_3_15,0,0
-067167010:N,12595,106243750-1_316517,Gare de Meaux - Quai De dépose,,0,,shp_3_9,0,0
-067167010:N,12595,106243751-1_316518,Gare de Meaux - Quai De dépose,,0,,shp_3_9,0,0
-067167010:N,12595,106243752-1_316519,Gare de Meaux - Quai De dépose,,0,,shp_3_9,0,0
-067167010:N,12595,106243753-1_316520,Gare de Meaux - Quai De dépose,,0,,shp_3_15,0,0
-067167010:N,12595,106243754-1_316521,Gare de Meaux - Quai De dépose,,0,,shp_3_9,0,0
-067167010:N,12595,106243755-1_316522,Gare de Meaux - Quai De dépose,,0,,shp_3_9,0,0
-067167010:N,12595,106243756-1_316523,Gare de Meaux - Quai De dépose,,0,,shp_3_9,0,0
-067167010:N,12595,106243757-1_316524,Gare de Meaux - Quai De dépose,,0,,shp_3_9,0,0
+067067033:33,8173,105985012-1_115763,Gare SNCF,,1,,shp_3_44,0,0
+067067034:34,9933,105985013-1_115784,Mairie,,0,,shp_3_2,0,0
+067067034:34,9934,105985014-1_115785,Mairie,,0,,shp_3_2,0,0
+067067034:34,9933,105985015-1_115786,Mairie,,0,,shp_3_2,0,0
+067067034:34,9933,105985016-1_115787,Mairie,,0,,shp_3_2,0,0
+067067034:34,9934,105985017-1_115788,Mairie,,0,,shp_3_2,0,0
+067067034:34,9934,105985018-1_115789,Mairie,,0,,shp_3_2,0,0
+067067034:34,11111,105985019-1_115790,Mairie,,0,,shp_3_2,0,0
+067067034:34,9934,105985020-1_115791,Mairie,,0,,shp_3_2,0,0
+067067034:34,9933,105985021-1_115792,Mairie,,0,,shp_3_2,0,0
+067067034:34,11111,105985022-1_115793,Mairie,,0,,shp_3_2,0,0
+067067034:34,9934,105985023-1_115794,Mairie,,0,,shp_3_2,0,0
+067067034:34,9934,105985030-1_115798,Gare SNCF,,1,,shp_3_31,0,0
+067067034:34,9934,105985031-1_115799,Gare SNCF,,1,,shp_3_31,0,0
+067067034:34,9934,105985032-1_115800,Gare SNCF,,1,,shp_3_31,0,0
+067067034:34,9934,105985033-1_115801,Gare SNCF,,1,,shp_3_31,0,0
+067067034:34,9934,105985034-1_115802,Gare SNCF,,1,,shp_3_31,0,0
+067067034:34,11111,105985035-1_115803,Gare SNCF,,1,,shp_3_31,0,0
+067067034:34,11111,105985036-1_115804,Gare SNCF,,1,,shp_3_31,0,0
+067067034:34,9934,105985041-1_115805,Gare SNCF,,1,,shp_3_67,0,0
+067067035:35,9934,105985046-1_115873,Place St Claude,,0,,shp_3_30,0,0
+067067035:35,9934,105985048-1_115874,Place St Claude,,0,,shp_3_30,0,0
+067067035:35,9934,105985049-1_115875,Place St Claude,,0,,shp_3_30,0,0
+067067035:35,9934,105985050-1_115876,Place St Claude,,0,,shp_3_30,0,0
+067067035:35,9934,105985055-1_115878,Gare SNCF,,1,,shp_3_43,0,0
+067067035:35,13057,105985056-1_115879,Gare SNCF,,1,,shp_3_65,0,0
+067067049:49B,9933,105985073-1_114712,Montmirail,,0,,shp_3_61,0,0
+067067049:49B,9933,105985074-1_114713,Montmirail,,0,,shp_3_61,0,0
+067067049:49B,9934,105985075-1_114714,Gare SNCF,,0,,shp_3_50,0,0
+067067049:49B,9934,105985076-1_114715,Gare SNCF,,0,,shp_3_50,0,0
+067067049:49B,9934,105985077-1_114716,Gare SNCF,,0,,shp_3_50,0,0
+067067049:49A,11111,105985078-1_115734,Favières,,0,,shp_3_37,0,0
+067067049:49A,9934,105985079-1_115735,Favières,,0,,shp_3_53,0,0
+067067049:49A,9934,105985080-1_115736,Favières,,0,,shp_3_53,0,0
+067067049:49A,11111,105985081-1_115737,Favières,,0,,shp_3_53,0,0
+067067049:49A,9934,105985082-1_115738,Favières,,0,,shp_3_19,0,0
+067067049:49A,9934,105985083-1_115739,Favières,,0,,shp_3_21,0,0
+067067049:49A,9934,105985084-1_115740,Favières,,0,,shp_3_19,0,0
+067067049:49A,11111,105985085-1_115741,Favières,,0,,shp_3_19,0,0
+067067049:49A,9934,105985086-1_115742,Gare SNCF,,0,,shp_3_11,0,0
+067067049:49A,11111,105985087-1_115743,Gare SNCF,,0,,shp_3_11,0,0
+067067056:56,9934,105985102-1_114724,Gare Routière,,0,,shp_3_47,0,0
+067067056:56,9934,105985105-1_114725,Gare Routière,,0,,shp_3_47,0,0
+067067056:56,9934,105985106-1_114726,Gare Routière,,0,,shp_3_47,0,0
+067067056:56,9934,105985107-1_114727,Gare Routière,,0,,shp_3_47,0,0
+067067056:56,9934,105985108-1_114728,Gare Routière,,0,,shp_3_47,0,0
+067067056:56,9934,105985109-1_114729,Gare Routière,,0,,shp_3_47,0,0
+067067056:56,9934,105985110-1_114730,Gare Routière,,0,,shp_3_47,0,0
+067067056:56,9934,105985111-1_114731,Gare Routière,,0,,shp_3_47,0,0
+067067056:56,9934,105985112-1_114732,Gare Routière,,0,,shp_3_47,0,0
+067067056:56,11111,105985113-1_114733,Gare Routière,,0,,shp_3_47,0,0
+067067056:56,11111,105985114-1_114734,Gare Routière,,0,,shp_3_47,0,0
+067067056:56,11111,105985115-1_114735,Gare Routière,,0,,shp_3_47,0,0
+067067056:56,11111,105985116-1_114736,Gare Routière,,0,,shp_3_47,0,0
+067067056:56,9934,105985120-1_114747,Gare SNCF,,1,,shp_3_70,0,0
+067067056:56,9934,105985121-1_114748,Gare SNCF,,1,,shp_3_70,0,0
+067067056:56,9934,105985122-1_114749,Gare SNCF,,1,,shp_3_70,0,0
+067067056:56,9934,105985123-1_114750,Gare SNCF,,1,,shp_3_70,0,0
+067067056:56,9934,105985124-1_114751,Gare SNCF,,1,,shp_3_70,0,0
+067067056:56,9934,105985125-1_114752,Gare SNCF,,1,,shp_3_70,0,0
+067067056:56,9934,105985126-1_114753,Gare SNCF,,1,,shp_3_70,0,0
+067067056:56,9934,105985127-1_114754,Gare SNCF,,1,,shp_3_70,0,0
+067067056:56,9934,105985128-1_114755,Gare SNCF,,1,,shp_3_70,0,0
+067067056:56,9934,105985129-1_114756,Gare SNCF,,1,,shp_3_70,0,0
+067067056:56,9934,105985130-1_114757,Gare SNCF,,1,,shp_3_70,0,0
+067067056:56,9934,105985131-1_114758,Gare SNCF,,1,,shp_3_70,0,0
+067067056:56,11111,105985132-1_114759,Gare SNCF,,1,,shp_3_70,0,0
+067067056:56,11111,105985133-1_114760,Gare SNCF,,1,,shp_3_70,0,0
+067067056:56,11111,105985134-1_114761,Gare SNCF,,1,,shp_3_70,0,0
+067067056:56,11111,105985135-1_114762,Gare SNCF,,1,,shp_3_70,0,0
+067067062:62,9934,105985273-1_114598,Gare RER - Quai de dépose,,0,,shp_3_9,0,0
+067067062:62,9934,105985274-1_114599,Gare RER - Quai de dépose,,0,,shp_3_9,0,0
+067067062:62,9934,105985275-1_114600,Gare RER - Quai de dépose,,0,,shp_3_9,0,0
+067067062:62,9934,105985276-1_114648,Gare SNCF,,1,,shp_3_29,0,0
+067067034:34,11111,105985428-1_115795,Mairie,,0,,shp_3_2,0,0
+067067034:34,9934,105985429-1_115806,Gare SNCF,,1,,shp_3_31,0,0
+067067034:34,11111,105985430-1_115807,Gare SNCF,,1,,shp_3_31,0,0
+067067049:49B,9934,105985433-1_114717,Gare SNCF,,0,,shp_3_50,0,0
+067067049:49A,9934,105985500-1_115744,Favières,,0,,shp_3_19,0,0
+067067056:56,11111,105985502-1_114737,Gare Routière,,0,,shp_3_47,0,0
+067067056:56,11111,105985503-1_114738,Gare Routière,,0,,shp_3_47,0,0
+067067056:56,11111,105985504-1_114739,Gare Routière,,0,,shp_3_47,0,0
+067067056:56,11111,105985505-1_114763,Gare SNCF,,1,,shp_3_70,0,0
+067067056:56,11111,105985506-1_114764,Gare SNCF,,1,,shp_3_70,0,0
+067067056:56,11111,105985507-1_114765,Gare SNCF,,1,,shp_3_70,0,0
+067067033:33,8173,105985587-1_115759,Centre,,0,,shp_3_39,0,0
+067067033:33,9934,105985588-1_115764,Gare SNCF,,1,,shp_3_44,0,0
+067067062:62,9934,105985591-1_114601,Gare RER - Quai de dépose,,0,,shp_3_9,0,0
+067067062:62,9934,105985592-1_114602,Gare RER - Quai de dépose,,0,,shp_3_9,0,0
+067067062:62,9934,105985593-1_114603,Gare RER - Quai de dépose,,0,,shp_3_9,0,0
+067067062:62,9934,105985594-1_114604,Gare RER - Quai de dépose,,0,,shp_3_9,0,0
+067067062:62,9934,105985595-1_114605,Gare RER - Quai de dépose,,0,,shp_3_9,0,0
+067067062:62,9934,105985596-1_114606,Gare RER - Quai de dépose,,0,,shp_3_9,0,0
+067067062:62,9934,105985597-1_114607,Gare RER - Quai de dépose,,0,,shp_3_9,0,0
+067067062:62,9934,105985598-1_114608,Gare RER - Quai de dépose,,0,,shp_3_9,0,0
+067067062:62,9934,105985599-1_114609,Gare RER - Quai de dépose,,0,,shp_3_9,0,0
+067067062:62,9934,105985600-1_114610,Gare RER - Quai de dépose,,0,,shp_3_9,0,0
+067067062:62,9934,105985601-1_114611,Gare RER - Quai de dépose,,0,,shp_3_9,0,0
+067067062:62,9934,105985602-1_114612,Gare RER - Quai de dépose,,0,,shp_3_9,0,0
+067067062:62,9934,105985603-1_114613,Gare RER - Quai de dépose,,0,,shp_3_9,0,0
+067067062:62,9934,105985604-1_114614,Gare RER - Quai de dépose,,0,,shp_3_9,0,0
+067067062:62,13057,105985605-1_114615,Gare RER - Quai de dépose,,0,,shp_3_9,0,0
+067067062:62,9934,105985606-1_114616,Gare RER - Quai de dépose,,0,,shp_3_9,0,0
+067067062:62,13057,105985607-1_114617,Gare RER - Quai de dépose,,0,,shp_3_9,0,0
+067067062:62,13405,105985608-1_114618,Gare RER - Quai de dépose,,0,,shp_3_9,0,0
+067067062:62,9934,105985609-1_114619,Gare RER - Quai de dépose,,0,,shp_3_9,0,0
+067067062:62,13405,105985610-1_114620,Gare RER - Quai de dépose,,0,,shp_3_9,0,0
+067067062:62,9934,105985611-1_114621,Gare RER - Quai de dépose,,0,,shp_3_9,0,0
+067067062:62,13405,105985612-1_114622,Gare RER - Quai de dépose,,0,,shp_3_9,0,0
+067067062:62,13405,105985613-1_114649,Gare SNCF,,1,,shp_3_29,0,0
+067067062:62,9934,105985614-1_114650,Gare SNCF,,1,,shp_3_29,0,0
+067067062:62,9934,105985615-1_114651,Gare SNCF,,1,,shp_3_29,0,0
+067067062:62,9934,105985616-1_114652,Gare SNCF,,1,,shp_3_29,0,0
+067067062:62,9934,105985617-1_114653,Gare SNCF,,1,,shp_3_29,0,0
+067067062:62,9934,105985618-1_114654,Gare SNCF,,1,,shp_3_29,0,0
+067067062:62,9934,105985619-1_114655,Gare SNCF,,1,,shp_3_29,0,0
+067067062:62,9934,105985620-1_114656,Gare SNCF,,1,,shp_3_29,0,0
+067067062:62,9934,105985621-1_114657,Gare SNCF,,1,,shp_3_29,0,0
+067067062:62,9934,105985622-1_114658,Gare SNCF,,1,,shp_3_29,0,0
+067067062:62,9934,105985623-1_114659,Gare SNCF,,1,,shp_3_29,0,0
+067067062:62,9934,105985624-1_114660,Gare SNCF,,1,,shp_3_29,0,0
+067067062:62,9934,105985625-1_114661,Gare SNCF,,1,,shp_3_29,0,0
+067067062:62,9934,105985626-1_114662,Gare SNCF,,1,,shp_3_29,0,0
+067067062:62,9934,105985627-1_114663,Gare SNCF,,1,,shp_3_29,0,0
+067067062:62,9934,105985628-1_114664,Gare SNCF,,1,,shp_3_29,0,0
+067067062:62,9934,105985629-1_114665,Gare SNCF,,1,,shp_3_29,0,0
+067067062:62,9934,105985630-1_114666,Gare SNCF,,1,,shp_3_29,0,0
+067067062:62,13057,105985631-1_114667,Gare SNCF,,1,,shp_3_29,0,0
+067067062:62,9934,105985632-1_114668,Gare SNCF,,1,,shp_3_29,0,0
+067067062:62,9934,105985633-1_114669,Gare SNCF,,1,,shp_3_29,0,0
+067067062:62,13405,105985634-1_114670,Gare SNCF,,1,,shp_3_29,0,0
+067067062:62,9934,105985635-1_114671,Gare SNCF,,1,,shp_3_29,0,0
+067067062:62,9934,105985636-1_114672,Gare SNCF,,1,,shp_3_29,0,0
+067067062:62,12024,105985637-1_114673,Gare SNCF,,1,,shp_3_29,0,0
+067067062:62,12024,105985638-1_114674,Gare SNCF,,1,,shp_3_29,0,0
+067067062:62,12024,105985639-1_114675,Gare SNCF,,1,,shp_3_29,0,0
+067067062:62,12024,105985640-1_114676,Gare SNCF,,1,,shp_3_29,0,0
+067067062:62,12024,105985641-1_114677,Gare SNCF,,1,,shp_3_29,0,0
+067067062:62,12024,105985642-1_114678,Gare SNCF,,1,,shp_3_29,0,0
+067067062:62,12024,105985643-1_114679,Gare SNCF,,1,,shp_3_29,0,0
+067067062:62,12024,105985644-1_114680,Gare SNCF,,1,,shp_3_29,0,0
+067067062:62,12024,105985645-1_114681,Gare SNCF,,1,,shp_3_29,0,0
+067067062:62,12024,105985646-1_114682,Gare SNCF,,1,,shp_3_29,0,0
+067067062:62,12024,105985647-1_114683,Gare SNCF,,1,,shp_3_29,0,0
+067067062:62,12024,105985648-1_114684,Gare SNCF,,1,,shp_3_29,0,0
+067067062:62,12024,105985649-1_114685,Gare SNCF,,1,,shp_3_29,0,0
+067067035:35,9933,105985670-1_115877,Place St Claude,,0,,shp_3_30,0,0
+067177067:67,13405,105985676-1_115039,Gare SNCF,,1,,shp_3_60,0,0
+067177067:67,13405,105985677-1_115040,Gare SNCF,,1,,shp_3_60,0,0
+067177067:67,13405,105985678-1_115041,Gare SNCF,,1,,shp_3_60,0,0
+067177067:67,13405,105985679-1_115042,Gare SNCF,,1,,shp_3_60,0,0
+067067049:49B,9934,105985686-1_114718,Montmirail,,0,,shp_3_61,0,0
+067067049:49B,9933,105985687-1_114719,Montmirail,,0,,shp_3_61,0,0
+067067062:62,12024,105985703-1_114623,Gare RER - Quai de dépose,,0,,shp_3_9,0,0
+067067062:62,12024,105985704-1_114624,Gare RER - Quai de dépose,,0,,shp_3_9,0,0
+067067062:62,12024,105985705-1_114625,Gare RER - Quai de dépose,,0,,shp_3_9,0,0
+067067062:62,12024,105985706-1_114626,Gare RER - Quai de dépose,,0,,shp_3_9,0,0
+067067062:62,12024,105985707-1_114627,Gare RER - Quai de dépose,,0,,shp_3_9,0,0
+067067062:62,12024,105985708-1_114628,Gare RER - Quai de dépose,,0,,shp_3_9,0,0
+067067062:62,12024,105985709-1_114629,Gare RER - Quai de dépose,,0,,shp_3_9,0,0
+067067062:62,12024,105985710-1_114630,Gare RER - Quai de dépose,,0,,shp_3_9,0,0
+067067062:62,12024,105985711-1_114631,Gare RER - Quai de dépose,,0,,shp_3_9,0,0
+067067062:62,12024,105985712-1_114632,Gare RER - Quai de dépose,,0,,shp_3_9,0,0
+067067062:62,12024,105985713-1_114633,Gare RER - Quai de dépose,,0,,shp_3_9,0,0
+067067062:62,12024,105985714-1_114634,Gare RER - Quai de dépose,,0,,shp_3_9,0,0
+067067062:62,12024,105985715-1_114635,Gare RER - Quai de dépose,,0,,shp_3_9,0,0
+067067056:56,9933,105985720-1_114766,Gare SNCF,,1,,shp_3_70,0,0
+067067056:56,11110,105985721-1_114767,Gare SNCF,,1,,shp_3_70,0,0
+067067034:34,11111,105985729-1_115796,Mairie,,0,,shp_3_2,0,0
+067067049:49B,9934,105985730-1_114720,Favières,,0,,shp_3_26,0,0
+067067031:31,9934,105985743-1_115550,Gare SNCF,,0,,shp_3_12,0,0
+067067031:31,9934,105985744-1_115551,Gare SNCF,,0,,shp_3_24,0,0
+067067031:31,7744,105985745-1_115552,Gare SNCF,,0,,shp_3_24,0,0
+067067031:31,11111,105985746-1_115553,Gare SNCF,,0,,shp_3_24,0,0
+067067031:31,9934,105985749-1_115554,Gare SNCF,,0,,shp_3_25,0,0
+067067031:31,9934,105985750-1_115555,Gare SNCF,,0,,shp_3_28,0,0
+067067031:31,11111,105985751-1_115556,Gare SNCF,,0,,shp_3_25,0,0
+067067031:31,9934,105985752-1_115557,Gare SNCF,,0,,shp_3_7,0,0
+067067031:31,9934,105985753-1_115558,Gare SNCF,,0,,shp_3_7,0,0
+067067031:31,9934,105985754-1_115559,Gare SNCF,,0,,shp_3_7,0,0
+067067031:31,9934,105985756-1_115560,Gare SNCF,,0,,shp_3_7,0,0
+067067031:31,7984,105985757-1_115561,Gare SNCF,,0,,shp_3_59,0,0
+067067031:31,9934,105985761-1_115562,Gare SNCF,,0,,shp_3_51,0,0
+067067031:31,11111,105985762-1_115563,Gare SNCF,,0,,shp_3_51,0,0
+067067031:31,7744,105985767-1_115566,Gare SNCF,,1,,shp_3_66,0,0
+067067031:31,9934,105985768-1_115567,Gare SNCF,,1,,shp_3_66,0,0
+067067031:31,9934,105985769-1_115568,Gare SNCF,,1,,shp_3_66,0,0
+067067031:31,9934,105985770-1_115569,Gare SNCF,,1,,shp_3_66,0,0
+067067031:31,9934,105985771-1_115570,Gare SNCF,,1,,shp_3_45,0,0
+067067031:31,9934,105985772-1_115571,Gare SNCF,,1,,shp_3_20,0,0
+067067031:31,9934,105985773-1_115572,Gare SNCF,,1,,shp_3_20,0,0
+067067031:31,9934,105985774-1_115573,Gare SNCF,,1,,shp_3_20,0,0
+067067031:31,11111,105985775-1_115574,Gare SNCF,,1,,shp_3_20,0,0
+067067031:31,9934,105985778-1_115575,Agouries,,1,,shp_3_35,0,0
+067067031:31,9934,105985781-1_115576,Agouries,,1,,shp_3_35,0,0
+067067031:31,9934,105985782-1_115577,Agouries,,1,,shp_3_35,0,0
+067067031:31,7984,105985784-1_115578,Caumont,,1,,shp_3_34,0,0
+067067031:31,9933,105985785-1_115579,Agouries,,1,,shp_3_15,0,0
+067067031:31,9934,105985787-1_115580,Chamoust,,1,,shp_3_36,0,0
+067067031:31,9933,105985789-1_115581,Chamoust,,1,,shp_3_41,0,0
+067067056:56,9933,105985917-1_114740,Gare Routière,,0,,shp_3_47,0,0
+067067056:56,11111,105985929-1_114741,Gare Routière,,0,,shp_3_47,0,0
+067067056:56,11110,105985930-1_114742,Gare Routière,,0,,shp_3_47,0,0
+067067062:62,9934,105985944-1_114686,Gare SNCF,,1,,shp_3_29,0,0
+067067062:62,9934,105985945-1_114636,Gare RER - Quai de dépose,,0,,shp_3_9,0,0
+067067062:62,9934,105985946-1_114637,Gare RER - Quai de dépose,,0,,shp_3_9,0,0
+067067062:62,9934,105985947-1_114638,Gare RER - Quai de dépose,,0,,shp_3_9,0,0
+067067062:62,9934,105985948-1_114639,Gare RER - Quai de dépose,,0,,shp_3_9,0,0
+067067062:62,9934,105985949-1_114687,Gare SNCF,,1,,shp_3_29,0,0
+067067062:62,9934,105985950-1_114688,Gare SNCF,,1,,shp_3_29,0,0
+067067062:62,9934,105985951-1_114689,Gare SNCF,,1,,shp_3_29,0,0
+067067056:56,9933,105986041-1_114743,Gare Routière,,0,,shp_3_47,0,0
+067067062:62,9934,105986045-1_114640,Gare RER - Quai de dépose,,0,,shp_3_9,0,0
+067067062:62,9934,105986046-1_114641,Gare RER - Quai de dépose,,0,,shp_3_9,0,0
+067067062:62,9934,105986047-1_114642,Gare RER - Quai de dépose,,0,,shp_3_9,0,0
+067067062:62,9934,105986048-1_114643,Gare RER - Quai de dépose,,0,,shp_3_9,0,0
+067067062:62,9934,105986049-1_114644,Gare RER - Quai de dépose,,0,,shp_3_9,0,0
+067067062:62,9934,105986050-1_114645,Gare RER - Quai de dépose,,0,,shp_3_9,0,0
+067067062:62,9934,105986051-1_114646,Gare RER - Quai de dépose,,0,,shp_3_9,0,0
+067067062:62,13223,105986052-1_114647,Gare RER - Quai de dépose,,0,,shp_3_9,0,0
+067067062:62,9934,105986053-1_114690,Gare SNCF,,1,,shp_3_29,0,0
+067067062:62,9934,105986054-1_114691,Gare SNCF,,1,,shp_3_29,0,0
+067067062:62,9934,105986055-1_114692,Gare SNCF,,1,,shp_3_29,0,0
+067067062:62,9934,105986056-1_114693,Gare SNCF,,1,,shp_3_29,0,0
+067067062:62,9934,105986057-1_114694,Gare SNCF,,1,,shp_3_29,0,0
+067067062:62,9934,105986058-1_114695,Gare SNCF,,1,,shp_3_29,0,0
+067067062:62,9934,105986059-1_114696,Gare SNCF,,1,,shp_3_29,0,0
+067067062:62,13405,105986060-1_114697,Gare SNCF,,1,,shp_3_29,0,0
+067067062:62,12024,105986061-1_114698,Gare SNCF,,1,,shp_3_29,0,0
+067067062:62,11111,105986062-1_114699,Gare SNCF,,1,,shp_3_29,0,0
+067177067:67,13405,105986065-1_115032,Gare de Roissy - Pôle RER - Quai G3,,0,,shp_3_68,0,0
+067177067:67,13405,105986066-1_115033,Gare de Roissy - Pôle RER - Quai G3,,0,,shp_3_68,0,0
+067177067:67,13405,105986067-1_115034,Gare de Roissy - Pôle RER - Quai G3,,0,,shp_3_68,0,0
+067177067:67,13405,105986068-1_115035,Gare de Roissy - Pôle RER - Quai G3,,0,,shp_3_68,0,0
+067177067:67,13405,105986069-1_115036,Gare de Roissy - Pôle RER - Quai G3,,0,,shp_3_68,0,0
+067177067:67,13405,105986070-1_115037,Gare de Roissy - Pôle RER - Quai G3,,0,,shp_3_68,0,0
+067177067:67,13405,105986071-1_115038,Gare de Roissy - Pôle RER - Quai G3,,0,,shp_3_68,0,0
+067177067:67,13405,105986072-1_115043,Gare SNCF,,1,,shp_3_60,0,0
+067177067:67,13405,105986073-1_115044,Gare SNCF,,1,,shp_3_60,0,0
+067177067:67,13405,105986074-1_115045,Gare SNCF,,1,,shp_3_60,0,0
+067067033:33,9934,105986445-1_115760,Centre,,0,,shp_3_1,0,0
+067067056:56,9933,105986446-1_114744,Gare Routière,,0,,shp_3_47,0,0
+067067031:31,9934,105986447-1_115564,Gare SNCF,,0,,shp_3_56,0,0
+067067031:31,9934,105986448-1_115582,Gare SNCF,,1,,shp_3_58,0,0
+067067033:33,9934,105986449-1_115765,Gare SNCF,,1,,shp_3_44,0,0
+067067033:33,9934,105986450-1_115761,Centre,,0,,shp_3_39,0,0
+067067049:49B,9933,105986451-1_114721,Montmirail,,0,,shp_3_61,0,0
+067067049:49B,9933,105986452-1_114722,Montmirail,,0,,shp_3_61,0,0
+067067049:49B,9934,105986454-1_114723,Les Bellouettes,,0,,shp_3_4,0,0
+067067034:34,6574,105986500-1_115797,Mairie,,0,,shp_3_2,0,0
+067067034:34,6574,105986501-1_115808,Gare SNCF,,1,,shp_3_31,0,0
+067067048:48,9934,105986654-1_115745,Gare SNCF,,0,,shp_3_64,0,0
+067067048:48,9934,105986655-1_115746,Gare SNCF,,0,,shp_3_64,0,0
+067067048:48,9934,105986656-1_115747,Gare SNCF,,0,,shp_3_64,0,0
+067067048:48,9934,105986657-1_115748,Gare SNCF,,0,,shp_3_64,0,0
+067067048:48,9934,105986658-1_115749,Gare SNCF,,0,,shp_3_64,0,0
+067067048:48,9934,105986659-1_115750,Gare SNCF,,0,,shp_3_64,0,0
+067067048:48,9934,105986662-1_115751,Villaré / Château d'Eau,,1,,shp_3_5,0,0
+067067048:48,9934,105986663-1_115752,Villaré / Château d'Eau,,1,,shp_3_5,0,0
+067067048:48,9934,105986664-1_115753,Villaré / Château d'Eau,,1,,shp_3_5,0,0
+067067048:48,9934,105986665-1_115754,Villaré / Château d'Eau,,1,,shp_3_5,0,0
+067067048:48,9934,105986666-1_115755,Villaré / Château d'Eau,,1,,shp_3_5,0,0
+067067048:48,9934,105986667-1_115756,Villaré / Château d'Eau,,1,,shp_3_5,0,0
+067067048:48,9934,105986668-1_115757,Villaré / Château d'Eau,,1,,shp_3_5,0,0
+067067048:48,9934,105986669-1_115758,Villaré / Château d'Eau,,1,,shp_3_5,0,0
+067067032:32,9934,105986671-1_115766,Gare SNCF,,0,,shp_3_33,0,0
+067067032:32,9934,105986672-1_115767,Gare SNCF,,0,,shp_3_33,0,0
+067067032:32,9934,105986673-1_115768,Gare SNCF,,0,,shp_3_33,0,0
+067067032:32,9934,105986675-1_115769,Hameaux de Courcelles,,0,,shp_3_52,0,0
+067067032:32,9933,105986676-1_115770,Gare SNCF,,0,,shp_3_40,0,0
+067067032:32,9934,105986677-1_115771,Gare SNCF,,0,,shp_3_40,0,0
+067067032:32,9934,105986678-1_115772,Gare SNCF,,0,,shp_3_40,0,0
+067067032:32,9934,105986679-1_115773,Gare SNCF,,0,,shp_3_40,0,0
+067067032:32,9934,105986681-1_115774,Poste,,0,,shp_3_3,0,0
+067067032:32,9934,105986682-1_115775,Poste,,0,,shp_3_3,0,0
+067067032:32,9934,105986683-1_115776,Gare SNCF,,1,,shp_3_62,0,0
+067067032:32,9934,105986685-1_115777,Gare SNCF,,1,,shp_3_62,0,0
+067067032:32,9934,105986686-1_115778,Gare SNCF,,1,,shp_3_62,0,0
+067067032:32,9934,105986687-1_115779,Gare SNCF,,1,,shp_3_62,0,0
+067067032:32,9934,105986688-1_115780,Gare SNCF,,1,,shp_3_55,0,0
+067067032:32,9934,105986689-1_115781,Gare SNCF,,1,,shp_3_48,0,0
+067067032:32,9933,105986690-1_115782,Gare SNCF,,1,,shp_3_14,0,0
+067067032:32,9934,105986691-1_115783,Gare SNCF,,1,,shp_3_69,0,0
+067067031:31,9933,105986693-1_115565,Gare SNCF,,0,,shp_3_8,0,0
+067067033:33,9933,105986694-1_115762,Centre,,0,,shp_3_32,0,0
+067067035:35,9934,105986696-1_115880,Ste Beuve,,1,,shp_3_6,0,0
+067067056:56,9934,105986697-1_114768,Gare SNCF,,1,,shp_3_70,0,0
+067067034:34,9934,105986709-1_115809,Gare SNCF,,1,,shp_3_54,0,0
+067067056:56,9934,105986793-1_114745,Gare Routière,,0,,shp_3_47,0,0
+067067056:56,9934,105986794-1_114746,Gare Routière,,0,,shp_3_47,0,0
+097097040:40,10088,106724798-1_126344,Mairie,,1,,shp_3_42,0,0
+097097040:40,10088,106724801-1_126331,Gare SNCF,,0,,shp_3_38,0,0
+097097040:40,13102,106724831-1_126332,Gare SNCF,,0,,shp_3_38,0,0
+097097040:40,10088,106724832-1_126333,Gare SNCF,,0,,shp_3_17,0,0
+097097040:40,10088,106724833-1_126345,Mairie,,1,,shp_3_42,0,0
+097097040:40,13102,106724834-1_126346,Mairie,,1,,shp_3_42,0,0
+097097040:40,10088,106724835-1_126347,Mairie,,1,,shp_3_42,0,0
+097097040:40,10088,106724836-1_126348,Mairie,,1,,shp_3_42,0,0
+097097040:40,10088,106724837-1_126349,Mairie,,1,,shp_3_42,0,0
+097097040:40,10088,106724902-1_126334,Gare SNCF,,0,,shp_3_38,0,0
+097097040:40,11162,106724903-1_126335,Gare SNCF,,0,,shp_3_38,0,0
+097097040:40,13102,106724910-1_126336,Gare SNCF,,0,,shp_3_38,0,0
+097097040:40,13102,106724911-1_126337,Gare SNCF,,0,,shp_3_13,0,0
+097097040:40,13102,106724912-1_126338,Gare SNCF,,0,,shp_3_13,0,0
+097097040:40,13102,106724913-1_126339,Gare SNCF,,0,,shp_3_13,0,0
+097097040:40,13102,106724914-1_126340,Gare SNCF,,0,,shp_3_13,0,0
+097097040:40,13102,106724915-1_126341,Gare SNCF,,0,,shp_3_13,0,0
+097097040:40,13102,106724916-1_126342,Gare SNCF,,0,,shp_3_13,0,0
+097097040:40,13102,106724917-1_126350,Z.I. Le Hainault,,1,,shp_3_16,0,0
+097097040:40,13102,106724918-1_126351,Z.I. Le Hainault,,1,,shp_3_16,0,0
+097097040:40,13102,106724919-1_126352,Z.I. Le Hainault,,1,,shp_3_16,0,0
+097097040:40,13102,106724920-1_126353,Z.I. Le Hainault,,1,,shp_3_16,0,0
+097097040:40,13102,106724921-1_126354,Z.I. Le Hainault,,1,,shp_3_16,0,0
+097097040:40,13102,106724922-1_126355,Z.I. Le Hainault,,1,,shp_3_16,0,0
+097097040:40,13102,106724923-1_126356,Place,,1,,shp_3_63,0,0
+097097040:40,10088,106724982-1_126343,Gare SNCF,,0,,shp_3_38,0,0
+097097041:41A,13102,106725326-1_126552,Gare SNCF,,0,,shp_3_23,0,0
+097097041:41A,10086,106725332-1_126553,Gare SNCF,,0,,shp_3_49,0,0
+097097041:41A,10088,106725336-1_126554,Gare SNCF,,0,,shp_3_27,0,0
+097097041:41A,11162,106725337-1_126555,Gare SNCF,,0,,shp_3_27,0,0
+097097041:41B,10088,106725338-1_126558,Gare SNCF,,0,,shp_3_10,0,0
+097097041:41B,10088,106725339-1_126559,Gare SNCF,,0,,shp_3_10,0,0
+097097041:41B,13102,106725341-1_126560,Gare SNCF,,0,,shp_3_46,0,0
+097097041:41B,13102,106725342-1_126561,Gare SNCF,,0,,shp_3_10,0,0
+097097041:41A,11162,106725347-1_126556,Gare SNCF,,1,,shp_3_22,0,0
+097097041:41B,13102,106725349-1_126562,Gare SNCF,,1,,shp_3_57,0,0
+097097041:41B,10088,106725350-1_126563,Gare SNCF,,1,,shp_3_57,0,0
+097097041:41B,10086,106725353-1_126564,Gare SNCF,,1,,shp_3_57,0,0
+097097041:41B,10088,106725354-1_126565,Gare SNCF,,1,,shp_3_57,0,0
+097097041:41B,11162,106725355-1_126566,Gare SNCF,,1,,shp_3_57,0,0
+097097041:41A,10086,106725720-1_126557,Gare SNCF,,1,,shp_3_18,0,0
