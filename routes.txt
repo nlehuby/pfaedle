@@ -1,11 +1,22 @@
 route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color
-014077704:704,557,704,704,,3,,f39200,000000
-014077705:705,557,705,705,,3,,00b1eb,000000
-014077703:703,557,703,703,,3,,951b81,ffffff
-014077701:701,557,701,701,,3,,c51a1b,ffffff
-014077702:702,557,702,702,,3,,aa856b,000000
-014077707:707,557,707,707,,3,,76b82a,000000
-014077711:711,557,711,711,,3,,009ba4,ffffff
-014077710:710,557,710,710,,3,,ffdd00,000000
-014077708:708,557,708,708,,3,,ffdd00,000000
-014077709:709,557,709,709,,3,,f7a600,000000
+039039005:39-05,101,39-05,39-05 Briis-sous-Forge - Montcouronne - Briis-sous-Forge,,3,,668616,ffffff
+039039307:307,101,307,Express 307 Vélizy - Montigny-le-Bretonneux,,3,,1ac7ff,000000
+039039007:39-07,101,39-07,39-07 Orsay - St-Arnoult-en-Yvelines,,3,,97b0af,000000
+039039103:39-103,101,39-103,39-103 St-Rémy-lès-Chevreuse - Dampierre - Cernay-la-Ville,,3,,ddca00,000000
+039039010:39-10,101,39-10,39-10 St-Rémy-lès-Chevreuse - Domaine St-Paul,,3,,9d0a6d,ffffff
+039262264:264,101,264,264 Versailles - Jouy-en-Josas,,3,,005d9f,ffffff
+039039008:11,101,11,11 Gare de Gif-sur-Yvette - Chevry - Parc Orsay Université,,3,,009a7a,ffffff
+039039004:10,101,10,10 Gif-sur-Yvette - Buc,,3,,f0bcd4,000000
+039262260:260,101,260,260 Versailles - Magny-les-Hameaux,,3,,cf086a,ffffff
+039262262:262,101,262,262 Versailles - St-Rémy-lès-Chevreuse,,3,,e30613,ffffff
+039262261:261,101,261,261 Versailles - Buc/Haut-Pré,,3,,ef7d00,ffffff
+039039012:39-12,101,39-12,39-12 Versailles - Guyancourt - Magny-les-Hameaux,,3,,afb9df,000000
+039039403:39-403,101,39-403,39-403 St-Rémy-lès-Chevreuse - Rhodon - Chevreuse,,3,,936faf,000000
+039039038:39-38,101,39-38,39-38 Angervilliers - Briis-sous-Forge,,3,,4f74a8,ffffff
+039039001:Vanves,101,Vanves,Navette de Vanves,,3,,000000,ffffff
+039039034:39-34,101,39-34,39-34 Boulogne-Billancourt - Guyancourt,,3,,afb9df,000000
+039039017:39-17,101,39-17,39-17 St-Rémy-lès-Chevreuse - La Verrière,,3,,86bc25,000000
+039039013:39-13,101,39-13,39-13 St-Rémy-lès-Chevreuse - Limours,,3,,463d91,ffffff
+039039018:39-18,101,39-18,39-18 Limours - Arpajon,,3,,ec6445,ffffff
+039039303:39-303,101,39-303,39-303 St-Rémy-lès-Chevreuse - Rambouillet,,3,,646363,ffffff
+039039203:39-203,101,39-203,39-203 Cernay - Vieille-Eglise - Rambouillet,,3,,93c465,000000
