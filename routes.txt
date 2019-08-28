@@ -1,47 +1,20 @@
 route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color
-HVI:Line:LR70_20190901,HVI:Authority:1,LR70,Limoges - Cognac la Forêt,,200,,0080ff,000000
-HVI:Line:LRA_20190901,HVI:Authority:1,LRA,Ambazac > Limoges,,200,,01dfd7,000000
-HVI:Line:LRB_20180901,HVI:Authority:1,LRB,Bessines > Limoges,,200,,58d3f7,000000
-HVI:Line:LR70_20180901,HVI:Authority:1,LR70,Limoges - Cognac la Forêt,,200,,0080ff,000000
-HVI:Line:LRB_20190901,HVI:Authority:1,LRB,Bessines > Limoges,,200,,58d3f7,000000
-HVI:Line:LR10_20190706,HVI:Authority:1,LR10,Limoges -Eymoutiers - Vassivière,,200,,f3e2a9,000000
-HVI:Line:LR01_20180901,HVI:Authority:1,LR01,Limoges - Saint Laurent Les Eglises,,200,,2e2e2e,000000
-HVI:Line:LR01_20190901,HVI:Authority:1,LR01,Limoges - Saint Laurent Les Eglises,,200,,2e2e2e,000000
-HVI:Line:LR03_20180901,HVI:Authority:1,LR03,Limoges - Saint Mathieu,,200,,0174df,000000
-HVI:Line:LR03_20190901,HVI:Authority:1,LR03,Limoges - Saint Mathieu,,200,,0174df,000000
-HVI:Line:LR04_20190706,HVI:Authority:1,LR04,Limoges - Saint Pardoux,,200,,f7d358,000000
-HVI:Line:LR05_20190706,HVI:Authority:1,LR05,Limoges - Chateauponsac,,200,,dba901,000000
-HVI:Line:LR05_20190901,HVI:Authority:1,LR05,Limoges - Chateauponsac,,200,,dba901,000000
-HVI:Line:LR09_20180901,HVI:Authority:1,LR09,Limoges - Neuvic Entier,,200,,f7d358,000000
-HVI:Line:LR09_20190901,HVI:Authority:1,LR09,Limoges - Neuvic Entier,,200,,f7d358,000000
-HVI:Line:LR11_20180901,HVI:Authority:1,LR11,Bussière Galant - St Junien - Limoges,,200,,b45f04,000000
-HVI:Line:LR11_20190901,HVI:Authority:1,LR11,Bussière Galant - St Junien - Limoges,,200,,b45f04,000000
-HVI:Line:LR12_20180901,HVI:Authority:1,LR12,Limoges - Oradour sur Glane,,200,,5f04b4,000000
-HVI:Line:LR12_20190901,HVI:Authority:1,LR12,Limoges - Oradour sur Glane,,200,,5f04b4,000000
-HVI:Line:LR13_20180901,HVI:Authority:1,LR13,Chateauponsac - Bellac,,200,,58acfa,000000
-HVI:Line:LR13_20190901,HVI:Authority:1,LR13,Chateauponsac - Bellac,,200,,58acfa,000000
-HVI:Line:LR15_20180901,HVI:Authority:1,LR15,Limoges - Dournazac,,200,,df0101,000000
-HVI:Line:LR15_20190901,HVI:Authority:1,LR15,Limoges - Dournazac,,200,,df0101,000000
-HVI:Line:LR16_20180901,HVI:Authority:1,LR16,Limoges - Chalus,,200,,0489b1,000000
-HVI:Line:LR16_20190901,HVI:Authority:1,LR16,Limoges - Chalus,,200,,0489b1,000000
-HVI:Line:LR18_20180901,HVI:Authority:1,LR18,Magnac Laval - Limoges,,200,,045fb4,000000
-HVI:Line:LR18_20190901,HVI:Authority:1,LR18,Magnac Laval - Limoges,,200,,045fb4,000000
-HVI:Line:LR19_20180901,HVI:Authority:1,LR19,Limoges - Ambazac,,200,,df7401,000000
-HVI:Line:LR19_20190901,HVI:Authority:1,LR19,Limoges - Ambazac,,200,,df7401,000000
-HVI:Line:LR21_20190207,HVI:Authority:1,LR21,Limoges - Vayres - Rochechouart,,200,,bfff00,000000
-HVI:Line:LR21_20190901,HVI:Authority:1,LR21,Limoges - Vayres - Rochechouart,,200,,bfff00,000000
-HVI:Line:LR24_20180901,HVI:Authority:1,LR24,Limoges - Aixe sur Vienne,,200,,0101df,000000
-HVI:Line:LR24_20190901,HVI:Authority:1,LR24,Limoges - Aixe sur Vienne,,200,,0101df,000000
-HVI:Line:LR26_20180901,HVI:Authority:1,LR26,Limoges - Jourgnac,,200,,0b4c5f,000000
-HVI:Line:LR26_20190901,HVI:Authority:1,LR26,Limoges - Jourgnac,,200,,0b4c5f,000000
-HVI:Line:LR28_20180901,HVI:Authority:1,LR28,Le Dorat - Bellac - Limoges,,200,,fe2e2e,000000
-HVI:Line:LR28_20190901,HVI:Authority:1,LR28,Le Dorat - Bellac - Limoges,,200,,fe2e2e,000000
-HVI:Line:LR29_20180901,HVI:Authority:1,LR29,Limoges - Pierre Buffière,,200,,fa8258,000000
-HVI:Line:LR29_20190901,HVI:Authority:1,LR29,Limoges - Pierre Buffière,,200,,fa8258,000000
-HVI:Line:LR36_20180901,HVI:Authority:1,LR36,Limoges - Couzeix - Chaptelat - Nieul,,200,,04b404,000000
-HVI:Line:LR36_20190901,HVI:Authority:1,LR36,Limoges - Couzeix - Chaptelat - Nieul,,200,,04b404,000000
-HVI:Line:LR40_20180901,HVI:Authority:1,LR40,Limoges - Saint Yrieix la Perche,,200,,faac58,000000
-HVI:Line:LR50_20190901,HVI:Authority:1,LR50,Limoges - Ladignac le Long,,200,,f781d8,000000
-HVI:Line:LR40_20190901,HVI:Authority:1,LR40,Limoges - Saint Yrieix la Perche,,200,,faac58,000000
-HVI:Line:LRA_20180901,HVI:Authority:1,LRA,Ambazac > Limoges,,200,,01dfd7,000000
-HVI:Line:LR50_20180901,HVI:Authority:1,LR50,Limoges - Ladignac le Long,,200,,f781d8,000000
+057057009:09,302,09,09,,3,,a11881,ffffff
+057057007:07,302,07,07,,3,,ffd100,000000
+057057010:10,302,10,10,,3,,e73747,ffffff
+057057017:17,302,17,17,,3,,00669c,ffffff
+057057015:15,302,15,15,,3,,c51f57,ffffff
+057057002:02A,302,02A,02A - Bonnières-sur-Seine - Mantes-la-Jolie,,3,,008ecf,ffffff
+057057001:01,302,01,01,,3,,4aa631,ffffff
+057057023:02B,302,02B,02B - Freneuse - Mantes-la-Jolie,,3,,0e8b6f,ffffff
+057057003:05,302,05,05,,3,,00a8e8,000000
+057057004:04,302,04,04,,3,,8a1e82,ffffff
+057057057:L,302,L,L,,3,,ffff00,000000
+057318119:91,302,91,91,,3,,e63323,ffffff
+057057014:N,302,N,N,,3,,08b0a0,000000
+057057011:R,302,R,R,,3,,f298c0,000000
+057057006:P,302,P,P,,3,,eb5c2b,ffffff
+057057052:52,302,52,52,,3,,009999,ffffff
+057057022:22,302,22,22,,3,,9ed2c2,000000
+057057081:81,302,81,81,,3,,e48705,ffffff
+057057082:82,302,82,82,,3,,d0aa1d,000000
