@@ -1,278 +1,994 @@
 route_id,service_id,trip_id,trip_headsign,trip_short_name,direction_id,block_id,shape_id,wheelchair_accessible,bikes_allowed
-HVI:Line:LRR9_20191126,HVI:Timetable:10,HVI:VehicleJourney:54601_20191126_1,Limoges - Place Winston Churchill,,1,,shp_200_34,0,0
-HVI:Line:LRR9_20191126,HVI:Timetable:1,HVI:VehicleJourney:54603_20191126_1,Limoges - Place W. Churchill A,,1,,shp_200_116,0,0
-HVI:Line:LRR9_20191126,HVI:Timetable:1,HVI:VehicleJourney:54605_20191126_1,Limoges - Place W. Churchill A,,1,,shp_200_116,0,0
-HVI:Line:LRR9_20191126,HVI:Timetable:8,HVI:VehicleJourney:54606_20181119_1,Felletin - Gare SNCF*,,0,,shp_200_104,0,0
-HVI:Line:LRR9_20191126,HVI:Timetable:3,HVI:VehicleJourney:54608_20181119_1,Felletin - Gare SNCF*,,0,,shp_200_104,0,0
-HVI:Line:LRR9_20191126,HVI:Timetable:9,HVI:VehicleJourney:54609_20191126_1,Limoges - Place W. Churchill A,,1,,shp_200_99,0,0
-HVI:Line:LRR9_20191126,HVI:Timetable:10,HVI:VehicleJourney:54610_20181119_1,Felletin - Gare SNCF*,,0,,shp_200_104,0,0
-HVI:Line:LRR9_20191126,HVI:Timetable:14,HVI:VehicleJourney:54611_20181119_1,Limoges - Place W. Churchill A,,1,,shp_200_98,0,0
-HVI:Line:LRR9_20191126,HVI:Timetable:4,HVI:VehicleJourney:54612_20181119_1,Felletin - Gare SNCF*,,0,,shp_200_121,0,0
-HVI:Line:LRR9_20191126,HVI:Timetable:11,HVI:VehicleJourney:54613_20191126_1,Limoges - Place W. Churchill A,,1,,shp_200_99,0,0
-HVI:Line:LRR9_20191126,HVI:Timetable:12,HVI:VehicleJourney:54614_20181119_1,Felletin - Gare SNCF*,,0,,shp_200_121,0,0
-HVI:Line:LRR9_20191126,HVI:Timetable:14,HVI:VehicleJourney:54615_20191126_1,Limoges - Place W. Churchill A,,1,,shp_200_72,0,0
-HVI:Line:LRR9_20191126,HVI:Timetable:5,HVI:VehicleJourney:54616_20181119_1,Sauviat Centre*,,0,,shp_200_168,0,0
-HVI:Line:LRR9_20191126,HVI:Timetable:13,HVI:VehicleJourney:54617_20191126_1,Limoges - Place W. Churchill A,,1,,shp_200_69,0,0
-HVI:Line:LRR9_20191126,HVI:Timetable:5,HVI:VehicleJourney:54618_20181119_1,Sauviat Centre*,,0,,shp_200_168,0,0
-HVI:Line:LRR9_20191126,HVI:Timetable:7,HVI:VehicleJourney:54620_20181119_1,Felletin - Gare SNCF*,,0,,shp_200_121,0,0
-HVI:Line:LRR9_20191126,HVI:Timetable:12,HVI:VehicleJourney:54622_20181119_1,Felletin - Gare SNCF*,,0,,shp_200_121,0,0
-HVI:Line:LR01_20191011,HVI:Timetable:15,HVI:VehicleJourney:LR0101R_20190901_1,St Laurent les Egl - Bourg*,,1,,shp_200_107,0,0
-HVI:Line:LR01_20191011,HVI:Timetable:16,HVI:VehicleJourney:LR0103R_20191011_1,St Laurent les Egl - Bourg*,,1,,shp_200_70,0,0
-HVI:Line:LR01_20191011,HVI:Timetable:10,HVI:VehicleJourney:LR0104A_20191011_1,Limoges - Place Winston Churchill,,0,,shp_200_148,0,0
-HVI:Line:LR01_20191011,HVI:Timetable:17,HVI:VehicleJourney:LR0105R_20191011_1,St Laurent les Egl - Bourg*,,1,,shp_200_77,0,0
-HVI:Line:LR01_20191011,HVI:Timetable:17,HVI:VehicleJourney:LR0106A_20191011_1,Limoges - Place W. Churchill F,,0,,shp_200_14,0,0
-HVI:Line:LR02_20190902,HVI:Timetable:8,HVI:VehicleJourney:LR0203R_20190901_1,Beynac - Maison Familiale*,,1,,shp_200_15,0,0
-HVI:Line:LR02_20190902,HVI:Timetable:14,HVI:VehicleJourney:LR0204A_20190901_1,LIMOGES - CIEL,,0,,shp_200_169,0,0
-HVI:Line:LR03_20190901,HVI:Timetable:8,HVI:VehicleJourney:LR0302A_20190901_1,Limoges - Place Winston Churchill,,0,,shp_200_82,0,0
-HVI:Line:LR03_20190901,HVI:Timetable:2,HVI:VehicleJourney:LR0303R_20190901_1,Saint Mathieu - La Poste*,,1,,shp_200_173,0,0
-HVI:Line:LR03_20190901,HVI:Timetable:18,HVI:VehicleJourney:LR0304A_20190901_1,Limoges - Place W. Churchill E,,0,,shp_200_177,0,0
-HVI:Line:LR03_20190901,HVI:Timetable:19,HVI:VehicleJourney:LR0306A_20190901_1,Limoges - Place Winston Churchill,,0,,shp_200_147,0,0
-HVI:Line:LR03_20190901,HVI:Timetable:20,HVI:VehicleJourney:LR0309R_20190901_1,Saint Mathieu - La Poste*,,1,,shp_200_173,0,0
-HVI:Line:LR03_20190901,HVI:Timetable:17,HVI:VehicleJourney:LR0310A_20190901_1,Limoges - Place W. Churchill E,,0,,shp_200_177,0,0
-HVI:Line:LR03_20190901,HVI:Timetable:14,HVI:VehicleJourney:LR0311R_20190901_1,Maisonnais sur Tardoire - Bourg*,,1,,shp_200_184,0,0
-HVI:Line:LR04_20190706,HVI:Timetable:21,HVI:VehicleJourney:LR0401R_20190706_1,St Pardoux - Bourg*,,1,,shp_200_189,0,0
-HVI:Line:LR04_20190706,HVI:Timetable:21,HVI:VehicleJourney:LR0402A_20190706_1,Limoges - Place W. Churchill F,,1,,shp_200_89,0,0
-HVI:Line:LR04_20190706,HVI:Timetable:21,HVI:VehicleJourney:LR0403R_20190706_1,St Pardoux - Bourg*,,1,,shp_200_60,0,0
-HVI:Line:LR04_20190706,HVI:Timetable:21,HVI:VehicleJourney:LR0404A_20190706_1,Limoges - Place W. Churchill F,,0,,shp_200_89,0,0
-HVI:Line:LR04_20190706,HVI:Timetable:21,HVI:VehicleJourney:LR0405R_20190706_1,St Pardoux - Bourg*,,1,,shp_200_60,0,0
-HVI:Line:LR04_20190706,HVI:Timetable:21,HVI:VehicleJourney:LR0406A_20190706_1,Limoges - Place W. Churchill F,,0,,shp_200_89,0,0
-HVI:Line:LR04_20190706,HVI:Timetable:21,HVI:VehicleJourney:LR0407R_20190706_1,St Pardoux - Bourg*,,1,,shp_200_189,0,0
-HVI:Line:LR04_20190706,HVI:Timetable:21,HVI:VehicleJourney:LR0408A_20190706_1,Limoges - Place W. Churchill F,,0,,shp_200_89,0,0
-HVI:Line:LR04_20190706,HVI:Timetable:21,HVI:VehicleJourney:LR0410A_20190706_1,Limoges - Place W. Churchill F,,0,,shp_200_81,0,0
-HVI:Line:LR05_20190901,HVI:Timetable:23,HVI:VehicleJourney:LR0501R_20190901_1,St Pardoux - Bourg / St Pardoux - Bourg*,,1,,shp_200_9,0,0
-HVI:Line:LR05_20190901,HVI:Timetable:22,HVI:VehicleJourney:LR0503R_20190901_1,Châteauponsac - Gare routière*,,1,,shp_200_174,0,0
-HVI:Line:LR05_20190901,HVI:Timetable:23,HVI:VehicleJourney:LR0504A_20190901_1,Limoges - Place W. Churchill E,,0,,shp_200_25,0,0
-HVI:Line:LR05_20190901,HVI:Timetable:20,HVI:VehicleJourney:LR0505R_20190706_1,Châteauponsac - Gare routière*,,1,,shp_200_28,0,0
-HVI:Line:LR05_20190901,HVI:Timetable:1,HVI:VehicleJourney:LR0506A_20190706_1,Limoges - Place Winston Churchill,,0,,shp_200_123,0,0
-HVI:Line:LR07_20190901,HVI:Timetable:10,HVI:VehicleJourney:LR0702A_20190901_1,Limoges - Place Winston Churchill,,0,,shp_200_136,0,0
-HVI:Line:LR07_20190901,HVI:Timetable:15,HVI:VehicleJourney:LR0703R_20190901_1,Châteauponsac - Gare routière*,,1,,shp_200_13,0,0
-HVI:Line:LR07_20190901,HVI:Timetable:16,HVI:VehicleJourney:LR0709R_20190901_1,Châteauponsac - Gare routière*,,1,,shp_200_13,0,0
-HVI:Line:LR07_20190901,HVI:Timetable:10,HVI:VehicleJourney:LR0801R_20190901_1,Châteauponsac - Gare routière*,,1,,shp_200_41,0,0
-HVI:Line:LR07_20190901,HVI:Timetable:10,HVI:VehicleJourney:LR0802A_20190901_1,Limoges - Place Winston Churchill,,0,,shp_200_151,0,0
-HVI:Line:LR09_20190901,HVI:Timetable:2,HVI:VehicleJourney:LR0901R_20190901_1,Neuvic Entier - Bourg*,,1,,shp_200_133,0,0
-HVI:Line:LR09_20190901,HVI:Timetable:1,HVI:VehicleJourney:LR0902A_20190901_1,Limoges - Place Winston Churchill,,0,,shp_200_146,0,0
-HVI:Line:LR09_20190901,HVI:Timetable:17,HVI:VehicleJourney:LR0904A_20190901_1,Limoges - Place W. Churchill B,,0,,shp_200_7,0,0
-HVI:Line:LR09_20190901,HVI:Timetable:20,HVI:VehicleJourney:LR0905R_20190901_1,Neuvic Entier - Bourg*,,1,,shp_200_133,0,0
-HVI:Line:LR10_20190706,HVI:Timetable:21,HVI:VehicleJourney:LR1008R_20190706_2,Eymoutiers - Gare SNCF,,1,,shp_200_80,0,0
-HVI:Line:LR10_20190706,HVI:Timetable:21,HVI:VehicleJourney:LR1010R_20190706_1,Eymoutiers - Gare SNCF,,1,,shp_200_80,0,0
-HVI:Line:LR10_20190706,HVI:Timetable:21,HVI:VehicleJourney:LR1011A_20190705_2,Beaumont du Lac - Ile Vassivière,,0,,shp_200_164,0,0
-HVI:Line:LR10_20190706,HVI:Timetable:21,HVI:VehicleJourney:LR1012R_20190706_1,Limoges - Place W. Churchill F,,1,,shp_200_91,0,0
-HVI:Line:LR10_20190706,HVI:Timetable:21,HVI:VehicleJourney:LR1013A_20190706_1,Beaumont du Lac - Ile Vassivière,,0,,shp_200_164,0,0
-HVI:Line:LR10_20190706,HVI:Timetable:21,HVI:VehicleJourney:LR1015A_20190706_1,Beaumont du Lac - Ile Vassivière,,0,,shp_200_93,0,0
-HVI:Line:LR11_20190901,HVI:Timetable:10,HVI:VehicleJourney:LR1101R_20190901_1,St Junien - Cité scolaire*,,1,,shp_200_144,0,0
-HVI:Line:LR11_20190901,HVI:Timetable:10,HVI:VehicleJourney:LR1102A_20190901_1,LIMOGES - CIEL,,0,,shp_200_12,0,0
-HVI:Line:LR11_20190901,HVI:Timetable:20,HVI:VehicleJourney:LR1103R_20190901_1,St Junien - Collège P. Langevin*,,1,,shp_200_155,0,0
-HVI:Line:LR11_20190901,HVI:Timetable:20,HVI:VehicleJourney:LR1104A_20190901_1,LIMOGES - CIEL,,0,,shp_200_75,0,0
-HVI:Line:LR11_20190901,HVI:Timetable:20,HVI:VehicleJourney:LR1105R_20190901_1,St Junien - Place la côte*,,1,,shp_200_59,0,0
-HVI:Line:LR11_20190901,HVI:Timetable:1,HVI:VehicleJourney:LR1106A_20190901_1,LIMOGES - CIEL,,0,,shp_200_140,0,0
-HVI:Line:LR11_20190901,HVI:Timetable:1,HVI:VehicleJourney:LR1107R_20190901_1,Oradour / V. - Office  Tourisme / Oradour / V. - Office  Tourisme*,,1,,shp_200_166,0,0
-HVI:Line:LR11_20190901,HVI:Timetable:20,HVI:VehicleJourney:LR1108A_20190901_1,LIMOGES - CIEL,,0,,shp_200_171,0,0
-HVI:Line:LR11_20190901,HVI:Timetable:15,HVI:VehicleJourney:LR1109R_20190901_1,St Junien - Champ de Foire*,,1,,shp_200_181,0,0
-HVI:Line:LR11_20190901,HVI:Timetable:24,HVI:VehicleJourney:LR1110A_20190901_1,LIMOGES - CIEL,,0,,shp_200_171,0,0
-HVI:Line:LR11_20190901,HVI:Timetable:20,HVI:VehicleJourney:LR1111R_20190901_1,St Junien - Place la côte*,,1,,shp_200_59,0,0
-HVI:Line:LR11_20190901,HVI:Timetable:15,HVI:VehicleJourney:LR1112A_20190901_1,LIMOGES - CIEL,,0,,shp_200_156,0,0
-HVI:Line:LR11_20190901,HVI:Timetable:1,HVI:VehicleJourney:LR1113R_20190901_1,Bussière Galant - Gare*,,1,,shp_200_182,0,0
-HVI:Line:LR11_20190901,HVI:Timetable:1,HVI:VehicleJourney:LR1114A_20180901_1,LIMOGES - CIEL,,0,,shp_200_117,0,0
-HVI:Line:LR11_20190901,HVI:Timetable:20,HVI:VehicleJourney:LR1115R_20190901_1,St Junien - Place la côte*,,1,,shp_200_190,0,0
-HVI:Line:LR11_20190901,HVI:Timetable:15,HVI:VehicleJourney:LR1116A_20190901_1,LIMOGES - CIEL,,0,,shp_200_86,0,0
-HVI:Line:LR11_20190901,HVI:Timetable:20,HVI:VehicleJourney:LR1117R_20190901_1,St Junien - Place la côte*,,1,,shp_200_141,0,0
-HVI:Line:LR11_20190901,HVI:Timetable:16,HVI:VehicleJourney:LR1118A_20190901_1,LIMOGES - CIEL,,0,,shp_200_122,0,0
-HVI:Line:LR11_20190901,HVI:Timetable:20,HVI:VehicleJourney:LR1120A_20190901_1,LIMOGES - CIEL,,0,,shp_200_30,0,0
-HVI:Line:LR11_20190901,HVI:Timetable:20,HVI:VehicleJourney:LR1122A_20190901_1,LIMOGES - CIEL,,0,,shp_200_114,0,0
-HVI:Line:LRR18_20191011,HVI:Timetable:3,HVI:VehicleJourney:LR11800_20191107_1,LIMOGES - CIEL,,1,,shp_200_102,0,0
-HVI:Line:LRR18_20191011,HVI:Timetable:3,HVI:VehicleJourney:LR11801_20191107_1,Angoulême - Gare SNCF,,0,,shp_200_35,0,0
-HVI:Line:LRR18_20191011,HVI:Timetable:3,HVI:VehicleJourney:LR11802_20191107_1,LIMOGES - CIEL,,1,,shp_200_102,0,0
-HVI:Line:LRR18_20191011,HVI:Timetable:3,HVI:VehicleJourney:LR11803_20191107_1,Angoulême - Gare SNCF,,0,,shp_200_35,0,0
-HVI:Line:LRR18_20191011,HVI:Timetable:4,HVI:VehicleJourney:LR11804_20191108_1,LIMOGES - CIEL,,1,,shp_200_102,0,0
-HVI:Line:LRR18_20191011,HVI:Timetable:5,HVI:VehicleJourney:LR11805_20191108_1,Angoulême - Gare SNCF,,0,,shp_200_35,0,0
-HVI:Line:LRR18_20191011,HVI:Timetable:3,HVI:VehicleJourney:LR11806_20191108_1,LIMOGES - CIEL,,1,,shp_200_102,0,0
-HVI:Line:LRR18_20191011,HVI:Timetable:5,HVI:VehicleJourney:LR11807_20191108_1,Angoulême - Gare SNCF,,0,,shp_200_35,0,0
-HVI:Line:LRR18_20191011,HVI:Timetable:3,HVI:VehicleJourney:LR11809_20191108_1,Angoulême - Gare SNCF,,0,,shp_200_35,0,0
-HVI:Line:LRR18_20191011,HVI:Timetable:3,HVI:VehicleJourney:LR11810_20191108_1,LIMOGES - CIEL,,1,,shp_200_102,0,0
-HVI:Line:LRR18_20191011,HVI:Timetable:4,HVI:VehicleJourney:LR11811_20191108_1,Angoulême - Gare SNCF,,0,,shp_200_35,0,0
-HVI:Line:LRR18_20191011,HVI:Timetable:4,HVI:VehicleJourney:LR11812_20191108_1,LIMOGES - CIEL,,1,,shp_200_102,0,0
-HVI:Line:LRR18_20191011,HVI:Timetable:7,HVI:VehicleJourney:LR11813_20191108_1,Angoulême - Gare SNCF,,0,,shp_200_35,0,0
-HVI:Line:LRR18_20191011,HVI:Timetable:7,HVI:VehicleJourney:LR11814_20191108_1,LIMOGES - CIEL,,1,,shp_200_102,0,0
-HVI:Line:LRR18_20191011,HVI:Timetable:6,HVI:VehicleJourney:LR11815_20191108_1,Angoulême - Gare SNCF,,0,,shp_200_35,0,0
-HVI:Line:LRR18_20191011,HVI:Timetable:6,HVI:VehicleJourney:LR11816_20191108_1,LIMOGES - CIEL,,1,,shp_200_102,0,0
-HVI:Line:LRR18_20191011,HVI:Timetable:6,HVI:VehicleJourney:LR11817_20191108_1,Angoulême - Gare SNCF,,0,,shp_200_35,0,0
-HVI:Line:LRR18_20191011,HVI:Timetable:6,HVI:VehicleJourney:LR11818_20191108_1,LIMOGES - CIEL,,1,,shp_200_102,0,0
-HVI:Line:LR12_20190901,HVI:Timetable:1,HVI:VehicleJourney:LR1201R_20190901_1,Oradour - Champ de Foire*,,1,,shp_200_76,0,0
-HVI:Line:LR12_20190901,HVI:Timetable:25,HVI:VehicleJourney:LR1202A_20190901_1,Oradour - Champ de Foire,,0,,shp_200_167,0,0
-HVI:Line:LR12_20190901,HVI:Timetable:1,HVI:VehicleJourney:LR1203R_20190901_1,Oradour - Champ de Foire*,,1,,shp_200_191,0,0
-HVI:Line:LR12_20190901,HVI:Timetable:1,HVI:VehicleJourney:LR1204A_20190901_1,LIMOGES - CIEL,,0,,shp_200_108,0,0
-HVI:Line:LR12_20190901,HVI:Timetable:26,HVI:VehicleJourney:LR1205R_20190901_1,St Barbant - Bourg*,,1,,shp_200_125,0,0
-HVI:Line:LR12_20190901,HVI:Timetable:1,HVI:VehicleJourney:LR1206A_20190901_1,LIMOGES - CIEL,,0,,shp_200_127,0,0
-HVI:Line:LR12_20190901,HVI:Timetable:1,HVI:VehicleJourney:LR1207R_20190901_1,Oradour - Champ de Foire*,,1,,shp_200_191,0,0
-HVI:Line:LR12_20190901,HVI:Timetable:1,HVI:VehicleJourney:LR1208A_20190901_1,LIMOGES - CIEL,,0,,shp_200_127,0,0
-HVI:Line:LR12_20190901,HVI:Timetable:16,HVI:VehicleJourney:LR1209R_20190901_1,St Barbant - Bourg*,,1,,shp_200_125,0,0
-HVI:Line:LR13_20190901,HVI:Timetable:2,HVI:VehicleJourney:LR1301A_20190901_1,Bellac - Rue Rene Coty Abri 1,,0,,shp_200_129,0,0
-HVI:Line:LR13_20190901,HVI:Timetable:2,HVI:VehicleJourney:LR1302R_20190901_1,Châteauponsac - Gare routière*,,1,,shp_200_101,0,0
-HVI:Line:LR15_20190901,HVI:Timetable:2,HVI:VehicleJourney:LR1501R_20190901_1,Dournazac - Bourg*,,1,,shp_200_84,0,0
-HVI:Line:LR15_20190901,HVI:Timetable:1,HVI:VehicleJourney:LR1502A_20190901_1,Limoges - Place Winston Churchill,,0,,shp_200_64,0,0
-HVI:Line:LR15_20190901,HVI:Timetable:20,HVI:VehicleJourney:LR1505R_20190901_1,Dournazac - Bourg*,,1,,shp_200_84,0,0
-HVI:Line:LR15_20190901,HVI:Timetable:17,HVI:VehicleJourney:LR1506A_20190901_2,LIMOGES - CIEL,,0,,shp_200_45,0,0
-HVI:Line:LR15_20190901,HVI:Timetable:16,HVI:VehicleJourney:LR1507R_20190901_1,Aixe sur Vienne - Champ de Foire*,,1,,shp_200_185,0,0
-HVI:Line:LR15_20190901,HVI:Timetable:16,HVI:VehicleJourney:LR1508A_20190901_3,LIMOGES - CIEL,,0,,shp_200_92,0,0
-HVI:Line:LR15_20190901,HVI:Timetable:17,HVI:VehicleJourney:LR1509R_20190901_1,La Chapelle M. - Les 3 cerisiers*,,1,,shp_200_43,0,0
-HVI:Line:LR15_20190901,HVI:Timetable:17,HVI:VehicleJourney:LR1512A_20190901_1,Dournazac - Bourg,,0,,shp_200_131,0,0
-HVI:Line:LR15_20190901,HVI:Timetable:17,HVI:VehicleJourney:LR1514A_20180901_1,Dournazac - Bourg,,0,,shp_200_131,0,0
-HVI:Line:LR16_20190901,HVI:Timetable:1,HVI:VehicleJourney:LR1601R_20190901_1,Châlus - Place S. Allende*,,1,,shp_200_49,0,0
-HVI:Line:LR16_20190901,HVI:Timetable:1,HVI:VehicleJourney:LR1602A_20190901_1,LIMOGES - CIEL,,0,,shp_200_55,0,0
-HVI:Line:LR16_20190901,HVI:Timetable:20,HVI:VehicleJourney:LR1603R_20190901_1,Châlus - Place S. Allende*,,1,,shp_200_49,0,0
-HVI:Line:LR16_20190901,HVI:Timetable:20,HVI:VehicleJourney:LR1606A_20190901_1,LIMOGES - CIEL,,0,,shp_200_37,0,0
-HVI:Line:LR18_20190901,HVI:Timetable:17,HVI:VehicleJourney:LR1801R_20190901_1,Magnac Laval - Mairie,,1,,shp_200_47,0,0
-HVI:Line:LR18_20190901,HVI:Timetable:17,HVI:VehicleJourney:LR1802A_20190901_1,LIMOGES - CIEL,,0,,shp_200_78,0,0
-HVI:Line:LR19_20190901,HVI:Timetable:10,HVI:VehicleJourney:LR1901R_20190901_1,Ambazac - Champ de foire*,,1,,shp_200_132,0,0
-HVI:Line:LR19_20190901,HVI:Timetable:10,HVI:VehicleJourney:LR1902A_20190901_1,Limoges - Place W. Churchill F,,0,,shp_200_109,0,0
-HVI:Line:LR19_20190901,HVI:Timetable:27,HVI:VehicleJourney:LR1903R_20190901_1,Ambazac - Champ de foire*,,1,,shp_200_134,0,0
-HVI:Line:LR19_20190901,HVI:Timetable:27,HVI:VehicleJourney:LR1904A_20190901_1,Limoges - Place W. Churchill F,,0,,shp_200_4,0,0
-HVI:Line:LR19_20190901,HVI:Timetable:27,HVI:VehicleJourney:LR1905R_20190901_1,Ambazac - Champ de foire*,,1,,shp_200_134,0,0
-HVI:Line:LR19_20190901,HVI:Timetable:27,HVI:VehicleJourney:LR1906A_20190901_1,Limoges - Place W. Churchill F,,0,,shp_200_4,0,0
-HVI:Line:LR19_20190901,HVI:Timetable:10,HVI:VehicleJourney:LR1907R_20190901_1,Ambazac - La Mazaurie*,,0,,shp_200_106,0,0
-HVI:Line:LR19_20190901,HVI:Timetable:27,HVI:VehicleJourney:LR1910A_20190901_1,Limoges - Place W. Churchill F,,0,,shp_200_4,0,0
-HVI:Line:LR19_20190901,HVI:Timetable:15,HVI:VehicleJourney:LR2001R_20190901_1,Ambazac - La Mazaurie*,,1,,shp_200_183,0,0
-HVI:Line:LR19_20190901,HVI:Timetable:8,HVI:VehicleJourney:LR2002A_20190901_1,Ambazac - La Mazaurie,,0,,shp_200_51,0,0
-HVI:Line:LR19_20190901,HVI:Timetable:15,HVI:VehicleJourney:LR2003R_20190901_1,Ambazac - Champ de foire*,,1,,shp_200_130,0,0
-HVI:Line:LR19_20190901,HVI:Timetable:10,HVI:VehicleJourney:LR2004A_20190901_1,Limoges - Place Winston Churchill,,0,,shp_200_113,0,0
-HVI:Line:LR19_20190901,HVI:Timetable:28,HVI:VehicleJourney:LR2005R_20190901_1,Ambazac - Champ de foire*,,0,,shp_200_134,0,0
-HVI:Line:LR19_20190901,HVI:Timetable:10,HVI:VehicleJourney:LR2006A_20190901_1,Limoges - Place Winston Churchill,,0,,shp_200_3,0,0
-HVI:Line:LR19_20190901,HVI:Timetable:16,HVI:VehicleJourney:LR2007R_20190901_1,Ambazac - Champ de foire*,,1,,shp_200_130,0,0
-HVI:Line:LR19_20190901,HVI:Timetable:10,HVI:VehicleJourney:LR2008A_20190901_1,Limoges - Place Winston Churchill,,0,,shp_200_50,0,0
-HVI:Line:LR19_20190901,HVI:Timetable:16,HVI:VehicleJourney:LR2009R_20190901_1,Ambazac - La Mazaurie*,,1,,shp_200_106,0,0
-HVI:Line:LR19_20190901,HVI:Timetable:17,HVI:VehicleJourney:LR2010A_20190901_1,Ambazac - Champ de foire,,0,,shp_200_172,0,0
-HVI:Line:LR19_20190901,HVI:Timetable:1,HVI:VehicleJourney:LR2011R_20190901_1,Ambazac - La Mazaurie*,,0,,shp_200_66,0,0
-HVI:Line:LR19_20190901,HVI:Timetable:1,HVI:VehicleJourney:LR2012A_20190901_1,Limoges - Place W. Churchill F,,0,,shp_200_53,0,0
-HVI:Line:LR19_20190901,HVI:Timetable:14,HVI:VehicleJourney:LR2013R_20190901_1,St Sylvestre - Bourg*,,0,,shp_200_1,0,0
-HVI:Line:LR19_20190901,HVI:Timetable:17,HVI:VehicleJourney:LR2015R_20190901_1,Laurière - Bourg*,,1,,shp_200_21,0,0
-HVI:Line:LR21_20190901,HVI:Timetable:15,HVI:VehicleJourney:LR2101R_20190901_1,St Yrieix ss Aixe - Erin*,,1,,shp_200_42,0,0
-HVI:Line:LR21_20190901,HVI:Timetable:1,HVI:VehicleJourney:LR2102A_20190901_1,Limoges - Place Winston Churchill,,0,,shp_200_119,0,0
-HVI:Line:LR21_20190901,HVI:Timetable:2,HVI:VehicleJourney:LR2103R_20190901_1,Rochechouart - La Grosille,,1,,shp_200_11,0,0
-HVI:Line:LR21_20190901,HVI:Timetable:10,HVI:VehicleJourney:LR2106A_20190901_1,Limoges - Place Winston Churchill,,0,,shp_200_63,0,0
-HVI:Line:LR21_20190901,HVI:Timetable:16,HVI:VehicleJourney:LR2107R_20190901_1,St Yrieix ss Aixe - Erin*,,1,,shp_200_2,0,0
-HVI:Line:LR21_20190901,HVI:Timetable:10,HVI:VehicleJourney:LR2108A_20190901_1,LIMOGES - CIEL,,0,,shp_200_39,0,0
-HVI:Line:LR21_20190901,HVI:Timetable:20,HVI:VehicleJourney:LR2109R_20190901_1,Rochechouart - La Grosille,,1,,shp_200_11,0,0
-HVI:Line:LR21_20190901,HVI:Timetable:17,HVI:VehicleJourney:LR2110A_20190901_1,Limoges - Place W. Churchill E,,0,,shp_200_163,0,0
-HVI:Line:LR24_20190901,HVI:Timetable:1,HVI:VehicleJourney:LR2401R_20190901_1,Aixe sur Vienne - Chamborêt*,,1,,shp_200_137,0,0
-HVI:Line:LR24_20190901,HVI:Timetable:1,HVI:VehicleJourney:LR2402A_20190901_1,Limoges - Place Winston Churchill,,0,,shp_200_96,0,0
-HVI:Line:LR24_20190901,HVI:Timetable:1,HVI:VehicleJourney:LR2403R_20190901_1,Beynac - Bourg*,,1,,shp_200_52,0,0
-HVI:Line:LR24_20190901,HVI:Timetable:1,HVI:VehicleJourney:LR2404A_20190901_1,Limoges - Place W. Churchill E,,0,,shp_200_186,0,0
-HVI:Line:LR24_20190901,HVI:Timetable:1,HVI:VehicleJourney:LR2405R_20190901_1,Aixe sur Vienne - Chamborêt*,,1,,shp_200_135,0,0
-HVI:Line:LR24_20190901,HVI:Timetable:1,HVI:VehicleJourney:LR2406A_20190901_1,LIMOGES - CIEL,,0,,shp_200_180,0,0
-HVI:Line:LR24_20190901,HVI:Timetable:1,HVI:VehicleJourney:LR2407R_20190901_1,Aixe sur Vienne - Chamborêt*,,1,,shp_200_137,0,0
-HVI:Line:LR24_20190901,HVI:Timetable:1,HVI:VehicleJourney:LR2408A_20190901_1,Limoges - Place W. Churchill E,,0,,shp_200_154,0,0
-HVI:Line:LR24_20190901,HVI:Timetable:1,HVI:VehicleJourney:LR2409R_20190901_1,Aixe sur Vienne - Chamborêt*,,1,,shp_200_103,0,0
-HVI:Line:LR24_20190901,HVI:Timetable:1,HVI:VehicleJourney:LR2410A_20190901_1,LIMOGES - CIEL,,0,,shp_200_100,0,0
-HVI:Line:LR24_20190901,HVI:Timetable:1,HVI:VehicleJourney:LR2411R_20190901_1,Aixe sur Vienne - Chamborêt*,,1,,shp_200_187,0,0
-HVI:Line:LR24_20190901,HVI:Timetable:1,HVI:VehicleJourney:LR2412A_20190901_1,Limoges - Place W. Churchill E,,0,,shp_200_154,0,0
-HVI:Line:LR24_20190901,HVI:Timetable:1,HVI:VehicleJourney:LR2413R_20190901_1,Aixe sur Vienne - Chamborêt*,,1,,shp_200_135,0,0
-HVI:Line:LR24_20190901,HVI:Timetable:1,HVI:VehicleJourney:LR2414A_20190901_1,Limoges - Place W. Churchill E,,0,,shp_200_154,0,0
-HVI:Line:LR24_20190901,HVI:Timetable:1,HVI:VehicleJourney:LR2415R_20190901_1,Aixe sur Vienne - Chamborêt*,,1,,shp_200_137,0,0
-HVI:Line:LR24_20190901,HVI:Timetable:1,HVI:VehicleJourney:LR2416A_20190901_1,Limoges - Place W. Churchill E,,0,,shp_200_154,0,0
-HVI:Line:LR24_20190901,HVI:Timetable:1,HVI:VehicleJourney:LR2417R_20190901_1,Beynac - Bourg*,,1,,shp_200_178,0,0
-HVI:Line:LR24_20190901,HVI:Timetable:1,HVI:VehicleJourney:LR2418A_20190901_1,Limoges - Place W. Churchill E,,0,,shp_200_186,0,0
-HVI:Line:LR24_20190901,HVI:Timetable:1,HVI:VehicleJourney:LR2419R_20190901_1,Aixe sur Vienne - Chamborêt*,,1,,shp_200_139,0,0
-HVI:Line:LR24_20190901,HVI:Timetable:1,HVI:VehicleJourney:LR2420A_20190901_1,Limoges - Place W. Churchill E,,0,,shp_200_154,0,0
-HVI:Line:LR26_20190901,HVI:Timetable:1,HVI:VehicleJourney:LR2601R_20190901_1,Bosmie - Lot. Panorama*,,1,,shp_200_162,0,0
-HVI:Line:LR26_20190901,HVI:Timetable:1,HVI:VehicleJourney:LR2602A_20190901_1,Limoges - Place Winston Churchill,,0,,shp_200_38,0,0
-HVI:Line:LR26_20190901,HVI:Timetable:1,HVI:VehicleJourney:LR2603R_20190901_1,Jourgnac - Place de la Mairie,,1,,shp_200_142,0,0
-HVI:Line:LR26_20190901,HVI:Timetable:1,HVI:VehicleJourney:LR2604A_20190901_1,LIMOGES - CIEL,,0,,shp_200_40,0,0
-HVI:Line:LR26_20190901,HVI:Timetable:20,HVI:VehicleJourney:LR2605R_20190901_1,Bosmie - Rue du Boulou,,1,,shp_200_10,0,0
-HVI:Line:LR26_20190901,HVI:Timetable:1,HVI:VehicleJourney:LR2606A_20190901_1,LIMOGES - CIEL,,0,,shp_200_46,0,0
-HVI:Line:LR26_20190901,HVI:Timetable:20,HVI:VehicleJourney:LR2607R_20190901_1,Jourgnac - Place de la Mairie,,1,,shp_200_61,0,0
-HVI:Line:LR26_20190901,HVI:Timetable:20,HVI:VehicleJourney:LR2608A_20190901_1,Limoges - Place W. Churchill E,,0,,shp_200_26,0,0
-HVI:Line:LR26_20190901,HVI:Timetable:1,HVI:VehicleJourney:LR2609R_20190901_1,Bosmie - Rue du Boulou,,1,,shp_200_175,0,0
-HVI:Line:LR26_20190901,HVI:Timetable:1,HVI:VehicleJourney:LR2610A_20190901_1,Limoges - Place W. Churchill E,,0,,shp_200_26,0,0
-HVI:Line:LR26_20190901,HVI:Timetable:22,HVI:VehicleJourney:LR2611R_20190901_1,Jourgnac - Place de la Mairie,,1,,shp_200_32,0,0
-HVI:Line:LR28_20190901,HVI:Timetable:29,HVI:VehicleJourney:LR2801R_20190901_1,Le Dorat - Av. des Pyrénées*,,1,,shp_200_18,0,0
-HVI:Line:LR28_20190901,HVI:Timetable:20,HVI:VehicleJourney:LR2803R_20190901_1,Mézières - Pl de la République,,1,,shp_200_170,0,0
-HVI:Line:LR28_20190901,HVI:Timetable:16,HVI:VehicleJourney:LR2804A_20190901_1,LIMOGES - CIEL,,0,,shp_200_16,0,0
-HVI:Line:LR28_20190901,HVI:Timetable:1,HVI:VehicleJourney:LR2805R_20190901_1,Mézières - Pl de la République,,1,,shp_200_170,0,0
-HVI:Line:LR28_20190901,HVI:Timetable:14,HVI:VehicleJourney:LR2806A_20190901_2,LIMOGES - CIEL,,0,,shp_200_159,0,0
-HVI:Line:LR28_20190901,HVI:Timetable:30,HVI:VehicleJourney:LR2807R_20190901_1,Le Dorat - Av. des Pyrénées*,,1,,shp_200_54,0,0
-HVI:Line:LR28_20190901,HVI:Timetable:1,HVI:VehicleJourney:LR2808A_20190901_1,LIMOGES - CIEL,,0,,shp_200_17,0,0
-HVI:Line:LR28_20190901,HVI:Timetable:17,HVI:VehicleJourney:LR2809R_20190901_1,Bussière P. - Chp deFoire*,,1,,shp_200_8,0,0
-HVI:Line:LR28_20190901,HVI:Timetable:20,HVI:VehicleJourney:LR2810A_20190901_1,LIMOGES - CIEL,,0,,shp_200_165,0,0
-HVI:Line:LR28_20190901,HVI:Timetable:30,HVI:VehicleJourney:LR2811R_20190901_1,Le Dorat - Av. des Pyrénées*,,1,,shp_200_160,0,0
-HVI:Line:LR28_20190901,HVI:Timetable:17,HVI:VehicleJourney:LR2812A_20190901_1,Bellac - Avenue Foch,,0,,shp_200_83,0,0
-HVI:Line:LR28_20190901,HVI:Timetable:17,HVI:VehicleJourney:LR2813R_20190901_1,Bussière P. - Chp deFoire*,,1,,shp_200_145,0,0
-HVI:Line:LR28_20190901,HVI:Timetable:15,HVI:VehicleJourney:LR2814A_20190901_1,LIMOGES - CIEL,,0,,shp_200_16,0,0
-HVI:Line:LR28_20190901,HVI:Timetable:15,HVI:VehicleJourney:LR2816A_20190901_1,LIMOGES - CIEL,,0,,shp_200_152,0,0
-HVI:Line:LR29_20190901,HVI:Timetable:1,HVI:VehicleJourney:LR2901R_20190901_1,Pierre Buffière - Bourg*,,1,,shp_200_57,0,0
-HVI:Line:LR29_20190901,HVI:Timetable:1,HVI:VehicleJourney:LR2902A_20190901_1,Limoges - Place W. Churchill F,,0,,shp_200_20,0,0
-HVI:Line:LR29_20190901,HVI:Timetable:1,HVI:VehicleJourney:LR2903R_20190901_1,Pierre Buffière - Bourg*,,1,,shp_200_110,0,0
-HVI:Line:LR29_20190901,HVI:Timetable:31,HVI:VehicleJourney:LR2904A_20190901_1,Limoges - Place W. Churchill F,,0,,shp_200_20,0,0
-HVI:Line:LR29_20190901,HVI:Timetable:20,HVI:VehicleJourney:LR2905R_20190901_1,Pierre Buffière - Bourg*,,1,,shp_200_110,0,0
-HVI:Line:LR29_20190901,HVI:Timetable:20,HVI:VehicleJourney:LR2906A_20190901_1,Limoges - Place Winston Churchill,,0,,shp_200_68,0,0
-HVI:Line:LR29_20190901,HVI:Timetable:20,HVI:VehicleJourney:LR2907R_20190901_1,St Genest sur R - Bourg*,,1,,shp_200_5,0,0
-HVI:Line:LR29_20190901,HVI:Timetable:20,HVI:VehicleJourney:LR2908A_20190901_1,Limoges - Place W. Churchill F,,0,,shp_200_85,0,0
-HVI:Line:LR29_20190901,HVI:Timetable:26,HVI:VehicleJourney:LR2909R_20190901_1,St Genest sur R - Bourg*,,1,,shp_200_5,0,0
-HVI:Line:LR29_20190901,HVI:Timetable:25,HVI:VehicleJourney:LR2910A_20190901_1,Limoges - Place Winston Churchill,,0,,shp_200_118,0,0
-HVI:Line:LR29_20190901,HVI:Timetable:17,HVI:VehicleJourney:LR2912A_20190901_1,Limoges - Place Winston Churchill,,0,,shp_200_68,0,0
-HVI:Line:LR36_20190901,HVI:Timetable:2,HVI:VehicleJourney:LR3601R_20190901_1,Nieul - Place Emile Foussat Abri,,1,,shp_200_120,0,0
-HVI:Line:LR36_20190901,HVI:Timetable:1,HVI:VehicleJourney:LR3602A_20190901_1,Limoges - Place Winston Churchill,,0,,shp_200_188,0,0
-HVI:Line:LR36_20190901,HVI:Timetable:15,HVI:VehicleJourney:LR3603R_20190901_1,Nieul - Les Lavandières*,,1,,shp_200_29,0,0
-HVI:Line:LR36_20190901,HVI:Timetable:10,HVI:VehicleJourney:LR3604A_20190901_1,Couzeix - Collège Genevoix,,0,,shp_200_87,0,0
-HVI:Line:LR36_20190901,HVI:Timetable:16,HVI:VehicleJourney:LR3605R_20190901_1,Nieul - Les Lavandières*,,1,,shp_200_97,0,0
-HVI:Line:LR36_20190901,HVI:Timetable:17,HVI:VehicleJourney:LR3606A_20190901_1,Limoges - Place W. Churchill G,,0,,shp_200_65,0,0
-HVI:Line:LR36_20190901,HVI:Timetable:20,HVI:VehicleJourney:LR3607R_20190901_1,Nieul - Place Emile Foussat Abri,,1,,shp_200_120,0,0
-HVI:Line:LR36_20190901,HVI:Timetable:15,HVI:VehicleJourney:LR3609R_20190901_1,Nieul - Place Emile Foussat Abri,,0,,shp_200_120,0,0
-HVI:Line:LR40_20190901,HVI:Timetable:32,HVI:VehicleJourney:LR4001R_20190901_1,St Yrieix - Lycée & coll. Darnet*,,1,,shp_200_128,0,0
-HVI:Line:LR40_20190901,HVI:Timetable:1,HVI:VehicleJourney:LR4002A_20190901_1,LIMOGES - CIEL,,0,,shp_200_161,0,0
-HVI:Line:LR40_20190901,HVI:Timetable:8,HVI:VehicleJourney:LR4003R_20190901_1,St Yrieix - Lycée & coll. Darnet*,,1,,shp_200_6,0,0
-HVI:Line:LR40_20190901,HVI:Timetable:15,HVI:VehicleJourney:LR4004A_20190901_1,LIMOGES - CIEL,,0,,shp_200_138,0,0
-HVI:Line:LR40_20190901,HVI:Timetable:1,HVI:VehicleJourney:LR4005R_20190901_1,St Yrieix - Place de la Nation*,,1,,shp_200_73,0,0
-HVI:Line:LR40_20190901,HVI:Timetable:14,HVI:VehicleJourney:LR4006A_20190901_1,LIMOGES - CIEL,,0,,shp_200_138,0,0
-HVI:Line:LR40_20190901,HVI:Timetable:1,HVI:VehicleJourney:LR4007R_20190901_1,St Yrieix - Place de la Nation*,,0,,shp_200_73,0,0
-HVI:Line:LR40_20190901,HVI:Timetable:16,HVI:VehicleJourney:LR4008A_20190901_1,LIMOGES - CIEL,,0,,shp_200_138,0,0
-HVI:Line:LR40_20190901,HVI:Timetable:8,HVI:VehicleJourney:LR4009R_20190901_1,St Yrieix - Lycée & coll. Darnet*,,0,,shp_200_74,0,0
-HVI:Line:LR40_20190901,HVI:Timetable:1,HVI:VehicleJourney:LR4010A_20190901_1,LIMOGES - CIEL,,0,,shp_200_27,0,0
-HVI:Line:LR40_20190901,HVI:Timetable:14,HVI:VehicleJourney:LR4011R_20190901_1,St Yrieix - Place de la Nation*,,1,,shp_200_73,0,0
-HVI:Line:LR40_20190901,HVI:Timetable:8,HVI:VehicleJourney:LR4012A_20190901_1,LIMOGES - CIEL,,0,,shp_200_67,0,0
-HVI:Line:LR50_20190901,HVI:Timetable:24,HVI:VehicleJourney:LR5001R_20190901_1,Nexon - Place Fratellini*,,1,,shp_200_23,0,0
-HVI:Line:LR50_20190901,HVI:Timetable:20,HVI:VehicleJourney:LR5002A_20190901_1,LIMOGES - CIEL,,0,,shp_200_71,0,0
-HVI:Line:LR50_20190901,HVI:Timetable:17,HVI:VehicleJourney:LR5003R_20190901_1,Ladignac le Long - Mairie*,,1,,shp_200_44,0,0
-HVI:Line:LR50_20190901,HVI:Timetable:33,HVI:VehicleJourney:LR5004A_20190901_1,LIMOGES - CIEL,,0,,shp_200_24,0,0
-HVI:Line:LR50_20190901,HVI:Timetable:33,HVI:VehicleJourney:LR5005R_20190901_1,Ladignac le Long - Mairie*,,1,,shp_200_88,0,0
-HVI:Line:LR50_20190901,HVI:Timetable:24,HVI:VehicleJourney:LR5006A_20190901_1,LIMOGES - CIEL,,0,,shp_200_149,0,0
-HVI:Line:LR50_20190901,HVI:Timetable:20,HVI:VehicleJourney:LR5007R_20190901_1,Ladignac le Long - Mairie*,,1,,shp_200_22,0,0
-HVI:Line:LR50_20190901,HVI:Timetable:17,HVI:VehicleJourney:LR5008A_20190901_1,LIMOGES - CIEL,,0,,shp_200_24,0,0
-HVI:Line:LR50_20190901,HVI:Timetable:10,HVI:VehicleJourney:LR5010A_20190901_1,Limoges - Place Jourdan,,0,,shp_200_105,0,0
-HVI:Line:LR61_20190901,HVI:Timetable:10,HVI:VehicleJourney:LR6101A_20190901_1,St Junien - LP Edouart Vaillant,,0,,shp_200_157,0,0
-HVI:Line:LR61_20190901,HVI:Timetable:16,HVI:VehicleJourney:LR6102R_20190901_1,Cussac - Place de la Poste,,1,,shp_200_176,0,0
-HVI:Line:LR61_20190901,HVI:Timetable:15,HVI:VehicleJourney:LR6104R_20190901_1,Cussac - Place de la Poste,,1,,shp_200_143,0,0
-HVI:Line:LR62_20190901,HVI:Timetable:10,HVI:VehicleJourney:LR6202A_20190901_1,St Junien - Champ de Foire / St Junien - Champ de Foire*,,0,,shp_200_94,0,0
-HVI:Line:LR62_20190901,HVI:Timetable:15,HVI:VehicleJourney:LR6203R_20190901_1,Bussière Galant - Gare*,,1,,shp_200_179,0,0
-HVI:Line:LR62_20190901,HVI:Timetable:16,HVI:VehicleJourney:LR6205R_20190901_1,St Mathieu - La Forge*,,1,,shp_200_79,0,0
-HVI:Line:LR70_20190901,HVI:Timetable:15,HVI:VehicleJourney:LR7001R_20190901_1,Cognac la Forêt - Champ de Foire*,,1,,shp_200_62,0,0
-HVI:Line:LR70_20190901,HVI:Timetable:34,HVI:VehicleJourney:LR7003R_20190901_1,Cognac la Forêt - Champ de Foire*,,1,,shp_200_58,0,0
-HVI:Line:LR70_20190901,HVI:Timetable:1,HVI:VehicleJourney:LR7004A_20190901_1,LIMOGES - CIEL,,0,,shp_200_36,0,0
-HVI:Line:LR70_20190901,HVI:Timetable:31,HVI:VehicleJourney:LR7005R_20190901_1,Cognac la Forêt - Champ de Foire*,,1,,shp_200_126,0,0
-HVI:Line:LR70_20190901,HVI:Timetable:20,HVI:VehicleJourney:LR7006A_20190901_1,LIMOGES - CIEL,,0,,shp_200_19,0,0
-HVI:Line:LR70_20190901,HVI:Timetable:16,HVI:VehicleJourney:LR7007R_20190901_1,Cognac la Forêt - Champ de Foire*,,1,,shp_200_62,0,0
-HVI:Line:LR70_20190901,HVI:Timetable:20,HVI:VehicleJourney:LR7009R_20190901_1,Cognac la Forêt - Champ de Foire*,,1,,shp_200_124,0,0
-HVI:Line:LR81_20190901,HVI:Timetable:8,HVI:VehicleJourney:LR8103R_20190901_1,Magnac Laval - LP Agricole*,,1,,shp_200_33,0,0
-HVI:Line:LR81_20190901,HVI:Timetable:14,HVI:VehicleJourney:LR8108A_20190901_2,LIMOGES - CIEL,,0,,shp_200_153,0,0
-HVI:Line:LR81_20190901,HVI:Timetable:14,HVI:VehicleJourney:LR8110A_20190901_2,LIMOGES - CIEL,,0,,shp_200_95,0,0
-HVI:Line:LRA_20190901,HVI:Timetable:1,HVI:VehicleJourney:LRA001R_20190901_1,Ambazac - Champ de foire / Ambazac - Champ de foire*,,0,,shp_200_112,0,0
-HVI:Line:LRA_20190901,HVI:Timetable:1,HVI:VehicleJourney:LRA002A_20190901_1,LIMOGES - CIEL,,0,,shp_200_90,0,0
-HVI:Line:LRA_20190901,HVI:Timetable:1,HVI:VehicleJourney:LRA003R_20190901_1,Ambazac - Champ de foire / Ambazac - Champ de foire*,,1,,shp_200_112,0,0
-HVI:Line:LRA_20190901,HVI:Timetable:1,HVI:VehicleJourney:LRA004R_20190901_1,LIMOGES - CIEL,,0,,shp_200_56,0,0
-HVI:Line:LRA_20190901,HVI:Timetable:1,HVI:VehicleJourney:LRA005R_20190901_1,Ambazac - Champ de foire / Ambazac - Champ de foire*,,1,,shp_200_48,0,0
-HVI:Line:LRA_20190901,HVI:Timetable:1,HVI:VehicleJourney:LRA006A_20190901_1,LIMOGES - CIEL,,0,,shp_200_56,0,0
-HVI:Line:LRA_20190901,HVI:Timetable:1,HVI:VehicleJourney:LRA007R_20190901_1,Ambazac - Champ de foire / Ambazac - Champ de foire*,,0,,shp_200_112,0,0
-HVI:Line:LRA_20190901,HVI:Timetable:1,HVI:VehicleJourney:LRA008A_20190901_1,LIMOGES - CIEL,,0,,shp_200_56,0,0
-HVI:Line:LRA_20190901,HVI:Timetable:1,HVI:VehicleJourney:LRA009R_20190901_1,Ambazac - Champ de foire / Ambazac - Champ de foire*,,1,,shp_200_48,0,0
-HVI:Line:LRA_20190901,HVI:Timetable:1,HVI:VehicleJourney:LRA010A_20190901_1,LIMOGES - CIEL,,0,,shp_200_56,0,0
-HVI:Line:LRA_20190901,HVI:Timetable:1,HVI:VehicleJourney:LRA011R_20190901_1,Ambazac - Champ de foire / Ambazac - Champ de foire*,,0,,shp_200_31,0,0
-HVI:Line:LRA_20190901,HVI:Timetable:1,HVI:VehicleJourney:LRA012A_20190901_1,Limoges - Place W. Churchill F,,0,,shp_200_150,0,0
-HVI:Line:LRA_20190901,HVI:Timetable:1,HVI:VehicleJourney:LRA013R_20190901_1,Ambazac - La Mazaurie / Ambazac - La Mazaurie*,,0,,shp_200_111,0,0
-HVI:Line:LRA_20190901,HVI:Timetable:1,HVI:VehicleJourney:LRA014A_20190901_1,Limoges - Place W. Churchill F,,0,,shp_200_150,0,0
-HVI:Line:LRB_20190901,HVI:Timetable:1,HVI:VehicleJourney:LRB001R_20190901_1,Bessines - Bourg*,,0,,shp_200_115,0,0
-HVI:Line:LRB_20190901,HVI:Timetable:1,HVI:VehicleJourney:LRB002A_20190901_1,LIMOGES - CIEL,,1,,shp_200_158,0,0
-HVI:Line:LRB_20190901,HVI:Timetable:2,HVI:VehicleJourney:LRB003R_20190901_1,Bessines - Bourg*,,0,,shp_200_115,0,0
-HVI:Line:LRB_20190901,HVI:Timetable:1,HVI:VehicleJourney:LRB004A_20190901_1,LIMOGES - CIEL,,1,,shp_200_158,0,0
-HVI:Line:LRB_20190901,HVI:Timetable:1,HVI:VehicleJourney:LRB005R_20190901_1,Bessines - Bourg*,,0,,shp_200_115,0,0
-HVI:Line:LRB_20190901,HVI:Timetable:2,HVI:VehicleJourney:LRB006A_20190901_1,LIMOGES - CIEL,,1,,shp_200_158,0,0
-HVI:Line:LRB_20190901,HVI:Timetable:1,HVI:VehicleJourney:LRB007R_20190901_1,Bessines - Bourg*,,0,,shp_200_115,0,0
-HVI:Line:LRB_20190901,HVI:Timetable:1,HVI:VehicleJourney:LRB008A_20190901_1,LIMOGES - CIEL,,1,,shp_200_158,0,0
+064608020:1,10046,106830640-1_116274,Gare Nemours Parvis,,0,,shp_3_7,0,0
+064608020:1,10046,106830641-1_116275,Gare Nemours Parvis,,0,,shp_3_7,0,0
+064608020:1,9193,106830642-1_116276,Gare Nemours Parvis,,0,,shp_3_7,0,0
+064608020:1,1423,106830643-1_116277,Gare Nemours Parvis,,0,,shp_3_7,0,0
+064608020:1,10046,106830644-1_116278,Gare Nemours Parvis,,0,,shp_3_7,0,0
+064608020:1,10046,106830645-1_116279,Gare Nemours Parvis,,0,,shp_3_7,0,0
+064608020:1,9193,106830646-1_116280,Gare Nemours Parvis,,0,,shp_3_7,0,0
+064608020:1,10046,106830647-1_116281,Gare Nemours Parvis,,0,,shp_3_7,0,0
+064608020:1,10538,106830648-1_116282,Gare Nemours Parvis,,0,,shp_3_7,0,0
+064608020:1,10046,106830649-1_116283,Gare Nemours Parvis,,0,,shp_3_7,0,0
+064608020:1,4079,106830650-1_116284,Gare Nemours Parvis,,0,,shp_3_7,0,0
+064608020:1,10046,106830651-1_116285,Gare Nemours Parvis,,0,,shp_3_7,0,0
+064608020:1,10046,106830652-1_116286,Gare Nemours Parvis,,0,,shp_3_7,0,0
+064608020:1,10046,106830653-1_116287,Gare Nemours Parvis,,0,,shp_3_7,0,0
+064608020:1,10046,106830654-1_116288,Gare Nemours Parvis,,0,,shp_3_7,0,0
+064608020:1,10538,106830655-1_116289,Gare Nemours Parvis,,0,,shp_3_7,0,0
+064608020:1,10046,106830656-1_116290,Gare Nemours Parvis,,0,,shp_3_7,0,0
+064608020:1,1423,106830657-1_116291,Gare Nemours Parvis,,0,,shp_3_7,0,0
+064608020:1,10046,106830658-1_116292,Gare Nemours Parvis,,0,,shp_3_7,0,0
+064608020:1,4079,106830659-1_116293,Gare Nemours Parvis,,0,,shp_3_7,0,0
+064608020:1,10046,106830660-1_116294,Gare Nemours Parvis,,0,,shp_3_7,0,0
+064608020:1,10046,106830661-1_116295,Gare Nemours Parvis,,0,,shp_3_7,0,0
+064608020:1,1966,106830662-1_116296,Cité Scolaire,,0,,shp_3_96,0,0
+064608020:1,1966,106830663-1_116297,Cité Scolaire,,0,,shp_3_96,0,0
+064608020:1,1966,106830664-1_116298,Collège Vasco,,0,,shp_3_22,0,0
+064608020:1,1966,106830665-1_116299,Collège Vasco,,0,,shp_3_22,0,0
+064608020:1,10046,106830666-1_116300,Canal,,1,,shp_3_13,0,0
+064608020:1,9193,106830667-1_116301,Canal,,1,,shp_3_13,0,0
+064608020:1,10046,106830668-1_116302,Canal,,1,,shp_3_13,0,0
+064608020:1,4079,106830669-1_116303,Canal,,1,,shp_3_13,0,0
+064608020:1,10538,106830670-1_116304,Canal,,1,,shp_3_13,0,0
+064608020:1,10046,106830671-1_116305,Canal,,1,,shp_3_13,0,0
+064608020:1,10046,106830672-1_116306,Canal,,1,,shp_3_13,0,0
+064608020:1,9193,106830673-1_116307,Canal,,1,,shp_3_13,0,0
+064608020:1,10046,106830674-1_116308,Canal,,1,,shp_3_13,0,0
+064608020:1,10046,106830675-1_116309,Canal,,1,,shp_3_13,0,0
+064608020:1,9262,106830676-1_116310,Canal,,1,,shp_3_13,0,0
+064608020:1,10046,106830677-1_116311,Canal,,1,,shp_3_13,0,0
+064608020:1,10046,106830678-1_116312,Canal,,1,,shp_3_13,0,0
+064608020:1,10046,106830679-1_116313,Canal,,1,,shp_3_13,0,0
+064608020:1,10046,106830680-1_116314,Canal,,1,,shp_3_13,0,0
+064608020:1,10046,106830682-1_116315,Canal,,1,,shp_3_13,0,0
+064608020:1,10046,106830683-1_116316,Canal,,1,,shp_3_13,0,0
+064608020:1,10046,106830684-1_116317,Canal,,1,,shp_3_13,0,0
+064608020:1,10046,106830685-1_116318,Canal,,1,,shp_3_13,0,0
+064608020:1,10046,106830686-1_116319,Canal,,1,,shp_3_13,0,0
+064608020:1,10046,106830687-1_116320,Canal,,1,,shp_3_13,0,0
+064608020:1,4079,106830688-1_116321,Canal,,1,,shp_3_13,0,0
+064608020:1,10538,106830689-1_116322,Canal,,1,,shp_3_13,0,0
+064608020:1,9262,106830690-1_116323,Canal,,1,,shp_3_13,0,0
+064608020:1,1423,106830691-1_116324,Canal,,1,,shp_3_65,0,0
+064608020:1,885,106830692-1_116325,Canal,,1,,shp_3_65,0,0
+064608020:1,1966,106830693-1_116326,Canal,,1,,shp_3_65,0,0
+064608020:1,1423,106830694-1_116327,Canal,,1,,shp_3_65,0,0
+064608020:1,1423,106830695-1_116328,Canal,,1,,shp_3_65,0,0
+064608020:1,1423,106830696-1_116329,Canal,,1,,shp_3_65,0,0
+064608020:1,1423,106830697-1_116330,Canal,,1,,shp_3_65,0,0
+064608020:1,885,106830698-1_116331,Canal,,1,,shp_3_65,0,0
+064608020:1,1966,106830699-1_116332,Canal,,1,,shp_3_65,0,0
+064608020:1,1423,106830700-1_116333,Canal,,1,,shp_3_65,0,0
+064608020:1,1423,106830701-1_116334,Canal,,1,,shp_3_98,0,0
+064608020:1,1423,106830702-1_116335,Canal,,1,,shp_3_98,0,0
+064608020:1,1423,106830703-1_116336,Canal,,1,,shp_3_98,0,0
+064608020:1,1423,106830704-1_116337,Canal,,1,,shp_3_98,0,0
+064608021:2,10046,106830705-1_116382,Gare Foljuif,,0,,shp_3_61,0,0
+064608021:2,10046,106830706-1_116383,Gare Foljuif,,0,,shp_3_61,0,0
+064608021:2,9193,106830707-1_116384,Gare Nemours Parvis,,0,,shp_3_93,0,0
+064608021:2,9193,106830708-1_116385,Gare Nemours Parvis,,0,,shp_3_93,0,0
+064608021:2,10046,106830709-1_116386,Gare Nemours Parvis,,0,,shp_3_93,0,0
+064608021:2,10046,106830710-1_116387,Gare Nemours Parvis,,0,,shp_3_93,0,0
+064608021:2,4079,106830711-1_116388,Gare Nemours Parvis,,0,,shp_3_93,0,0
+064608021:2,10046,106830712-1_116389,Gare Nemours Parvis,,0,,shp_3_93,0,0
+064608021:2,10046,106830713-1_116390,Gare Nemours Parvis,,0,,shp_3_93,0,0
+064608021:2,10046,106830714-1_116391,Gare Nemours Parvis,,0,,shp_3_93,0,0
+064608021:2,4079,106830715-1_116392,Gare Nemours Parvis,,0,,shp_3_93,0,0
+064608021:2,10046,106830716-1_116393,Gare Nemours Parvis,,0,,shp_3_93,0,0
+064608021:2,10046,106830717-1_116394,Gare Nemours Parvis,,0,,shp_3_93,0,0
+064608021:2,10046,106830718-1_116395,Gare Nemours Parvis,,0,,shp_3_93,0,0
+064608021:2,1966,106830719-1_116396,Cité Scolaire,,0,,shp_3_147,0,0
+064608021:2,1966,106830720-1_116397,Cité Scolaire,,0,,shp_3_147,0,0
+064608021:2,10046,106830721-1_116398,Gare Nemours Parvis,,0,,shp_3_55,0,0
+064608021:2,10046,106830722-1_116399,Gare Nemours Parvis,,0,,shp_3_55,0,0
+064608021:2,10046,106830723-1_116400,Gare Nemours Parvis,,0,,shp_3_55,0,0
+064608021:2,10046,106830724-1_116401,Gare Nemours Parvis,,0,,shp_3_55,0,0
+064608021:2,4079,106830725-1_116402,Gare Nemours Parvis,,0,,shp_3_55,0,0
+064608021:2,10046,106830726-1_116403,Gare Nemours Parvis,,0,,shp_3_55,0,0
+064608021:2,10046,106830727-1_116404,Gare Nemours Parvis,,0,,shp_3_55,0,0
+064608021:2,4079,106830728-1_116405,Gare Nemours Parvis,,0,,shp_3_55,0,0
+064608021:2,10046,106830729-1_116406,Gare Nemours Parvis,,0,,shp_3_55,0,0
+064608021:2,10046,106830730-1_116407,Gare Nemours Parvis,,0,,shp_3_55,0,0
+064608021:2,10046,106830731-1_116408,Gare Nemours Parvis,,0,,shp_3_55,0,0
+064608021:2,10046,106830732-1_116409,Gare Nemours Parvis,,0,,shp_3_55,0,0
+064608021:2,1423,106830733-1_116410,Gare Nemours Parvis,,0,,shp_3_132,0,0
+064608021:2,1966,106830734-1_116411,Gare Nemours Parvis,,0,,shp_3_132,0,0
+064608021:2,1423,106830735-1_116412,Gare Nemours Parvis,,0,,shp_3_132,0,0
+064608021:2,1423,106830736-1_116413,Gare Nemours Parvis,,0,,shp_3_132,0,0
+064608021:2,1966,106830737-1_116414,Gare Nemours Parvis,,0,,shp_3_132,0,0
+064608021:2,1423,106830738-1_116415,Gare Nemours Parvis,,0,,shp_3_132,0,0
+064608021:2,1966,106830739-1_116416,Les Grèves,,1,,shp_3_20,0,0
+064608021:2,1966,106830740-1_116417,Les Grèves,,1,,shp_3_20,0,0
+064608021:2,1966,106830741-1_116418,Les Grèves,,1,,shp_3_20,0,0
+064608021:2,1966,106830742-1_116419,Les Grèves,,1,,shp_3_20,0,0
+064608021:2,10046,106830743-1_116420,Les Grèves,,1,,shp_3_138,0,0
+064608021:2,4079,106830744-1_116421,Les Grèves,,1,,shp_3_138,0,0
+064608021:2,4079,106830745-1_116422,Les Grèves,,1,,shp_3_138,0,0
+064608021:2,10046,106830746-1_116423,Les Grèves,,1,,shp_3_138,0,0
+064608021:2,10046,106830747-1_116424,Les Grèves,,1,,shp_3_138,0,0
+064608021:2,10046,106830748-1_116425,Les Grèves,,1,,shp_3_138,0,0
+064608021:2,10046,106830749-1_116426,Les Grèves,,1,,shp_3_138,0,0
+064608021:2,10046,106830750-1_116427,Les Grèves,,1,,shp_3_138,0,0
+064608021:2,4079,106830751-1_116428,Les Grèves,,1,,shp_3_138,0,0
+064608021:2,10046,106830752-1_116429,Les Grèves,,1,,shp_3_138,0,0
+064608021:2,10046,106830753-1_116430,Les Grèves,,1,,shp_3_138,0,0
+064608021:2,4079,106830754-1_116431,Les Grèves,,1,,shp_3_138,0,0
+064608021:2,10046,106830755-1_116432,Les Grèves,,1,,shp_3_138,0,0
+064608021:2,10046,106830756-1_116433,Les Grèves,,1,,shp_3_138,0,0
+064608021:2,1966,106830757-1_116434,Les Grèves,,1,,shp_3_156,0,0
+064608021:2,885,106830758-1_116435,Les Grèves,,1,,shp_3_156,0,0
+064608021:2,1966,106830759-1_116436,Les Grèves,,1,,shp_3_156,0,0
+064608021:2,885,106830760-1_116437,Les Grèves,,1,,shp_3_156,0,0
+064608021:2,1423,106830761-1_116438,Les Grèves,,1,,shp_3_148,0,0
+064608021:2,1423,106830762-1_116439,Les Grèves,,1,,shp_3_148,0,0
+064608021:2,1423,106830763-1_116440,Les Grèves,,1,,shp_3_148,0,0
+064608021:2,1423,106830764-1_116441,Les Grèves,,1,,shp_3_148,0,0
+064608021:2,1423,106830765-1_116442,Les Grèves,,1,,shp_3_84,0,0
+064608021:2,1423,106830766-1_116443,Les Grèves,,1,,shp_3_84,0,0
+064608021:2,10046,106830767-1_116444,Les Grèves,,1,,shp_3_127,0,0
+064608021:2,10046,106830768-1_116445,Les Grèves,,1,,shp_3_127,0,0
+064608021:2,9262,106830769-1_116446,Les Grèves,,1,,shp_3_127,0,0
+064608021:2,10046,106830770-1_116447,Les Grèves,,1,,shp_3_127,0,0
+064608021:2,10046,106830771-1_116448,Les Grèves,,1,,shp_3_127,0,0
+064608021:2,10046,106830772-1_116449,Les Grèves,,1,,shp_3_127,0,0
+064608021:2,10046,106830773-1_116450,Les Grèves,,1,,shp_3_127,0,0
+064608021:2,10046,106830774-1_116451,Les Grèves,,1,,shp_3_127,0,0
+064608021:2,10046,106830775-1_116452,Les Grèves,,1,,shp_3_127,0,0
+064608021:2,9262,106830776-1_116453,Les Grèves,,1,,shp_3_127,0,0
+064608003:3,10046,106830777-1_114961,Gare Nemours Parvis,,0,,shp_3_59,0,0
+064608003:3,4079,106830778-1_114962,Gare Nemours Parvis,,0,,shp_3_59,0,0
+064608003:3,10046,106830779-1_114963,Gare Nemours Parvis,,0,,shp_3_59,0,0
+064608003:3,10046,106830780-1_114964,Gare Nemours Parvis,,0,,shp_3_59,0,0
+064608003:3,9193,106830781-1_114965,Gare Nemours Parvis,,0,,shp_3_59,0,0
+064608003:3,9192,106830782-1_114966,Gare Nemours Parvis,,0,,shp_3_59,0,0
+064608003:3,10046,106830783-1_114967,Gare Nemours Parvis,,0,,shp_3_59,0,0
+064608003:3,4079,106830784-1_114968,Gare Nemours Parvis,,0,,shp_3_59,0,0
+064608003:3,10046,106830785-1_114969,Gare Nemours Parvis,,0,,shp_3_59,0,0
+064608003:3,10046,106830786-1_114970,Gare Nemours Parvis,,0,,shp_3_59,0,0
+064608003:3,9193,106830787-1_114971,Gare Nemours Parvis,,0,,shp_3_59,0,0
+064608003:3,9193,106830788-1_114972,Gare Nemours Parvis,,0,,shp_3_59,0,0
+064608003:3,10046,106830789-1_114973,Gare Nemours Parvis,,0,,shp_3_59,0,0
+064608003:3,10046,106830790-1_114974,Gare Nemours Parvis,,0,,shp_3_59,0,0
+064608003:3,10046,106830791-1_114975,Gare Nemours Parvis,,0,,shp_3_59,0,0
+064608003:3,10046,106830792-1_114976,Gare Nemours Parvis,,0,,shp_3_59,0,0
+064608003:3,10538,106830793-1_114977,Gare Nemours Parvis,,0,,shp_3_59,0,0
+064608003:3,10538,106830794-1_114978,Gare Nemours Parvis,,0,,shp_3_59,0,0
+064608003:3,10046,106830795-1_114979,Gare Nemours Parvis,,0,,shp_3_59,0,0
+064608003:3,10046,106830796-1_114980,Gare Nemours Parvis,,0,,shp_3_59,0,0
+064608003:3,10046,106830797-1_114981,Gare Nemours Parvis,,0,,shp_3_59,0,0
+064608003:3,10046,106830798-1_114982,Gare Nemours Parvis,,0,,shp_3_59,0,0
+064608003:3,10538,106830799-1_114983,Gare Nemours Parvis,,0,,shp_3_59,0,0
+064608003:3,10046,106830800-1_114984,Gare Nemours Parvis,,0,,shp_3_59,0,0
+064608003:3,10046,106830801-1_114985,Gare Nemours Parvis,,0,,shp_3_59,0,0
+064608003:3,10046,106830802-1_114986,Gare Nemours Parvis,,0,,shp_3_59,0,0
+064608003:3,10046,106830803-1_114987,Gare Nemours Parvis,,0,,shp_3_59,0,0
+064608003:3,10538,106830804-1_114988,Gare Nemours Parvis,,0,,shp_3_59,0,0
+064608003:3,9193,106830805-1_114997,L'Etang Sec,,1,,shp_3_28,0,0
+064608003:3,9193,106830806-1_114998,L'Etang Sec,,1,,shp_3_28,0,0
+064608003:3,10046,106830807-1_114999,L'Etang Sec,,1,,shp_3_28,0,0
+064608003:3,10538,106830808-1_115000,L'Etang Sec,,1,,shp_3_28,0,0
+064608003:3,10046,106830809-1_115001,L'Etang Sec,,1,,shp_3_28,0,0
+064608003:3,885,106830810-1_115002,L'Etang Sec,,1,,shp_3_28,0,0
+064608003:3,10046,106830811-1_115003,L'Etang Sec,,1,,shp_3_28,0,0
+064608003:3,9193,106830812-1_115004,L'Etang Sec,,1,,shp_3_28,0,0
+064608003:3,9193,106830813-1_115005,L'Etang Sec,,1,,shp_3_28,0,0
+064608003:3,10046,106830814-1_115006,L'Etang Sec,,1,,shp_3_28,0,0
+064608003:3,10538,106830815-1_115007,L'Etang Sec,,1,,shp_3_28,0,0
+064608003:3,10046,106830816-1_115008,L'Etang Sec,,1,,shp_3_28,0,0
+064608003:3,4079,106830817-1_115009,L'Etang Sec,,1,,shp_3_28,0,0
+064608003:3,10046,106830818-1_115010,L'Etang Sec,,1,,shp_3_28,0,0
+064608003:3,10046,106830819-1_115011,L'Etang Sec,,1,,shp_3_28,0,0
+064608003:3,4471,106830820-1_115012,L'Etang Sec,,1,,shp_3_28,0,0
+064608003:3,1966,106830821-1_115013,L'Etang Sec,,1,,shp_3_28,0,0
+064608003:3,10046,106830822-1_115014,L'Etang Sec,,1,,shp_3_28,0,0
+064608003:3,10046,106830823-1_115015,L'Etang Sec,,1,,shp_3_28,0,0
+064608003:3,10046,106830824-1_115016,L'Etang Sec,,1,,shp_3_28,0,0
+064608003:3,10046,106830825-1_115017,L'Etang Sec,,1,,shp_3_28,0,0
+064608003:3,10046,106830826-1_115018,L'Etang Sec,,1,,shp_3_28,0,0
+064608003:3,4471,106830827-1_115019,L'Etang Sec,,1,,shp_3_28,0,0
+064608003:3,10046,106830828-1_115020,L'Etang Sec,,1,,shp_3_28,0,0
+064608003:3,10046,106830829-1_115021,L'Etang Sec,,1,,shp_3_28,0,0
+064608003:3,10046,106830830-1_115022,L'Etang Sec,,1,,shp_3_28,0,0
+064608003:3,10046,106830831-1_115023,L'Etang Sec,,1,,shp_3_28,0,0
+064608003:3,4079,106830832-1_115024,L'Etang Sec,,1,,shp_3_28,0,0
+064608003:3,885,106830833-1_115025,L'Etang Sec,,1,,shp_3_28,0,0
+064608003:3,10046,106830834-1_115026,L'Etang Sec,,1,,shp_3_28,0,0
+064608003:3,1966,106830835-1_115027,L'Etang Sec,,1,,shp_3_28,0,0
+064608003:3,10046,106830836-1_115028,L'Etang Sec,,1,,shp_3_28,0,0
+064608003:3,1966,106830837-1_114989,Cité Scolaire,,0,,shp_3_63,0,0
+064608003:3,1966,106830838-1_114990,Cité Scolaire,,0,,shp_3_63,0,0
+064608003:3,1423,106830839-1_114991,Cité Scolaire,,0,,shp_3_63,0,0
+064608003:3,1966,106830840-1_114992,Cité Scolaire,,0,,shp_3_63,0,0
+064608003:3,1966,106830841-1_114993,Cité Scolaire,,0,,shp_3_63,0,0
+064608003:3,1423,106830842-1_114994,Cité Scolaire,,0,,shp_3_63,0,0
+064608003:3,1966,106830843-1_114995,Collège Vasco,,0,,shp_3_113,0,0
+064608003:3,1966,106830844-1_114996,Collège Vasco,,0,,shp_3_113,0,0
+064608003:3,1423,106830845-1_115029,L'Etang Sec,,1,,shp_3_44,0,0
+064608003:3,1423,106830846-1_115030,L'Etang Sec,,1,,shp_3_44,0,0
+064608003:3,885,106830847-1_115031,L'Etang Sec,,1,,shp_3_44,0,0
+064608003:3,1966,106830848-1_115032,L'Etang Sec,,1,,shp_3_44,0,0
+064608003:3,885,106830849-1_115033,L'Etang Sec,,1,,shp_3_44,0,0
+064608003:3,1966,106830850-1_115034,L'Etang Sec,,1,,shp_3_44,0,0
+064608003:3,1423,106830851-1_115035,L'Etang Sec,,1,,shp_3_44,0,0
+064608003:3,1423,106830852-1_115036,L'Etang Sec,,1,,shp_3_44,0,0
+064608003:3,1423,106830853-1_115037,L'Etang Sec,,1,,shp_3_73,0,0
+064608003:3,1423,106830854-1_115038,L'Etang Sec,,1,,shp_3_73,0,0
+064608003:3,1423,106830855-1_115039,L'Etang Sec,,1,,shp_3_73,0,0
+064608003:3,1423,106830856-1_115040,L'Etang Sec,,1,,shp_3_73,0,0
+064608023:4,1423,106830857-1_114672,Gare Nemours Parvis,,0,,shp_3_35,0,0
+064608023:4,1423,106830858-1_114673,Gare Nemours Parvis,,0,,shp_3_35,0,0
+064608023:4,1423,106830859-1_114674,Gare Nemours Parvis,,0,,shp_3_35,0,0
+064608023:4,1966,106830860-1_114675,Gare Nemours Parvis,,0,,shp_3_35,0,0
+064608023:4,885,106830861-1_114676,Gare Nemours Parvis,,0,,shp_3_35,0,0
+064608023:4,1966,106830862-1_114677,Gare Nemours Parvis,,0,,shp_3_35,0,0
+064608023:4,885,106830863-1_114678,Gare Nemours Parvis,,0,,shp_3_35,0,0
+064608023:4,1423,106830864-1_114679,Gare Nemours Parvis,,0,,shp_3_35,0,0
+064608023:4,885,106830865-1_114680,Gare Nemours Parvis,,0,,shp_3_35,0,0
+064608023:4,1966,106830866-1_114681,Gare Nemours Parvis,,0,,shp_3_35,0,0
+064608023:4,1423,106830867-1_114682,Gare Nemours Parvis,,0,,shp_3_35,0,0
+064608023:4,1966,106830868-1_114683,Gare Nemours Parvis,,0,,shp_3_35,0,0
+064608023:4,1423,106830869-1_114684,Gare Nemours Parvis,,0,,shp_3_35,0,0
+064608023:4,1966,106830870-1_114685,Gare Nemours Parvis,,0,,shp_3_35,0,0
+064608023:4,885,106830871-1_114686,Gare Nemours Parvis,,0,,shp_3_35,0,0
+064608023:4,1966,106830872-1_114687,Gare Nemours Parvis,,0,,shp_3_35,0,0
+064608023:4,885,106830873-1_114688,Gare Nemours Parvis,,0,,shp_3_35,0,0
+064608023:4,1423,106830874-1_114689,Gare Nemours Parvis,,0,,shp_3_35,0,0
+064608023:4,885,106830875-1_114690,Gare Nemours Parvis,,0,,shp_3_35,0,0
+064608023:4,1423,106830876-1_114691,Gare Nemours Parvis,,0,,shp_3_35,0,0
+064608023:4,1423,106830877-1_114786,Cité Scolaire,,1,,shp_3_89,0,0
+064608023:4,1966,106830878-1_114787,Cité Scolaire,,1,,shp_3_89,0,0
+064608023:4,1966,106830879-1_114788,Cité Scolaire,,1,,shp_3_89,0,0
+064608023:4,1966,106830880-1_114789,Cité Scolaire,,1,,shp_3_89,0,0
+064608023:4,1966,106830881-1_114790,Cité Scolaire,,1,,shp_3_89,0,0
+064608023:4,1966,106830882-1_114791,Cité Scolaire,,1,,shp_3_89,0,0
+064608023:4,1966,106830883-1_114792,Cité Scolaire,,1,,shp_3_89,0,0
+064608023:4,1966,106830884-1_114793,Cité Scolaire,,1,,shp_3_89,0,0
+064608023:4,1966,106830885-1_114794,Cité Scolaire,,1,,shp_3_89,0,0
+064608023:4,1966,106830886-1_114795,Cité Scolaire,,1,,shp_3_89,0,0
+064608023:4,1966,106830887-1_114796,Cité Scolaire,,1,,shp_3_89,0,0
+064608023:4,1966,106830888-1_114797,Cité Scolaire,,1,,shp_3_89,0,0
+064608023:4,1966,106830889-1_114798,Cité Scolaire,,1,,shp_3_89,0,0
+064608023:4,1966,106830890-1_114799,Cité Scolaire,,1,,shp_3_89,0,0
+064608023:4,1966,106830891-1_114800,Cité Scolaire,,1,,shp_3_89,0,0
+064608023:4,1966,106830892-1_114801,Cité Scolaire,,1,,shp_3_89,0,0
+064608023:4,1423,106830893-1_114802,Cité Scolaire,,1,,shp_3_89,0,0
+064608023:4,1966,106830894-1_114803,Cité Scolaire,,1,,shp_3_89,0,0
+064608023:4,1966,106830895-1_114804,Cité Scolaire,,1,,shp_3_89,0,0
+064608023:4,1966,106830896-1_114805,Cité Scolaire,,1,,shp_3_89,0,0
+064608023:4,1423,106830897-1_114806,Cité Scolaire,,1,,shp_3_23,0,0
+064608023:4,1423,106830898-1_114807,Cité Scolaire,,1,,shp_3_23,0,0
+064608023:4,1423,106830899-1_114808,Cité Scolaire,,1,,shp_3_23,0,0
+064608023:4,1423,106830900-1_114809,Cité Scolaire,,1,,shp_3_23,0,0
+064608024:5,1423,106830901-1_114555,Gare Nemours Parvis,,0,,shp_3_66,0,0
+064608024:5,885,106830902-1_114556,Gare Nemours Parvis,,0,,shp_3_66,0,0
+064608024:5,1966,106830903-1_114557,Gare Nemours Parvis,,0,,shp_3_66,0,0
+064608024:5,1966,106830904-1_114558,Gare Nemours Parvis,,0,,shp_3_66,0,0
+064608024:5,1966,106830905-1_114559,Gare Nemours Parvis,,0,,shp_3_66,0,0
+064608024:5,1423,106830906-1_114560,Gare Nemours Parvis,,0,,shp_3_66,0,0
+064608024:5,885,106830907-1_114561,Gare Nemours Parvis,,0,,shp_3_66,0,0
+064608024:5,1966,106830908-1_114562,Gare Nemours Parvis,,0,,shp_3_66,0,0
+064608024:5,1423,106830909-1_114563,Carrefour de L'Europe,,1,,shp_3_72,0,0
+064608024:5,1966,106830910-1_114564,Carrefour de L'Europe,,1,,shp_3_72,0,0
+064608024:5,1966,106830911-1_114565,Carrefour de L'Europe,,1,,shp_3_72,0,0
+064608024:5,1423,106830912-1_114566,Carrefour de L'Europe,,1,,shp_3_72,0,0
+064608024:5,1966,106830913-1_114567,Carrefour de L'Europe,,1,,shp_3_72,0,0
+064608024:5,1966,106830914-1_114568,Carrefour de L'Europe,,1,,shp_3_72,0,0
+064608024:5,1423,106830915-1_114569,Carrefour de L'Europe,,1,,shp_3_72,0,0
+064608024:5,1966,106830916-1_114570,Carrefour de L'Europe,,1,,shp_3_30,0,0
+064608024:5,1966,106830917-1_114571,Carrefour de L'Europe,,1,,shp_3_30,0,0
+064608007:7B,1966,106830918-1_114912,Lycée Uruguay,,0,,shp_3_58,0,0
+064608007:7B,1966,106830919-1_114913,Lycée Uruguay,,0,,shp_3_105,0,0
+064608007:7A,1966,106830920-1_114921,Stade de la Faisanderie,,0,,shp_3_154,0,0
+064608007:7A,2510,106830921-1_114922,Stade de la Faisanderie,,0,,shp_3_154,0,0
+064608007:7A,1966,106830922-1_114923,Stade de la Faisanderie,,0,,shp_3_128,0,0
+064608007:7A,2510,106830923-1_114924,Stade de la Faisanderie,,0,,shp_3_126,0,0
+064608007:7A,1966,106830924-1_114925,Stade de la Faisanderie,,0,,shp_3_64,0,0
+064608007:7A,885,106830925-1_114926,Stade de la Faisanderie,,0,,shp_3_40,0,0
+064608007:7A,1423,106830926-1_114927,Stade de la Faisanderie,,0,,shp_3_40,0,0
+064608007:7A,1966,106830927-1_114928,Stade de la Faisanderie,,0,,shp_3_87,0,0
+064608007:7A,1966,106830928-1_114929,Stade de la Faisanderie,,0,,shp_3_10,0,0
+064608007:7A,1966,106830929-1_114930,Stade de la Faisanderie,,0,,shp_3_144,0,0
+064608007:7A,885,106830930-1_114931,Stade de la Faisanderie,,0,,shp_3_129,0,0
+064608007:7A,2510,106830931-1_114932,Stade de la Faisanderie,,0,,shp_3_129,0,0
+064608007:7A,1423,106830932-1_114933,Stade de la Faisanderie,,0,,shp_3_129,0,0
+064608007:7B,1966,106830933-1_114914,Lycée Uruguay,,0,,shp_3_137,0,0
+064608007:7A,1966,106830934-1_114934,Stade de la Faisanderie,,0,,shp_3_15,0,0
+064608007:7A,1966,106830935-1_114935,Stade de la Faisanderie,,0,,shp_3_4,0,0
+064608007:7A,1966,106830936-1_114936,Stade de la Faisanderie,,0,,shp_3_80,0,0
+064608007:7D,1966,106830937-1_116175,Cité Scolaire,,0,,shp_3_78,0,0
+064608007:7C,885,106830938-1_116181,Centre Grez-sur-Loing,,1,,shp_3_36,0,0
+064608007:7C,1423,106830939-1_116182,Centre Grez-sur-Loing,,1,,shp_3_90,0,0
+064608007:7C,1966,106830940-1_116179,Cité Scolaire,,0,,shp_3_117,0,0
+064608007:7C,1966,106830941-1_116180,Cité Scolaire,,0,,shp_3_117,0,0
+064608007:7A,1423,106830942-1_114938,Poste Bourron-Marlotte,,1,,shp_3_139,0,0
+064608007:7A,885,106830943-1_114939,Poste Bourron-Marlotte,,1,,shp_3_139,0,0
+064608007:7A,885,106830944-1_114940,Poste Bourron-Marlotte,,1,,shp_3_139,0,0
+064608007:7A,1423,106830945-1_114941,Place Parodi,,1,,shp_3_50,0,0
+064608007:7A,885,106830946-1_114942,La Valotte,,1,,shp_3_27,0,0
+064608007:7A,1423,106830947-1_114943,La Valotte,,1,,shp_3_27,0,0
+064608007:7A,1423,106830948-1_114944,Place Parodi,,1,,shp_3_71,0,0
+064608007:7A,885,106830949-1_114945,Place Parodi,,1,,shp_3_71,0,0
+064608007:7A,885,106830950-1_114946,Place Parodi,,1,,shp_3_71,0,0
+064608007:7B,885,106830951-1_114916,Gare Carnot,,1,,shp_3_122,0,0
+064608007:7B,1423,106830952-1_114917,Gare Carnot,,1,,shp_3_122,0,0
+064608007:7A,1423,106830953-1_114947,La Valotte,,1,,shp_3_76,0,0
+064608007:7A,2510,106830954-1_114948,La Valotte,,1,,shp_3_76,0,0
+064608007:7A,885,106830955-1_114949,La Valotte,,1,,shp_3_76,0,0
+064608007:7B,1423,106830956-1_114918,La Valotte,,1,,shp_3_95,0,0
+064608007:7B,885,106830957-1_114919,La Valotte,,1,,shp_3_95,0,0
+064608007:7A,1423,106830958-1_114950,Cité Timbert,,1,,shp_3_146,0,0
+064608007:7A,885,106830959-1_114951,Cité Timbert,,1,,shp_3_146,0,0
+064608007:7A,2676,106830960-1_114952,Gare Carnot,,1,,shp_3_48,0,0
+064608007:7A,1423,106830961-1_114953,Gare Carnot,,1,,shp_3_48,0,0
+064608007:7A,1423,106830962-1_114954,Gare Carnot,,1,,shp_3_79,0,0
+064608007:7A,885,106830963-1_114955,Gare Carnot,,1,,shp_3_79,0,0
+064608007:7B,1423,106830964-1_114920,Gare Carnot,,1,,shp_3_43,0,0
+064608007:7A,2510,106830965-1_114956,La Valotte,,1,,shp_3_33,0,0
+064608007:7A,885,106830966-1_114957,Gare Carnot,,1,,shp_3_21,0,0
+064608007:7A,1423,106830967-1_114958,Gare Carnot,,1,,shp_3_21,0,0
+064608007:7A,1423,106830968-1_114959,Gare Carnot,,1,,shp_3_21,0,0
+064608007:7D,885,106830969-1_116176,Place Parodi,,1,,shp_3_97,0,0
+064608007:7D,1423,106830970-1_116177,Place Parodi,,1,,shp_3_97,0,0
+064608007:7D,1423,106830971-1_116178,Place Parodi,,1,,shp_3_97,0,0
+064608007:7A,1423,106830972-1_114960,Gare Carnot,,1,,shp_3_67,0,0
+064608007:7A,2510,106830973-1_114937,Stade de la Faisanderie,,0,,shp_3_108,0,0
+064608007:7B,1966,106830974-1_114915,Lycée Uruguay,,0,,shp_3_54,0,0
+064608008:8B,1966,106830975-1_116183,LEP Fontaineroux,,0,,shp_3_124,0,0
+064608008:8A,1966,106830976-1_116186,Cité Scolaire,,0,,shp_3_99,0,0
+064608008:8A,1423,106830977-1_116187,Rue de la Source,,1,,shp_3_112,0,0
+064608008:8A,1423,106830978-1_116188,Rue de la Source,,1,,shp_3_112,0,0
+064608008:8A,885,106830979-1_116189,Rue de la Source,,1,,shp_3_112,0,0
+064608008:8B,1423,106830980-1_116184,Gare Nemours Parvis,,1,,shp_3_140,0,0
+064608008:8B,885,106830981-1_116185,Gare Nemours Parvis,,1,,shp_3_140,0,0
+064608009:9C,1966,106830982-1_115119,Cité Scolaire,,0,,shp_3_17,0,0
+064608009:9C,1966,106830983-1_115120,Cité Scolaire,,0,,shp_3_17,0,0
+064608009:9C,1423,106830984-1_115137,Le Clos,,1,,shp_3_52,0,0
+064608009:9C,1423,106830985-1_115138,Le Clos,,1,,shp_3_52,0,0
+064608009:9A,1966,106830986-1_116154,Cité Scolaire,,0,,shp_3_53,0,0
+064608009:9A,1966,106830987-1_116155,Cité Scolaire,,0,,shp_3_53,0,0
+064608009:9A,9193,106830988-1_116156,Gare Nemours Parvis,,0,,shp_3_107,0,0
+064608009:9A,10046,106830989-1_116157,Gare Nemours Parvis,,0,,shp_3_107,0,0
+064608009:9A,1966,106830990-1_116158,Gare Nemours Parvis,,0,,shp_3_107,0,0
+064608009:9A,1966,106830991-1_116159,Cité Scolaire,,0,,shp_3_142,0,0
+064608009:9A,1966,106830992-1_116160,Cité Scolaire,,0,,shp_3_142,0,0
+064608009:9A,1423,106830993-1_116161,Passy,,1,,shp_3_100,0,0
+064608009:9A,1423,106830994-1_116162,Passy,,1,,shp_3_100,0,0
+064608009:9A,885,106830995-1_116163,Passy,,1,,shp_3_100,0,0
+064608009:9A,1423,106830996-1_116164,Passy,,1,,shp_3_100,0,0
+064608009:9A,1423,106830997-1_116165,Passy,,1,,shp_3_100,0,0
+064608009:9A,885,106830998-1_116166,Passy,,1,,shp_3_100,0,0
+064608009:9A,885,106830999-1_116167,Passy,,1,,shp_3_39,0,0
+064608009:9A,885,106831000-1_116168,Passy,,1,,shp_3_39,0,0
+064608009:9A,1423,106831001-1_116169,Passy,,1,,shp_3_149,0,0
+064608009:9A,885,106831002-1_116170,Passy,,1,,shp_3_149,0,0
+064608009:9A,10046,106831003-1_116171,Passy,,1,,shp_3_149,0,0
+064608009:9A,1423,106831004-1_116172,Passy,,1,,shp_3_149,0,0
+064608009:9A,885,106831005-1_116173,Passy,,1,,shp_3_149,0,0
+064608009:9A,10046,106831006-1_116174,Passy,,1,,shp_3_149,0,0
+064608009:9B,1966,106831007-1_115151,Cité Scolaire,,0,,shp_3_34,0,0
+064608009:9B,1966,106831008-1_115152,Cité Scolaire,,0,,shp_3_34,0,0
+064608009:9B,9193,106831009-1_115153,Gare Nemours Parvis,,0,,shp_3_114,0,0
+064608009:9B,9193,106831010-1_115154,Gare Nemours Parvis,,0,,shp_3_114,0,0
+064608009:9B,1966,106831011-1_115155,Cité Scolaire,,0,,shp_3_111,0,0
+064608009:9B,1966,106831012-1_115156,Cité Scolaire,,0,,shp_3_111,0,0
+064608009:9B,1423,106831013-1_115157,Centre Launoy,,1,,shp_3_70,0,0
+064608009:9B,1423,106831014-1_115158,Centre Launoy,,1,,shp_3_70,0,0
+064608009:9B,885,106831015-1_115159,Centre Launoy,,1,,shp_3_70,0,0
+064608009:9B,1423,106831016-1_115160,Centre Launoy,,1,,shp_3_70,0,0
+064608009:9B,1423,106831017-1_115161,Centre Launoy,,1,,shp_3_70,0,0
+064608009:9B,885,106831018-1_115162,Centre Launoy,,1,,shp_3_70,0,0
+064608009:9B,10046,106831019-1_115163,Centre Launoy,,1,,shp_3_150,0,0
+064608009:9B,10046,106831020-1_115164,Centre Launoy,,1,,shp_3_150,0,0
+064608009:9D,1966,106831021-1_116148,Cité Scolaire,,0,,shp_3_29,0,0
+064608009:9D,1966,106831022-1_116149,Cité Scolaire,,0,,shp_3_29,0,0
+064608009:9D,1423,106831023-1_116150,Mairie Diant,,1,,shp_3_16,0,0
+064608009:9D,885,106831024-1_116151,Mairie Diant,,1,,shp_3_16,0,0
+064608009:9D,1423,106831025-1_116152,Mairie Diant,,1,,shp_3_16,0,0
+064608009:9D,885,106831026-1_116153,Mairie Diant,,1,,shp_3_16,0,0
+064608009:9B,885,106831027-1_115165,Centre Launoy,,1,,shp_3_38,0,0
+064608009:9B,885,106831028-1_115166,Centre Launoy,,1,,shp_3_38,0,0
+064608010:10,10046,106831029-1_116249,Gare Nemours Parvis,,0,,shp_3_42,0,0
+064608010:10,10046,106831030-1_116250,Gare Nemours Parvis,,0,,shp_3_42,0,0
+064608010:10,1966,106831031-1_116251,Gare Nemours Parvis,,0,,shp_3_6,0,0
+064608010:10,1966,106831032-1_116252,Gare Nemours Parvis,,0,,shp_3_6,0,0
+064608010:10,1966,106831033-1_116253,Gare Nemours Parvis,,0,,shp_3_6,0,0
+064608010:10,7165,106831034-1_116254,Gare Nemours Parvis,,0,,shp_3_51,0,0
+064608010:10,9193,106831035-1_116255,Gare Nemours Parvis,,0,,shp_3_51,0,0
+064608010:10,7165,106831036-1_116256,Gare Nemours Parvis,,0,,shp_3_51,0,0
+064608010:10,10046,106831037-1_116257,Gare Nemours Parvis,,0,,shp_3_51,0,0
+064608010:10,1966,106831038-1_116258,Cité Scolaire,,0,,shp_3_152,0,0
+064608010:10,1966,106831039-1_116259,Cité Scolaire,,0,,shp_3_152,0,0
+064608010:10,7165,106831040-1_116260,Aristide Briand,,1,,shp_3_60,0,0
+064608010:10,10046,106831041-1_116261,Aristide Briand,,1,,shp_3_60,0,0
+064608010:10,10046,106831042-1_116262,Aristide Briand,,1,,shp_3_60,0,0
+064608010:10,7165,106831043-1_116263,Aristide Briand,,1,,shp_3_60,0,0
+064608010:10,10046,106831044-1_116264,Aristide Briand,,1,,shp_3_60,0,0
+064608010:10,10046,106831045-1_116265,Aristide Briand,,1,,shp_3_60,0,0
+064608010:10,1423,106831046-1_116266,Aristide Briand,,1,,shp_3_82,0,0
+064608010:10,1423,106831047-1_116267,Aristide Briand,,1,,shp_3_82,0,0
+064608010:10,1423,106831048-1_116268,Aristide Briand,,1,,shp_3_68,0,0
+064608010:10,885,106831049-1_116269,Aristide Briand,,1,,shp_3_68,0,0
+064608010:10,885,106831050-1_116270,Aristide Briand,,1,,shp_3_68,0,0
+064608010:10,1423,106831051-1_116271,Aristide Briand,,1,,shp_3_68,0,0
+064608010:10,885,106831052-1_116272,Aristide Briand,,1,,shp_3_68,0,0
+064608010:10,885,106831053-1_116273,Aristide Briand,,1,,shp_3_68,0,0
+064608011:11D,10046,106831054-1_116195,Gare Souppes Parvis,,0,,shp_3_46,0,0
+064608011:11D,10046,106831055-1_116196,Gare Souppes Parvis,,0,,shp_3_46,0,0
+064608011:11D,10046,106831056-1_116197,Gare Souppes Parvis,,0,,shp_3_46,0,0
+064608011:11D,10046,106831057-1_116198,Gare Souppes Parvis,,0,,shp_3_46,0,0
+064608011:11D,1966,106831058-1_116199,Cité Scolaire,,0,,shp_3_131,0,0
+064608011:11D,1966,106831059-1_116200,Cité Scolaire,,0,,shp_3_131,0,0
+064608011:11C,1966,106831060-1_116243,Cité Scolaire,,0,,shp_3_94,0,0
+064608011:11C,1966,106831061-1_116244,Cité Scolaire,,0,,shp_3_94,0,0
+064608011:11A,2912,106831062-1_116354,Cité Scolaire,,0,,shp_3_88,0,0
+064608011:11A,2912,106831063-1_116355,Cité Scolaire,,0,,shp_3_88,0,0
+064608011:11A,1966,106831064-1_116356,Foyer Collège,,0,,shp_3_153,0,0
+064608011:11A,1966,106831065-1_116357,Foyer Collège,,0,,shp_3_153,0,0
+064608011:11D,10046,106831067-1_116201,Aristide Briand,,1,,shp_3_86,0,0
+064608011:11D,10046,106831069-1_116202,Aristide Briand,,1,,shp_3_86,0,0
+064608011:11D,10046,106831070-1_116203,Aristide Briand,,1,,shp_3_86,0,0
+064608011:11D,885,106831071-1_116204,Aristide Briand,,1,,shp_3_86,0,0
+064608011:11D,7146,106831072-1_116205,Aristide Briand,,1,,shp_3_86,0,0
+064608011:11D,8039,106831073-1_116206,Aristide Briand,,1,,shp_3_86,0,0
+064608011:11D,10046,106831074-1_116207,Aristide Briand,,1,,shp_3_86,0,0
+064608011:11D,9262,106831075-1_116208,Aristide Briand,,1,,shp_3_86,0,0
+064608011:11D,1423,106831076-1_116209,Aristide Briand,,1,,shp_3_18,0,0
+064608011:11D,885,106831077-1_116210,Aristide Briand,,1,,shp_3_18,0,0
+064608011:11D,885,106831078-1_116211,Aristide Briand,,1,,shp_3_18,0,0
+064608011:11D,1423,106831079-1_116212,Aristide Briand,,1,,shp_3_18,0,0
+064608011:11A,1423,106831080-1_116358,Cité Bellevue,,1,,shp_3_47,0,0
+064608011:11A,1423,106831081-1_116359,Cité Bellevue,,1,,shp_3_47,0,0
+064608011:11A,885,106831082-1_116360,Cité Bellevue,,1,,shp_3_47,0,0
+064608011:11A,885,106831083-1_116361,Cité Bellevue,,1,,shp_3_47,0,0
+064608011:11A,1423,106831084-1_116362,Cité Bellevue,,1,,shp_3_47,0,0
+064608011:11A,1423,106831085-1_116363,Cité Bellevue,,1,,shp_3_47,0,0
+064608011:11A,885,106831086-1_116364,Cité Bellevue,,1,,shp_3_47,0,0
+064608011:11A,885,106831087-1_116365,Cité Bellevue,,1,,shp_3_47,0,0
+064608011:11A,885,106831088-1_116366,Cité Bellevue,,1,,shp_3_24,0,0
+064608011:11A,885,106831089-1_116367,Cité Bellevue,,1,,shp_3_24,0,0
+064608011:11C,1423,106831090-1_116245,Cité Bellevue,,1,,shp_3_101,0,0
+064608011:11C,885,106831091-1_116246,Cité Bellevue,,1,,shp_3_101,0,0
+064608011:11C,1423,106831092-1_116247,Cité Bellevue,,1,,shp_3_101,0,0
+064608011:11C,885,106831093-1_116248,Cité Bellevue,,1,,shp_3_101,0,0
+064608011:11A,1423,106831094-1_116368,Cité Bellevue,,1,,shp_3_25,0,0
+064608011:11A,1423,106831095-1_116369,Cité Bellevue,,1,,shp_3_25,0,0
+064608011:11B,1966,106831096-1_116338,Cité Scolaire,,0,,shp_3_130,0,0
+064608011:11B,1966,106831097-1_116339,Cité Scolaire,,0,,shp_3_130,0,0
+064608011:11B,2912,106831098-1_116340,Cité Scolaire,,0,,shp_3_130,0,0
+064608011:11B,1966,106831099-1_116341,Cité Scolaire,,0,,shp_3_130,0,0
+064608011:11B,1966,106831100-1_116342,Cité Scolaire,,0,,shp_3_130,0,0
+064608011:11B,2912,106831101-1_116343,Cité Scolaire,,0,,shp_3_130,0,0
+064608011:11B,1423,106831102-1_116344,Pont de Dordives,,1,,shp_3_69,0,0
+064608011:11B,885,106831103-1_116345,Pont de Dordives,,1,,shp_3_69,0,0
+064608011:11B,885,106831104-1_116346,Pont de Dordives,,1,,shp_3_69,0,0
+064608011:11B,1423,106831105-1_116347,Pont de Dordives,,1,,shp_3_69,0,0
+064608011:11B,2676,106831106-1_116348,Pont de Dordives,,1,,shp_3_69,0,0
+064608011:11B,885,106831107-1_116349,Pont de Dordives,,1,,shp_3_69,0,0
+064608011:11B,1423,106831108-1_116350,Pont de Dordives,,1,,shp_3_69,0,0
+064608011:11B,1423,106831109-1_116351,Pont de Dordives,,1,,shp_3_69,0,0
+064608011:11B,2676,106831110-1_116352,Pont de Dordives,,1,,shp_3_69,0,0
+064608011:11B,885,106831111-1_116353,Pont de Dordives,,1,,shp_3_69,0,0
+064608012:12,1966,106831112-1_116190,Cité Scolaire,,0,,shp_3_75,0,0
+064608012:12,885,106831113-1_116192,Mézinville,,1,,shp_3_85,0,0
+064608012:12,1423,106831114-1_116193,Mézinville,,1,,shp_3_85,0,0
+064608012:12,1966,106831115-1_116191,Cité Scolaire,,0,,shp_3_26,0,0
+064608012:12,1423,106831116-1_116194,Thiersanville,,1,,shp_3_151,0,0
+064608013:13A,1966,106831117-1_116227,Cité Scolaire,,0,,shp_3_115,0,0
+064608013:13A,1966,106831118-1_116228,Cité Scolaire,,0,,shp_3_115,0,0
+064608013:13A,1966,106831119-1_116229,Cité Scolaire,,0,,shp_3_115,0,0
+064608013:13A,1966,106831120-1_116230,Cité Scolaire,,0,,shp_3_115,0,0
+064608013:13A,1423,106831121-1_116233,Place,,1,,shp_3_134,0,0
+064608013:13A,885,106831122-1_116234,Place,,1,,shp_3_134,0,0
+064608013:13A,885,106831123-1_116235,Place,,1,,shp_3_134,0,0
+064608013:13A,1423,106831124-1_116236,Place,,1,,shp_3_134,0,0
+064608013:13A,885,106831125-1_116237,Place,,1,,shp_3_134,0,0
+064608013:13A,1423,106831126-1_116238,Place,,1,,shp_3_134,0,0
+064608013:13A,885,106831127-1_116239,Place,,1,,shp_3_134,0,0
+064608013:13A,1423,106831128-1_116240,Place,,1,,shp_3_134,0,0
+064608013:13A,885,106831129-1_116241,Place,,1,,shp_3_116,0,0
+064608013:13A,885,106831130-1_116242,Place,,1,,shp_3_116,0,0
+064608013:13A,10046,106831131-1_116231,Gare Foljuif,,0,,shp_3_92,0,0
+064608013:13A,10046,106831132-1_116232,Gare Foljuif,,0,,shp_3_92,0,0
+064608013:13C,1966,106831133-1_116526,Cité Scolaire,,0,,shp_3_57,0,0
+064608013:13C,1966,106831134-1_116527,Cité Scolaire,,0,,shp_3_57,0,0
+064608013:13C,1966,106831135-1_116528,Cité Scolaire,,0,,shp_3_57,0,0
+064608013:13C,1966,106831136-1_116529,Cité Scolaire,,0,,shp_3_57,0,0
+064608013:13C,1423,106831137-1_116532,Le Perray,,1,,shp_3_125,0,0
+064608013:13C,1423,106831138-1_116533,Le Perray,,1,,shp_3_125,0,0
+064608013:13C,885,106831139-1_116534,Le Perray,,1,,shp_3_125,0,0
+064608013:13C,885,106831140-1_116535,Le Perray,,1,,shp_3_125,0,0
+064608013:13C,885,106831141-1_116536,Le Perray,,1,,shp_3_125,0,0
+064608013:13C,1423,106831142-1_116537,Le Perray,,1,,shp_3_125,0,0
+064608013:13C,1423,106831143-1_116538,Le Perray,,1,,shp_3_125,0,0
+064608013:13C,885,106831144-1_116539,Le Perray,,1,,shp_3_125,0,0
+064608013:13C,8059,106831145-1_116540,Le Perray,,1,,shp_3_45,0,0
+064608013:13C,1423,106831146-1_116541,Le Perray,,1,,shp_3_45,0,0
+064608013:13C,10046,106831147-1_116542,Le Perray,,1,,shp_3_45,0,0
+064608013:13C,8040,106831148-1_116543,Le Perray,,1,,shp_3_45,0,0
+064608013:13C,10046,106831149-1_116544,Le Perray,,1,,shp_3_45,0,0
+064608013:13B,10046,106831150-1_116213,Gare Nemours Parvis,,0,,shp_3_136,0,0
+064608013:13B,10046,106831151-1_116214,Gare Nemours Parvis,,0,,shp_3_136,0,0
+064608013:13B,10046,106831152-1_116215,Cité Scolaire,,0,,shp_3_49,0,0
+064608013:13B,10046,106831153-1_116216,Cité Scolaire,,0,,shp_3_49,0,0
+064608013:13B,10046,106831154-1_116217,Laveaux,,1,,shp_3_41,0,0
+064608013:13B,10046,106831155-1_116218,Laveaux,,1,,shp_3_41,0,0
+064608013:13B,10046,106831156-1_116219,Laveaux,,1,,shp_3_41,0,0
+064608013:13B,10046,106831157-1_116220,Laveaux,,1,,shp_3_41,0,0
+064608013:13B,7165,106831158-1_116221,Laveaux,,1,,shp_3_1,0,0
+064608013:13B,7165,106831159-1_116222,Laveaux,,1,,shp_3_1,0,0
+064608013:13B,10046,106831160-1_116223,Laveaux,,1,,shp_3_1,0,0
+064608013:13B,10046,106831161-1_116224,Laveaux,,1,,shp_3_1,0,0
+064608013:13B,10046,106831162-1_116225,Laveaux,,1,,shp_3_1,0,0
+064608013:13B,10046,106831163-1_116226,Laveaux,,1,,shp_3_1,0,0
+064608013:13C,9193,106831164-1_116530,Fontaine Sèche,,0,,shp_3_91,0,0
+064608013:13C,9193,106831165-1_116531,Fontaine Sèche,,0,,shp_3_91,0,0
+064608014:14B,1966,106831166-1_116548,Foyer Collège,,0,,shp_3_56,0,0
+064608014:14B,1966,106831167-1_116549,Foyer Collège,,0,,shp_3_56,0,0
+064608014:14B,10046,106831168-1_116550,Gare Souppes Parvis,,0,,shp_3_133,0,0
+064608014:14B,10046,106831169-1_116551,Gare Souppes Parvis,,0,,shp_3_133,0,0
+064608014:14B,10046,106831170-1_116552,Gare Souppes Parvis,,0,,shp_3_133,0,0
+064608014:14B,10046,106831171-1_116553,Gare Souppes Parvis,,0,,shp_3_133,0,0
+064608014:14B,10046,106831172-1_116554,Gare Souppes Parvis,,0,,shp_3_133,0,0
+064608014:14B,10046,106831173-1_116555,Gare Souppes Parvis,,0,,shp_3_133,0,0
+064608014:14B,10046,106831174-1_116556,Gare Souppes Parvis,,0,,shp_3_133,0,0
+064608014:14B,9193,106831175-1_116557,Gare Souppes Parvis,,0,,shp_3_133,0,0
+064608014:14B,10046,106831176-1_116558,Gare Souppes Parvis,,0,,shp_3_133,0,0
+064608014:14B,10046,106831177-1_116559,Gare Souppes Parvis,,0,,shp_3_133,0,0
+064608014:14B,10046,106831178-1_116560,Gare Souppes Parvis,,0,,shp_3_133,0,0
+064608014:14B,10046,106831179-1_116561,Gare Souppes Parvis,,0,,shp_3_133,0,0
+064608014:14B,10046,106831180-1_116562,Gare Souppes Parvis,,0,,shp_3_133,0,0
+064608014:14B,885,106831181-1_116563,Cité Bellevue,,1,,shp_3_19,0,0
+064608014:14B,885,106831182-1_116564,Cité Bellevue,,1,,shp_3_19,0,0
+064608014:14B,10046,106831183-1_116565,Cité Bellevue,,1,,shp_3_11,0,0
+064608014:14B,10046,106831184-1_116566,Cité Bellevue,,1,,shp_3_11,0,0
+064608014:14B,10046,106831185-1_116567,Cité Bellevue,,1,,shp_3_11,0,0
+064608014:14B,10046,106831186-1_116568,Cité Bellevue,,1,,shp_3_11,0,0
+064608014:14B,10046,106831187-1_116569,Cité Bellevue,,1,,shp_3_11,0,0
+064608014:14B,10046,106831188-1_116570,Cité Bellevue,,1,,shp_3_11,0,0
+064608014:14B,10046,106831189-1_116571,Cité Bellevue,,1,,shp_3_11,0,0
+064608014:14B,10046,106831190-1_116572,Cité Bellevue,,1,,shp_3_11,0,0
+064608014:14B,10046,106831191-1_116573,Cité Bellevue,,1,,shp_3_11,0,0
+064608014:14B,10046,106831192-1_116574,Cité Bellevue,,1,,shp_3_11,0,0
+064608014:14B,1423,106831193-1_116575,Cité Bellevue,,1,,shp_3_104,0,0
+064608014:14B,1423,106831194-1_116576,Cité Bellevue,,1,,shp_3_104,0,0
+064608014:14A,10046,106831195-1_116501,Gare Souppes Parvis,,0,,shp_3_14,0,0
+064608014:14A,10046,106831196-1_116502,Gare Souppes Parvis,,0,,shp_3_14,0,0
+064608014:14A,10046,106831197-1_116503,Gare Souppes Parvis,,0,,shp_3_14,0,0
+064608014:14A,10046,106831198-1_116504,Gare Souppes Parvis,,0,,shp_3_14,0,0
+064608014:14A,10046,106831199-1_116505,Gare Souppes Parvis,,0,,shp_3_14,0,0
+064608014:14A,10046,106831200-1_116506,Gare Souppes Parvis,,0,,shp_3_14,0,0
+064608014:14A,10046,106831201-1_116507,Gare Souppes Parvis,,0,,shp_3_14,0,0
+064608014:14A,9193,106831202-1_116508,Gare Souppes Parvis,,0,,shp_3_14,0,0
+064608014:14A,10046,106831203-1_116509,Gare Souppes Parvis,,0,,shp_3_14,0,0
+064608014:14A,10046,106831204-1_116510,Gare Souppes Parvis,,0,,shp_3_14,0,0
+064608014:14A,10046,106831205-1_116511,Gare Souppes Parvis,,0,,shp_3_14,0,0
+064608014:14A,10046,106831206-1_116512,Gare Souppes Parvis,,0,,shp_3_14,0,0
+064608014:14A,10046,106831207-1_116513,Gare Souppes Parvis,,0,,shp_3_14,0,0
+064608014:14A,10046,106831208-1_116514,Bruzelles,,1,,shp_3_74,0,0
+064608014:14A,885,106831209-1_116515,Bruzelles,,1,,shp_3_74,0,0
+064608014:14A,10046,106831210-1_116516,Bruzelles,,1,,shp_3_74,0,0
+064608014:14A,10046,106831211-1_116517,Bruzelles,,1,,shp_3_74,0,0
+064608014:14A,10046,106831212-1_116518,Bruzelles,,1,,shp_3_74,0,0
+064608014:14A,10046,106831213-1_116519,Bruzelles,,1,,shp_3_74,0,0
+064608014:14A,10046,106831214-1_116520,Bruzelles,,1,,shp_3_74,0,0
+064608014:14A,10046,106831215-1_116521,Bruzelles,,1,,shp_3_74,0,0
+064608014:14A,885,106831216-1_116522,Bruzelles,,1,,shp_3_74,0,0
+064608014:14A,10046,106831217-1_116523,Bruzelles,,1,,shp_3_74,0,0
+064608014:14A,10046,106831218-1_116524,Bruzelles,,1,,shp_3_74,0,0
+064608014:14A,10046,106831219-1_116525,Bruzelles,,1,,shp_3_74,0,0
+064608017:17A,1966,106831262-1_116545,LEP Fontaineroux,,0,,shp_3_32,0,0
+064608017:17A,885,106831263-1_116546,Gare Carnot,,1,,shp_3_103,0,0
+064608017:17A,1423,106831264-1_116547,Gare Carnot,,1,,shp_3_103,0,0
+064608017:17B,1966,106831265-1_116498,LEP Fontaineroux,,0,,shp_3_5,0,0
+064608017:17B,1423,106831266-1_116499,Gare Souppes Parvis,,1,,shp_3_120,0,0
+064608017:17B,885,106831267-1_116500,Gare Souppes Parvis,,1,,shp_3_120,0,0
+064608018:18B,1966,106831268-1_116370,André Malraux,,0,,shp_3_110,0,0
+064608018:18B,1966,106831269-1_116371,André Malraux,,0,,shp_3_110,0,0
+064608018:18A,885,106831270-1_116378,Puiselet,,1,,shp_3_109,0,0
+064608018:18A,1966,106831271-1_116379,Puiselet,,1,,shp_3_109,0,0
+064608018:18A,1966,106831272-1_116380,Puiselet,,1,,shp_3_109,0,0
+064608018:18A,885,106831273-1_116381,Puiselet,,1,,shp_3_109,0,0
+064608018:18B,1966,106831274-1_116372,Gare Foljuif,,1,,shp_3_119,0,0
+064608018:18B,885,106831275-1_116373,Gare Foljuif,,1,,shp_3_119,0,0
+064608018:18B,1966,106831276-1_116374,Gare Foljuif,,1,,shp_3_119,0,0
+064608018:18B,885,106831277-1_116375,Gare Foljuif,,1,,shp_3_119,0,0
+064608018:18A,1966,106831278-1_116376,Flora Tristan,,0,,shp_3_62,0,0
+064608018:18A,1966,106831279-1_116377,Flora Tristan,,0,,shp_3_62,0,0
+064608018:18C,9193,106831280-1_116454,Centre Commercial Breau,,0,,shp_3_2,0,0
+064608018:18C,4079,106831281-1_116455,Centre Commercial Breau,,0,,shp_3_2,0,0
+064608018:18C,9193,106831282-1_116456,Centre Commercial Breau,,0,,shp_3_2,0,0
+064608018:18C,10377,106831283-1_116457,Centre Commercial Breau,,0,,shp_3_2,0,0
+064608018:18C,10241,106831284-1_116458,Centre Commercial Breau,,0,,shp_3_2,0,0
+064608018:18C,2912,106831285-1_116459,Centre Commercial Breau,,0,,shp_3_2,0,0
+064608018:18C,1966,106831292-1_116460,Centre Commercial Breau,,0,,shp_3_2,0,0
+064608018:18C,1966,106831293-1_116461,Centre Commercial Breau,,0,,shp_3_2,0,0
+064608018:18C,1966,106831294-1_116462,Centre Commercial Breau,,0,,shp_3_2,0,0
+064608018:18C,2510,106831295-1_116463,Centre Commercial Breau,,0,,shp_3_2,0,0
+064608018:18C,2510,106831296-1_116464,Centre Commercial Breau,,0,,shp_3_2,0,0
+064608018:18C,2912,106831297-1_116465,Centre Commercial Breau,,0,,shp_3_2,0,0
+064608018:18C,9191,106831298-1_116466,Centre Commercial Breau,,0,,shp_3_2,0,0
+064608018:18C,9191,106831299-1_116467,Centre Commercial Breau,,0,,shp_3_2,0,0
+064608018:18C,10240,106831300-1_116468,Centre Commercial Breau,,0,,shp_3_2,0,0
+064608018:18C,3552,106831301-1_116469,Centre Commercial Breau,,0,,shp_3_2,0,0
+064608018:18C,10240,106831302-1_116470,Centre Commercial Breau,,0,,shp_3_2,0,0
+064608018:18C,10240,106831303-1_116471,Centre Commercial Breau,,0,,shp_3_2,0,0
+064608018:18C,2912,106831304-1_116472,Centre Commercial Breau,,0,,shp_3_2,0,0
+064608018:18C,1966,106831305-1_116473,Centre Commercial Breau,,0,,shp_3_2,0,0
+064608018:18C,10538,106831306-1_116474,Centre Commercial Breau,,0,,shp_3_2,0,0
+064608018:18C,1966,106831307-1_116475,Centre Commercial Breau,,0,,shp_3_2,0,0
+064608018:18C,1966,106831308-1_116476,Centre Commercial Breau,,0,,shp_3_2,0,0
+064608018:18C,9193,106831309-1_116477,Gare Nemours Parvis,,1,,shp_3_118,0,0
+064608018:18C,9193,106831310-1_116478,Gare Nemours Parvis,,1,,shp_3_118,0,0
+064608018:18C,10241,106831311-1_116479,Gare Nemours Parvis,,1,,shp_3_118,0,0
+064608018:18C,1966,106831318-1_116480,Gare Nemours Parvis,,1,,shp_3_118,0,0
+064608018:18C,1966,106831319-1_116481,Gare Nemours Parvis,,1,,shp_3_118,0,0
+064608018:18C,2912,106831320-1_116482,Gare Nemours Parvis,,1,,shp_3_118,0,0
+064608018:18C,2510,106831321-1_116483,Gare Nemours Parvis,,1,,shp_3_118,0,0
+064608018:18C,2912,106831322-1_116484,Gare Nemours Parvis,,1,,shp_3_118,0,0
+064608018:18C,2912,106831323-1_116485,Gare Nemours Parvis,,1,,shp_3_118,0,0
+064608018:18C,9191,106831324-1_116486,Gare Nemours Parvis,,1,,shp_3_118,0,0
+064608018:18C,9191,106831325-1_116487,Gare Nemours Parvis,,1,,shp_3_118,0,0
+064608018:18C,10240,106831326-1_116488,Gare Nemours Parvis,,1,,shp_3_118,0,0
+064608018:18C,3552,106831327-1_116489,Gare Nemours Parvis,,1,,shp_3_118,0,0
+064608018:18C,10240,106831328-1_116490,Gare Nemours Parvis,,1,,shp_3_118,0,0
+064608018:18C,10240,106831329-1_116491,Gare Nemours Parvis,,1,,shp_3_118,0,0
+064608018:18C,1966,106831330-1_116492,Gare Nemours Parvis,,1,,shp_3_118,0,0
+064608018:18C,2912,106831331-1_116493,Gare Nemours Parvis,,1,,shp_3_118,0,0
+064608018:18C,10538,106831332-1_116494,Gare Nemours Parvis,,1,,shp_3_118,0,0
+064608018:18C,10538,106831333-1_116495,Gare Nemours Parvis,,1,,shp_3_118,0,0
+064608018:18C,1966,106831334-1_116496,Gare Nemours Parvis,,1,,shp_3_118,0,0
+064608018:18C,4079,106831335-1_116497,Gare Nemours Parvis,,1,,shp_3_118,0,0
+064608023:4,10046,106832652-1_114692,Gare Nemours Parvis,,0,,shp_3_9,0,0
+064608023:4,9193,106832653-1_114693,Gare Nemours Parvis,,0,,shp_3_9,0,0
+064608023:4,9193,106832654-1_114694,Gare Nemours Parvis,,0,,shp_3_9,0,0
+064608023:4,9193,106832655-1_114695,Gare Nemours Parvis,,0,,shp_3_9,0,0
+064608023:4,9193,106832656-1_114696,Gare Nemours Parvis,,0,,shp_3_9,0,0
+064608023:4,9193,106832657-1_114697,Gare Nemours Parvis,,0,,shp_3_9,0,0
+064608023:4,10046,106832658-1_114698,Gare Nemours Parvis,,0,,shp_3_9,0,0
+064608023:4,4079,106832659-1_114699,Gare Nemours Parvis,,0,,shp_3_9,0,0
+064608023:4,9193,106832660-1_114700,Gare Nemours Parvis,,0,,shp_3_9,0,0
+064608023:4,1966,106832661-1_114701,Gare Nemours Parvis,,0,,shp_3_9,0,0
+064608023:4,10046,106832662-1_114702,Gare Nemours Parvis,,0,,shp_3_9,0,0
+064608023:4,10046,106832663-1_114703,Gare Nemours Parvis,,0,,shp_3_9,0,0
+064608023:4,10538,106832664-1_114704,Gare Nemours Parvis,,0,,shp_3_9,0,0
+064608023:4,10538,106832665-1_114705,Gare Nemours Parvis,,0,,shp_3_9,0,0
+064608023:4,10046,106832666-1_114706,Gare Nemours Parvis,,0,,shp_3_9,0,0
+064608023:4,9193,106832667-1_114707,Gare Nemours Parvis,,0,,shp_3_9,0,0
+064608023:4,4079,106832668-1_114708,Gare Nemours Parvis,,0,,shp_3_9,0,0
+064608023:4,9193,106832669-1_114709,Gare Nemours Parvis,,0,,shp_3_9,0,0
+064608023:4,10739,106832670-1_114710,Gare Nemours Parvis,,0,,shp_3_9,0,0
+064608023:4,4729,106832671-1_114711,Gare Nemours Parvis,,0,,shp_3_9,0,0
+064608023:4,9193,106832672-1_114712,Gare Nemours Parvis,,0,,shp_3_9,0,0
+064608023:4,10739,106832673-1_114713,Gare Nemours Parvis,,0,,shp_3_9,0,0
+064608023:4,4079,106832674-1_114714,Gare Nemours Parvis,,0,,shp_3_9,0,0
+064608023:4,10046,106832675-1_114715,Gare Nemours Parvis,,0,,shp_3_9,0,0
+064608023:4,10046,106832676-1_114716,Gare Nemours Parvis,,0,,shp_3_9,0,0
+064608023:4,10046,106832677-1_114717,Gare Nemours Parvis,,0,,shp_3_9,0,0
+064608023:4,4079,106832678-1_114718,Gare Nemours Parvis,,0,,shp_3_9,0,0
+064608023:4,10046,106832679-1_114719,Gare Nemours Parvis,,0,,shp_3_9,0,0
+064608023:4,10046,106832680-1_114720,Gare Nemours Parvis,,0,,shp_3_9,0,0
+064608023:4,10046,106832681-1_114721,Gare Nemours Parvis,,0,,shp_3_9,0,0
+064608023:4,4079,106832682-1_114722,Gare Nemours Parvis,,0,,shp_3_9,0,0
+064608023:4,4079,106832683-1_114723,Gare Nemours Parvis,,0,,shp_3_9,0,0
+064608023:4,3207,106832684-1_114724,Gare Nemours Parvis,,0,,shp_3_9,0,0
+064608023:4,10046,106832685-1_114725,Gare Nemours Parvis,,0,,shp_3_9,0,0
+064608023:4,4079,106832686-1_114726,Gare Nemours Parvis,,0,,shp_3_9,0,0
+064608023:4,10046,106832687-1_114727,Gare Nemours Parvis,,0,,shp_3_9,0,0
+064608023:4,10046,106832688-1_114728,Gare Nemours Parvis,,0,,shp_3_9,0,0
+064608023:4,10940,106832689-1_114729,Gare Nemours Parvis,,0,,shp_3_9,0,0
+064608023:4,10046,106832690-1_114730,Gare Nemours Parvis,,0,,shp_3_9,0,0
+064608023:4,4079,106832691-1_114731,Gare Nemours Parvis,,0,,shp_3_9,0,0
+064608023:4,10046,106832692-1_114732,Gare Nemours Parvis,,0,,shp_3_9,0,0
+064608023:4,10046,106832693-1_114733,Gare Nemours Parvis,,0,,shp_3_9,0,0
+064608023:4,3207,106832694-1_114734,Gare Nemours Parvis,,0,,shp_3_9,0,0
+064608023:4,10046,106832695-1_114735,Gare Nemours Parvis,,0,,shp_3_9,0,0
+064608023:4,10538,106832696-1_114736,Gare Nemours Parvis,,0,,shp_3_9,0,0
+064608023:4,10046,106832697-1_114737,Gare Nemours Parvis,,0,,shp_3_9,0,0
+064608023:4,10940,106832698-1_114738,Gare Nemours Parvis,,0,,shp_3_9,0,0
+064608023:4,10538,106832699-1_114739,Gare Nemours Parvis,,0,,shp_3_9,0,0
+064608023:4,10569,106832700-1_114740,Gare Nemours Parvis,,0,,shp_3_9,0,0
+064608023:4,10046,106832701-1_114741,Gare Nemours Parvis,,0,,shp_3_9,0,0
+064608023:4,10046,106832702-1_114742,Gare Nemours Parvis,,0,,shp_3_9,0,0
+064608023:4,10046,106832703-1_114743,Gare Nemours Parvis,,0,,shp_3_9,0,0
+064608023:4,1966,106832704-1_114744,Gare Nemours Parvis,,0,,shp_3_9,0,0
+064608023:4,10046,106832705-1_114745,Gare Nemours Parvis,,0,,shp_3_9,0,0
+064608023:4,10046,106832706-1_114746,Gare Nemours Parvis,,0,,shp_3_9,0,0
+064608023:4,1966,106832707-1_114747,Gare Nemours Parvis,,0,,shp_3_9,0,0
+064608023:4,10046,106832708-1_114748,Gare Nemours Parvis,,0,,shp_3_9,0,0
+064608023:4,4079,106832709-1_114749,Gare Nemours Parvis,,0,,shp_3_9,0,0
+064608023:4,4079,106832710-1_114750,Gare Nemours Parvis,,0,,shp_3_9,0,0
+064608023:4,5156,106832711-1_114751,Gare Nemours Parvis,,0,,shp_3_9,0,0
+064608023:4,1966,106832712-1_114752,Gare Nemours Parvis,,0,,shp_3_9,0,0
+064608023:4,10046,106832713-1_114753,Gare Nemours Parvis,,0,,shp_3_9,0,0
+064608023:4,4079,106832714-1_114754,Gare Nemours Parvis,,0,,shp_3_9,0,0
+064608023:4,6347,106832715-1_114755,Gare Nemours Parvis,,0,,shp_3_9,0,0
+064608023:4,4079,106832716-1_114756,Gare Nemours Parvis,,0,,shp_3_9,0,0
+064608023:4,10046,106832717-1_114757,Gare Nemours Parvis,,0,,shp_3_9,0,0
+064608023:4,10046,106832718-1_114758,Gare Nemours Parvis,,0,,shp_3_9,0,0
+064608023:4,10046,106832719-1_114759,Gare Nemours Parvis,,0,,shp_3_9,0,0
+064608023:4,10046,106832720-1_114760,Gare Nemours Parvis,,0,,shp_3_9,0,0
+064608023:4,10046,106832721-1_114761,Gare Nemours Parvis,,0,,shp_3_9,0,0
+064608023:4,10046,106832722-1_114762,Gare Nemours Parvis,,0,,shp_3_9,0,0
+064608023:4,10046,106832723-1_114763,Gare Nemours Parvis,,0,,shp_3_9,0,0
+064608023:4,10046,106832724-1_114764,Gare Nemours Parvis,,0,,shp_3_9,0,0
+064608023:4,6347,106832725-1_114765,Gare Nemours Parvis,,0,,shp_3_9,0,0
+064608023:4,10046,106832726-1_114766,Gare Nemours Parvis,,0,,shp_3_9,0,0
+064608023:4,10046,106832727-1_114767,Gare Nemours Parvis,,0,,shp_3_9,0,0
+064608023:4,10046,106832728-1_114768,Gare Nemours Parvis,,0,,shp_3_9,0,0
+064608023:4,4079,106832729-1_114769,Gare Nemours Parvis,,0,,shp_3_9,0,0
+064608023:4,10046,106832730-1_114770,Gare Nemours Parvis,,0,,shp_3_9,0,0
+064608023:4,10046,106832731-1_114771,Gare Nemours Parvis,,0,,shp_3_9,0,0
+064608023:4,10046,106832732-1_114772,Gare Nemours Parvis,,0,,shp_3_9,0,0
+064608023:4,9193,106832733-1_114773,Gare Nemours Parvis,,0,,shp_3_9,0,0
+064608023:4,4079,106832734-1_114774,Gare Nemours Parvis,,0,,shp_3_9,0,0
+064608023:4,4079,106832735-1_114775,Gare Nemours Parvis,,0,,shp_3_9,0,0
+064608023:4,5156,106832736-1_114776,Gare Nemours Parvis,,0,,shp_3_9,0,0
+064608023:4,5156,106832737-1_114777,Gare Nemours Parvis,,0,,shp_3_9,0,0
+064608023:4,4079,106832738-1_114778,Gare Nemours Parvis,,0,,shp_3_9,0,0
+064608023:4,4079,106832739-1_114779,Gare Nemours Parvis,,0,,shp_3_9,0,0
+064608023:4,4079,106832740-1_114780,Gare Nemours Parvis,,0,,shp_3_9,0,0
+064608023:4,10046,106832741-1_114781,Gare Nemours Parvis,,0,,shp_3_9,0,0
+064608023:4,9193,106832742-1_114782,Gare Nemours Parvis,,0,,shp_3_9,0,0
+064608023:4,4079,106832743-1_114783,Gare Nemours Parvis,,0,,shp_3_9,0,0
+064608023:4,4079,106832744-1_114784,Gare Nemours Parvis,,0,,shp_3_9,0,0
+064608023:4,4079,106832745-1_114785,Gare Nemours Parvis,,0,,shp_3_9,0,0
+064608023:4,9193,106832746-1_114810,Carrefour de L'Europe,,1,,shp_3_102,0,0
+064608023:4,4079,106832747-1_114811,Carrefour de L'Europe,,1,,shp_3_102,0,0
+064608023:4,9193,106832748-1_114812,Carrefour de L'Europe,,1,,shp_3_102,0,0
+064608023:4,9193,106832749-1_114813,Carrefour de L'Europe,,1,,shp_3_102,0,0
+064608023:4,9193,106832750-1_114814,Carrefour de L'Europe,,1,,shp_3_102,0,0
+064608023:4,4079,106832751-1_114815,Carrefour de L'Europe,,1,,shp_3_102,0,0
+064608023:4,2510,106832752-1_114816,Carrefour de L'Europe,,1,,shp_3_102,0,0
+064608023:4,10377,106832753-1_114817,Carrefour de L'Europe,,1,,shp_3_102,0,0
+064608023:4,10046,106832754-1_114818,Carrefour de L'Europe,,1,,shp_3_102,0,0
+064608023:4,885,106832755-1_114819,Carrefour de L'Europe,,1,,shp_3_102,0,0
+064608023:4,10046,106832756-1_114820,Carrefour de L'Europe,,1,,shp_3_102,0,0
+064608023:4,10046,106832757-1_114821,Carrefour de L'Europe,,1,,shp_3_102,0,0
+064608023:4,10046,106832758-1_114822,Carrefour de L'Europe,,1,,shp_3_102,0,0
+064608023:4,10046,106832759-1_114823,Carrefour de L'Europe,,1,,shp_3_102,0,0
+064608023:4,9262,106832760-1_114824,Carrefour de L'Europe,,1,,shp_3_102,0,0
+064608023:4,2510,106832761-1_114825,Carrefour de L'Europe,,1,,shp_3_102,0,0
+064608023:4,4079,106832762-1_114826,Carrefour de L'Europe,,1,,shp_3_102,0,0
+064608023:4,3553,106832763-1_114827,Carrefour de L'Europe,,1,,shp_3_102,0,0
+064608023:4,6135,106832764-1_114828,Carrefour de L'Europe,,1,,shp_3_102,0,0
+064608023:4,4729,106832765-1_114829,Carrefour de L'Europe,,1,,shp_3_102,0,0
+064608023:4,10046,106832766-1_114830,Carrefour de L'Europe,,1,,shp_3_102,0,0
+064608023:4,4079,106832767-1_114831,Carrefour de L'Europe,,1,,shp_3_102,0,0
+064608023:4,9193,106832768-1_114832,Carrefour de L'Europe,,1,,shp_3_102,0,0
+064608023:4,9193,106832769-1_114833,Carrefour de L'Europe,,1,,shp_3_102,0,0
+064608023:4,9193,106832770-1_114834,Carrefour de L'Europe,,1,,shp_3_102,0,0
+064608023:4,4729,106832771-1_114835,Carrefour de L'Europe,,1,,shp_3_102,0,0
+064608023:4,4729,106832772-1_114836,Carrefour de L'Europe,,1,,shp_3_102,0,0
+064608023:4,3553,106832773-1_114837,Carrefour de L'Europe,,1,,shp_3_102,0,0
+064608023:4,10046,106832774-1_114838,Carrefour de L'Europe,,1,,shp_3_102,0,0
+064608023:4,10046,106832775-1_114839,Carrefour de L'Europe,,1,,shp_3_102,0,0
+064608023:4,3151,106832776-1_114840,Carrefour de L'Europe,,1,,shp_3_102,0,0
+064608023:4,10046,106832777-1_114841,Carrefour de L'Europe,,1,,shp_3_102,0,0
+064608023:4,4079,106832778-1_114842,Carrefour de L'Europe,,1,,shp_3_102,0,0
+064608023:4,10046,106832779-1_114843,Carrefour de L'Europe,,1,,shp_3_102,0,0
+064608023:4,10046,106832780-1_114844,Carrefour de L'Europe,,1,,shp_3_102,0,0
+064608023:4,3151,106832781-1_114845,Carrefour de L'Europe,,1,,shp_3_102,0,0
+064608023:4,4079,106832782-1_114846,Carrefour de L'Europe,,1,,shp_3_102,0,0
+064608023:4,4079,106832783-1_114847,Carrefour de L'Europe,,1,,shp_3_102,0,0
+064608023:4,10046,106832784-1_114848,Carrefour de L'Europe,,1,,shp_3_102,0,0
+064608023:4,10046,106832785-1_114849,Carrefour de L'Europe,,1,,shp_3_102,0,0
+064608023:4,3004,106832786-1_114850,Carrefour de L'Europe,,1,,shp_3_102,0,0
+064608023:4,10046,106832787-1_114851,Carrefour de L'Europe,,1,,shp_3_102,0,0
+064608023:4,4079,106832788-1_114852,Carrefour de L'Europe,,1,,shp_3_102,0,0
+064608023:4,10046,106832789-1_114853,Carrefour de L'Europe,,1,,shp_3_102,0,0
+064608023:4,3004,106832790-1_114854,Carrefour de L'Europe,,1,,shp_3_102,0,0
+064608023:4,10046,106832791-1_114855,Carrefour de L'Europe,,1,,shp_3_102,0,0
+064608023:4,10046,106832792-1_114856,Carrefour de L'Europe,,1,,shp_3_102,0,0
+064608023:4,10046,106832793-1_114857,Carrefour de L'Europe,,1,,shp_3_102,0,0
+064608023:4,4079,106832794-1_114858,Carrefour de L'Europe,,1,,shp_3_102,0,0
+064608023:4,10046,106832795-1_114859,Carrefour de L'Europe,,1,,shp_3_102,0,0
+064608023:4,10046,106832796-1_114860,Carrefour de L'Europe,,1,,shp_3_102,0,0
+064608023:4,4079,106832797-1_114861,Carrefour de L'Europe,,1,,shp_3_102,0,0
+064608023:4,3004,106832798-1_114862,Carrefour de L'Europe,,1,,shp_3_102,0,0
+064608023:4,10046,106832799-1_114863,Carrefour de L'Europe,,1,,shp_3_102,0,0
+064608023:4,10046,106832800-1_114864,Carrefour de L'Europe,,1,,shp_3_102,0,0
+064608023:4,10046,106832801-1_114865,Carrefour de L'Europe,,1,,shp_3_102,0,0
+064608023:4,4079,106832802-1_114866,Carrefour de L'Europe,,1,,shp_3_102,0,0
+064608023:4,10046,106832803-1_114867,Carrefour de L'Europe,,1,,shp_3_102,0,0
+064608023:4,6135,106832804-1_114868,Carrefour de L'Europe,,1,,shp_3_102,0,0
+064608023:4,10046,106832805-1_114869,Carrefour de L'Europe,,1,,shp_3_102,0,0
+064608023:4,10046,106832806-1_114870,Carrefour de L'Europe,,1,,shp_3_102,0,0
+064608023:4,10046,106832807-1_114871,Carrefour de L'Europe,,1,,shp_3_102,0,0
+064608023:4,10046,106832808-1_114872,Carrefour de L'Europe,,1,,shp_3_102,0,0
+064608023:4,10046,106832809-1_114873,Carrefour de L'Europe,,1,,shp_3_102,0,0
+064608023:4,4079,106832810-1_114874,Carrefour de L'Europe,,1,,shp_3_102,0,0
+064608023:4,10046,106832811-1_114875,Carrefour de L'Europe,,1,,shp_3_102,0,0
+064608023:4,10046,106832812-1_114876,Carrefour de L'Europe,,1,,shp_3_102,0,0
+064608023:4,4079,106832813-1_114877,Carrefour de L'Europe,,1,,shp_3_102,0,0
+064608023:4,4079,106832814-1_114878,Carrefour de L'Europe,,1,,shp_3_102,0,0
+064608023:4,10046,106832815-1_114879,Carrefour de L'Europe,,1,,shp_3_102,0,0
+064608023:4,10046,106832816-1_114880,Carrefour de L'Europe,,1,,shp_3_102,0,0
+064608023:4,4079,106832817-1_114881,Carrefour de L'Europe,,1,,shp_3_102,0,0
+064608023:4,4079,106832818-1_114882,Carrefour de L'Europe,,1,,shp_3_102,0,0
+064608023:4,10046,106832819-1_114883,Carrefour de L'Europe,,1,,shp_3_102,0,0
+064608023:4,10046,106832820-1_114884,Carrefour de L'Europe,,1,,shp_3_102,0,0
+064608023:4,4079,106832821-1_114885,Carrefour de L'Europe,,1,,shp_3_102,0,0
+064608023:4,10046,106832822-1_114886,Carrefour de L'Europe,,1,,shp_3_102,0,0
+064608023:4,5156,106832823-1_114887,Carrefour de L'Europe,,1,,shp_3_102,0,0
+064608023:4,10046,106832824-1_114888,Carrefour de L'Europe,,1,,shp_3_102,0,0
+064608023:4,5156,106832825-1_114889,Carrefour de L'Europe,,1,,shp_3_102,0,0
+064608023:4,10377,106832826-1_114890,Carrefour de L'Europe,,1,,shp_3_102,0,0
+064608023:4,10046,106832827-1_114891,Carrefour de L'Europe,,1,,shp_3_102,0,0
+064608023:4,10046,106832828-1_114892,Carrefour de L'Europe,,1,,shp_3_102,0,0
+064608023:4,4079,106832829-1_114893,Carrefour de L'Europe,,1,,shp_3_102,0,0
+064608023:4,10046,106832830-1_114894,Carrefour de L'Europe,,1,,shp_3_102,0,0
+064608023:4,4079,106832831-1_114895,Carrefour de L'Europe,,1,,shp_3_102,0,0
+064608023:4,4079,106832832-1_114896,Carrefour de L'Europe,,1,,shp_3_102,0,0
+064608023:4,10046,106832833-1_114897,Carrefour de L'Europe,,1,,shp_3_102,0,0
+064608023:4,5156,106832834-1_114898,Carrefour de L'Europe,,1,,shp_3_102,0,0
+064608023:4,10046,106832835-1_114899,Carrefour de L'Europe,,1,,shp_3_102,0,0
+064608023:4,10046,106832836-1_114900,Carrefour de L'Europe,,1,,shp_3_102,0,0
+064608023:4,10046,106832837-1_114901,Carrefour de L'Europe,,1,,shp_3_102,0,0
+064608023:4,10046,106832838-1_114902,Carrefour de L'Europe,,1,,shp_3_102,0,0
+064608023:4,4079,106832839-1_114903,Carrefour de L'Europe,,1,,shp_3_102,0,0
+064608023:4,10046,106832840-1_114904,Carrefour de L'Europe,,1,,shp_3_102,0,0
+064608023:4,4079,106832841-1_114905,Carrefour de L'Europe,,1,,shp_3_102,0,0
+064608023:4,10046,106832842-1_114906,Carrefour de L'Europe,,1,,shp_3_102,0,0
+064608023:4,5156,106832843-1_114907,Carrefour de L'Europe,,1,,shp_3_102,0,0
+064608023:4,10046,106832844-1_114908,Carrefour de L'Europe,,1,,shp_3_102,0,0
+064608023:4,10046,106832845-1_114909,Carrefour de L'Europe,,1,,shp_3_102,0,0
+064608023:4,9193,106832846-1_114910,Carrefour de L'Europe,,1,,shp_3_102,0,0
+064608023:4,5156,106832847-1_114911,Carrefour de L'Europe,,1,,shp_3_102,0,0
+064608024:5,4079,106832956-1_114572,Carrefour de L'Europe,,1,,shp_3_3,0,0
+064608024:5,9193,106832957-1_114573,Carrefour de L'Europe,,1,,shp_3_3,0,0
+064608024:5,9193,106832958-1_114574,Carrefour de L'Europe,,1,,shp_3_3,0,0
+064608024:5,4079,106832959-1_114575,Carrefour de L'Europe,,1,,shp_3_3,0,0
+064608024:5,10046,106832960-1_114576,Carrefour de L'Europe,,1,,shp_3_3,0,0
+064608024:5,10046,106832961-1_114577,Carrefour de L'Europe,,1,,shp_3_3,0,0
+064608024:5,9193,106832962-1_114578,Carrefour de L'Europe,,1,,shp_3_3,0,0
+064608024:5,10046,106832963-1_114579,Carrefour de L'Europe,,1,,shp_3_3,0,0
+064608024:5,10046,106832964-1_114580,Carrefour de L'Europe,,1,,shp_3_3,0,0
+064608024:5,10046,106832965-1_114581,Carrefour de L'Europe,,1,,shp_3_3,0,0
+064608024:5,10046,106832966-1_114582,Carrefour de L'Europe,,1,,shp_3_3,0,0
+064608024:5,10046,106832967-1_114583,Carrefour de L'Europe,,1,,shp_3_3,0,0
+064608024:5,10046,106832968-1_114584,Carrefour de L'Europe,,1,,shp_3_3,0,0
+064608024:5,10046,106832969-1_114585,Carrefour de L'Europe,,1,,shp_3_3,0,0
+064608024:5,4079,106832970-1_114586,Carrefour de L'Europe,,1,,shp_3_3,0,0
+064608024:5,4079,106832971-1_114587,Carrefour de L'Europe,,1,,shp_3_3,0,0
+064608024:5,10046,106832972-1_114588,Carrefour de L'Europe,,1,,shp_3_3,0,0
+064608024:5,9193,106832973-1_114589,Carrefour de L'Europe,,1,,shp_3_3,0,0
+064608024:5,9193,106832974-1_114590,Carrefour de L'Europe,,1,,shp_3_3,0,0
+064608024:5,4079,106832975-1_114591,Carrefour de L'Europe,,1,,shp_3_3,0,0
+064608024:5,4079,106832976-1_114592,Carrefour de L'Europe,,1,,shp_3_3,0,0
+064608024:5,4079,106832977-1_114593,Carrefour de L'Europe,,1,,shp_3_3,0,0
+064608024:5,5157,106832978-1_114594,Carrefour de L'Europe,,1,,shp_3_3,0,0
+064608024:5,4079,106832979-1_114595,Carrefour de L'Europe,,1,,shp_3_3,0,0
+064608024:5,4079,106832980-1_114596,Carrefour de L'Europe,,1,,shp_3_3,0,0
+064608024:5,10046,106832981-1_114597,Carrefour de L'Europe,,1,,shp_3_3,0,0
+064608024:5,10046,106832982-1_114598,Carrefour de L'Europe,,1,,shp_3_3,0,0
+064608024:5,4079,106832983-1_114599,Carrefour de L'Europe,,1,,shp_3_3,0,0
+064608024:5,5157,106832984-1_114600,Carrefour de L'Europe,,1,,shp_3_3,0,0
+064608024:5,4079,106832985-1_114601,Carrefour de L'Europe,,1,,shp_3_3,0,0
+064608024:5,10046,106832986-1_114602,Carrefour de L'Europe,,1,,shp_3_3,0,0
+064608024:5,4079,106832987-1_114603,Carrefour de L'Europe,,1,,shp_3_3,0,0
+064608024:5,4079,106832988-1_114604,Carrefour de L'Europe,,1,,shp_3_3,0,0
+064608024:5,4079,106832989-1_114605,Carrefour de L'Europe,,1,,shp_3_3,0,0
+064608024:5,10046,106832990-1_114606,Carrefour de L'Europe,,1,,shp_3_3,0,0
+064608024:5,5157,106832991-1_114607,Carrefour de L'Europe,,1,,shp_3_3,0,0
+064608024:5,10046,106832992-1_114608,Carrefour de L'Europe,,1,,shp_3_3,0,0
+064608024:5,4079,106832993-1_114609,Carrefour de L'Europe,,1,,shp_3_3,0,0
+064608024:5,10046,106832994-1_114610,Carrefour de L'Europe,,1,,shp_3_3,0,0
+064608024:5,10046,106832995-1_114611,Carrefour de L'Europe,,1,,shp_3_3,0,0
+064608024:5,4079,106832996-1_114612,Carrefour de L'Europe,,1,,shp_3_3,0,0
+064608024:5,5157,106832997-1_114613,Carrefour de L'Europe,,1,,shp_3_3,0,0
+064608024:5,4079,106832998-1_114614,Carrefour de L'Europe,,1,,shp_3_3,0,0
+064608024:5,10046,106832999-1_114615,Carrefour de L'Europe,,1,,shp_3_3,0,0
+064608024:5,3004,106833000-1_114616,Carrefour de L'Europe,,1,,shp_3_3,0,0
+064608024:5,4079,106833001-1_114617,Carrefour de L'Europe,,1,,shp_3_3,0,0
+064608024:5,10046,106833002-1_114618,Carrefour de L'Europe,,1,,shp_3_3,0,0
+064608024:5,10046,106833003-1_114619,Carrefour de L'Europe,,1,,shp_3_3,0,0
+064608024:5,10046,106833004-1_114620,Carrefour de L'Europe,,1,,shp_3_3,0,0
+064608024:5,10046,106833005-1_114621,Carrefour de L'Europe,,1,,shp_3_3,0,0
+064608024:5,10046,106833006-1_114622,Carrefour de L'Europe,,1,,shp_3_3,0,0
+064608024:5,10046,106833007-1_114623,Carrefour de L'Europe,,1,,shp_3_3,0,0
+064608024:5,10046,106833008-1_114624,Carrefour de L'Europe,,1,,shp_3_3,0,0
+064608024:5,10046,106833009-1_114625,Carrefour de L'Europe,,1,,shp_3_3,0,0
+064608024:5,10046,106833010-1_114626,Carrefour de L'Europe,,1,,shp_3_3,0,0
+064608024:5,10046,106833011-1_114627,Carrefour de L'Europe,,1,,shp_3_3,0,0
+064608024:5,4730,106833012-1_114628,Carrefour de L'Europe,,1,,shp_3_3,0,0
+064608024:5,10046,106833013-1_114629,Carrefour de L'Europe,,1,,shp_3_3,0,0
+064608024:5,10046,106833014-1_114630,Carrefour de L'Europe,,1,,shp_3_3,0,0
+064608024:5,10046,106833015-1_114631,Carrefour de L'Europe,,1,,shp_3_3,0,0
+064608024:5,10046,106833016-1_114632,Carrefour de L'Europe,,1,,shp_3_3,0,0
+064608024:5,4079,106833017-1_114633,Carrefour de L'Europe,,1,,shp_3_3,0,0
+064608024:5,10046,106833018-1_114634,Carrefour de L'Europe,,1,,shp_3_3,0,0
+064608024:5,4079,106833019-1_114635,Carrefour de L'Europe,,1,,shp_3_3,0,0
+064608024:5,10046,106833020-1_114636,Carrefour de L'Europe,,1,,shp_3_3,0,0
+064608024:5,10046,106833021-1_114637,Carrefour de L'Europe,,1,,shp_3_3,0,0
+064608024:5,4079,106833022-1_114638,Carrefour de L'Europe,,1,,shp_3_3,0,0
+064608024:5,10046,106833023-1_114639,Carrefour de L'Europe,,1,,shp_3_3,0,0
+064608024:5,10046,106833024-1_114640,Carrefour de L'Europe,,1,,shp_3_3,0,0
+064608024:5,10046,106833025-1_114641,Carrefour de L'Europe,,1,,shp_3_3,0,0
+064608024:5,4079,106833026-1_114642,Carrefour de L'Europe,,1,,shp_3_3,0,0
+064608024:5,4079,106833027-1_114643,Carrefour de L'Europe,,1,,shp_3_3,0,0
+064608024:5,4079,106833028-1_114644,Carrefour de L'Europe,,1,,shp_3_3,0,0
+064608024:5,6348,106833029-1_114645,Carrefour de L'Europe,,1,,shp_3_3,0,0
+064608024:5,4079,106833030-1_114646,Carrefour de L'Europe,,1,,shp_3_3,0,0
+064608024:5,5157,106833031-1_114647,Carrefour de L'Europe,,1,,shp_3_3,0,0
+064608024:5,9193,106833032-1_114648,Carrefour de L'Europe,,1,,shp_3_3,0,0
+064608024:5,5157,106833033-1_114649,Carrefour de L'Europe,,1,,shp_3_3,0,0
+064608024:5,10046,106833034-1_114650,Carrefour de L'Europe,,1,,shp_3_3,0,0
+064608024:5,10046,106833035-1_114651,Carrefour de L'Europe,,1,,shp_3_3,0,0
+064608024:5,4079,106833036-1_114652,Carrefour de L'Europe,,1,,shp_3_3,0,0
+064608024:5,10046,106833037-1_114653,Carrefour de L'Europe,,1,,shp_3_3,0,0
+064608024:5,4079,106833038-1_114654,Carrefour de L'Europe,,1,,shp_3_3,0,0
+064608024:5,4079,106833039-1_114655,Carrefour de L'Europe,,1,,shp_3_3,0,0
+064608024:5,10046,106833040-1_114656,Carrefour de L'Europe,,1,,shp_3_3,0,0
+064608024:5,10046,106833041-1_114657,Carrefour de L'Europe,,1,,shp_3_3,0,0
+064608024:5,10046,106833042-1_114658,Carrefour de L'Europe,,1,,shp_3_3,0,0
+064608024:5,10046,106833043-1_114659,Carrefour de L'Europe,,1,,shp_3_3,0,0
+064608024:5,5157,106833044-1_114660,Carrefour de L'Europe,,1,,shp_3_3,0,0
+064608024:5,5157,106833045-1_114661,Carrefour de L'Europe,,1,,shp_3_3,0,0
+064608024:5,10046,106833046-1_114662,Carrefour de L'Europe,,1,,shp_3_3,0,0
+064608024:5,10046,106833047-1_114663,Carrefour de L'Europe,,1,,shp_3_3,0,0
+064608024:5,4079,106833048-1_114664,Carrefour de L'Europe,,1,,shp_3_3,0,0
+064608024:5,10046,106833049-1_114665,Carrefour de L'Europe,,1,,shp_3_3,0,0
+064608024:5,4079,106833050-1_114666,Carrefour de L'Europe,,1,,shp_3_3,0,0
+064608024:5,4079,106833051-1_114667,Carrefour de L'Europe,,1,,shp_3_3,0,0
+064608024:5,10046,106833052-1_114668,Carrefour de L'Europe,,1,,shp_3_3,0,0
+064608024:5,10046,106833053-1_114669,Carrefour de L'Europe,,1,,shp_3_3,0,0
+064608024:5,10046,106833054-1_114670,Carrefour de L'Europe,,1,,shp_3_3,0,0
+064608024:5,10046,106833055-1_114671,Carrefour de L'Europe,,1,,shp_3_3,0,0
+064608009:9C,9193,106833056-1_115121,Gare Nemours Parvis,,0,,shp_3_123,0,0
+064608009:9C,9193,106833057-1_115122,Gare Nemours Parvis,,0,,shp_3_123,0,0
+064608009:9C,9328,106833058-1_115123,Gare Nemours Parvis,,0,,shp_3_123,0,0
+064608009:9C,9193,106833059-1_115124,Gare Nemours Parvis,,0,,shp_3_123,0,0
+064608009:9C,10046,106833060-1_115125,Gare Nemours Parvis,,0,,shp_3_123,0,0
+064608009:9C,9193,106833061-1_115126,Gare Nemours Parvis,,0,,shp_3_123,0,0
+064608009:9C,1966,106833062-1_115127,Gare Nemours Parvis,,0,,shp_3_123,0,0
+064608009:9C,1966,106833063-1_115128,Gare Nemours Parvis,,0,,shp_3_123,0,0
+064608009:9C,1966,106833064-1_115129,Gare Nemours Parvis,,0,,shp_3_123,0,0
+064608009:9C,9328,106833065-1_115130,Gare Nemours Parvis,,0,,shp_3_123,0,0
+064608009:9C,10046,106833066-1_115131,Gare Nemours Parvis,,0,,shp_3_123,0,0
+064608009:9C,1966,106833067-1_115132,Gare Nemours Parvis,,0,,shp_3_123,0,0
+064608009:9C,1966,106833068-1_115133,Gare Nemours Parvis,,0,,shp_3_123,0,0
+064608009:9C,1966,106833069-1_115134,Gare Nemours Parvis,,0,,shp_3_123,0,0
+064608009:9C,9337,106833070-1_115135,Gare Nemours Parvis,,0,,shp_3_123,0,0
+064608009:9C,9337,106833071-1_115136,Gare Nemours Parvis,,0,,shp_3_123,0,0
+064608009:9C,9193,106833072-1_115139,Le Clos,,1,,shp_3_77,0,0
+064608009:9C,9337,106833073-1_115140,Le Clos,,1,,shp_3_77,0,0
+064608009:9C,9193,106833074-1_115141,Le Clos,,1,,shp_3_77,0,0
+064608009:9C,1966,106833075-1_115142,Le Clos,,1,,shp_3_77,0,0
+064608009:9C,10046,106833076-1_115143,Le Clos,,1,,shp_3_77,0,0
+064608009:9C,10046,106833077-1_115144,Le Clos,,1,,shp_3_77,0,0
+064608009:9C,1966,106833078-1_115145,Le Clos,,1,,shp_3_77,0,0
+064608009:9C,10046,106833079-1_115146,Le Clos,,1,,shp_3_77,0,0
+064608009:9C,10046,106833080-1_115147,Le Clos,,1,,shp_3_77,0,0
+064608009:9C,9337,106833081-1_115148,Le Clos,,1,,shp_3_77,0,0
+064608009:9C,9328,106833082-1_115149,Le Clos,,1,,shp_3_77,0,0
+064608009:9C,9337,106833083-1_115150,Le Clos,,1,,shp_3_77,0,0
+208608019:19,8912,107091737-1_68752,Gare,,1,,shp_3_135,0,0
+208608019:19,8912,107091738-1_68753,Gare,,1,,shp_3_135,0,0
+208608019:19,8912,107091739-1_68754,Gare,,1,,shp_3_135,0,0
+208608019:19,8912,107091740-1_68739,Monument,,0,,shp_3_31,0,0
+208608019:19,8912,107091741-1_68740,Monument,,0,,shp_3_31,0,0
+208608019:19,8912,107091742-1_68741,Monument,,0,,shp_3_31,0,0
+208608019:19,8912,107091751-1_68755,Gare,,1,,shp_3_141,0,0
+208608019:19,8912,107091752-1_68756,Gare,,1,,shp_3_8,0,0
+208608019:19,8912,107091753-1_68757,Gare,,1,,shp_3_81,0,0
+208608019:19,8912,107091754-1_68758,Gare,,1,,shp_3_155,0,0
+208608019:19,3558,107091787-1_68759,Lepesme,,1,,shp_3_145,0,0
+208608019:19,3558,107091788-1_68742,Monument,,0,,shp_3_37,0,0
+208608019:19,8912,107091794-1_68743,Place Berne Bellecourt,,0,,shp_3_12,0,0
+208608019:19,1972,107092410-1_68760,Gare,,1,,shp_3_135,0,0
+208608019:19,1972,107092411-1_68761,Gare,,1,,shp_3_135,0,0
+208608019:19,1972,107092412-1_68762,Gare,,1,,shp_3_135,0,0
+208608019:19,1972,107092413-1_68744,Monument,,0,,shp_3_31,0,0
+208608019:19,1972,107092414-1_68745,Monument,,0,,shp_3_31,0,0
+208608019:19,1972,107092415-1_68746,Monument,,0,,shp_3_31,0,0
+208608019:19,1972,107092431-1_68763,Gare,,1,,shp_3_141,0,0
+208608019:19,1972,107092432-1_68764,Gare,,1,,shp_3_106,0,0
+208608019:19,1972,107092433-1_68765,Gare,,1,,shp_3_81,0,0
+208608019:19,1972,107092434-1_68766,Gare,,1,,shp_3_143,0,0
+208608019:19,1972,107092435-1_68767,Gare,,1,,shp_3_155,0,0
+208608019:19,892,107092436-1_68747,Place Berne Bellecourt,,0,,shp_3_121,0,0
+208608019:19,892,107092437-1_68748,Villeflambeau,,0,,shp_3_83,0,0
+208608019:19,1972,107092438-1_68749,Place Berne Bellecourt,,0,,shp_3_121,0,0
+208608019:19,1972,107092439-1_68750,Villeflambeau,,0,,shp_3_83,0,0
+208608019:19,2515,107092537-1_68768,Lepesme,,1,,shp_3_145,0,0
+208608019:19,2515,107092538-1_68751,Monument,,0,,shp_3_37,0,0
