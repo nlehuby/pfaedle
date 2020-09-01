@@ -28,7 +28,7 @@ before_script:
 
 script:
   - cd ..
-  - wget https://github.com/nlehuby/curly-memory/raw/gh-pages/118.zip --output-document=gtfs.zip && unzip gtfs.zip
+  - wget https://github.com/nlehuby/curly-memory/raw/gh-pages/372.zip --output-document=gtfs.zip && unzip gtfs.zip
   - wget http://download.geofabrik.de/europe/france/ile-de-france-latest.osm.bz2 --output-document=data.osm.bz2 && bunzip2 data.osm.bz2
   - pfaedle -D -x data.osm .
   - head trips.txt
